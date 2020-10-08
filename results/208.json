@@ -1,0 +1,37 @@
+{
+ "draw_no": 208,
+ "numbers": [
+  14,
+  25,
+  31,
+  34,
+  40,
+  44
+ ],
+ "bonus_no": 24,
+ "date": "2006-11-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1760767400,
+   "winners": 6
+  },
+  {
+   "prize": 51787277,
+   "winners": 34
+  },
+  {
+   "prize": 1438536,
+   "winners": 1224
+  },
+  {
+   "prize": 54787,
+   "winners": 64277
+  },
+  {
+   "prize": 5000,
+   "winners": 1030103
+  }
+ ],
+ "total_sales_amount": 45516378000,
+ "winners_combination": {}
+}

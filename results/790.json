@@ -1,0 +1,41 @@
+{
+ "draw_no": 790,
+ "numbers": [
+  3,
+  8,
+  19,
+  27,
+  30,
+  41
+ ],
+ "bonus_no": 12,
+ "date": "2018-01-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1160516274,
+   "winners": 16
+  },
+  {
+   "prize": 52452713,
+   "winners": 59
+  },
+  {
+   "prize": 1280394,
+   "winners": 2417
+  },
+  {
+   "prize": 50000,
+   "winners": 113336
+  },
+  {
+   "prize": 5000,
+   "winners": 1812992
+  }
+ ],
+ "total_sales_amount": 78978881000,
+ "winners_combination": {
+  "auto": 4,
+  "semi_auto": 1,
+  "manual": 11
+ }
+}

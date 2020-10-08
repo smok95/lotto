@@ -1,0 +1,41 @@
+{
+ "draw_no": 876,
+ "numbers": [
+  5,
+  16,
+  21,
+  26,
+  34,
+  42
+ ],
+ "bonus_no": 24,
+ "date": "2019-09-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1090657856,
+   "winners": 19
+  },
+  {
+   "prize": 58538134,
+   "winners": 59
+  },
+  {
+   "prize": 1423054,
+   "winners": 2427
+  },
+  {
+   "prize": 50000,
+   "winners": 112619
+  },
+  {
+   "prize": 5000,
+   "winners": 1856647
+  }
+ ],
+ "total_sales_amount": 85088368000,
+ "winners_combination": {
+  "auto": 13,
+  "semi_auto": 1,
+  "manual": 5
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 861,
+ "numbers": [
+  11,
+  17,
+  19,
+  21,
+  22,
+  25
+ ],
+ "bonus_no": 24,
+ "date": "2019-06-01T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4872108844,
+   "winners": 4
+  },
+  {
+   "prize": 49970348,
+   "winners": 65
+  },
+  {
+   "prize": 1439749,
+   "winners": 2256
+  },
+  {
+   "prize": 50000,
+   "winners": 108644
+  },
+  {
+   "prize": 5000,
+   "winners": 1819899
+  }
+ ],
+ "total_sales_amount": 81032551000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

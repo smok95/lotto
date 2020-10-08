@@ -1,0 +1,40 @@
+{
+ "draw_no": 799,
+ "numbers": [
+  12,
+  17,
+  23,
+  34,
+  42,
+  45
+ ],
+ "bonus_no": 33,
+ "date": "2018-03-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1826427225,
+   "winners": 10
+  },
+  {
+   "prize": 54357954,
+   "winners": 56
+  },
+  {
+   "prize": 1357737,
+   "winners": 2242
+  },
+  {
+   "prize": 50000,
+   "winners": 107519
+  },
+  {
+   "prize": 5000,
+   "winners": 1725236
+  }
+ ],
+ "total_sales_amount": 76708986000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 4
+ }
+}

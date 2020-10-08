@@ -1,0 +1,40 @@
+{
+ "draw_no": 646,
+ "numbers": [
+  2,
+  9,
+  24,
+  41,
+  43,
+  45
+ ],
+ "bonus_no": 30,
+ "date": "2015-04-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2215498393,
+   "winners": 7
+  },
+  {
+   "prize": 71798560,
+   "winners": 36
+  },
+  {
+   "prize": 1698258,
+   "winners": 1522
+  },
+  {
+   "prize": 50000,
+   "winners": 77400
+  },
+  {
+   "prize": 5000,
+   "winners": 1321212
+  }
+ ],
+ "total_sales_amount": 62308090000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

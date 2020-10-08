@@ -1,0 +1,40 @@
+{
+ "draw_no": 763,
+ "numbers": [
+  3,
+  8,
+  16,
+  32,
+  34,
+  43
+ ],
+ "bonus_no": 10,
+ "date": "2017-07-15T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2138130000,
+   "winners": 8
+  },
+  {
+   "prize": 63352000,
+   "winners": 45
+  },
+  {
+   "prize": 1412006,
+   "winners": 2019
+  },
+  {
+   "prize": 50000,
+   "winners": 94176
+  },
+  {
+   "prize": 5000,
+   "winners": 1562106
+  }
+ ],
+ "total_sales_amount": 70652100000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 4
+ }
+}

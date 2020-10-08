@@ -1,0 +1,37 @@
+{
+ "draw_no": 245,
+ "numbers": [
+  9,
+  11,
+  27,
+  31,
+  32,
+  38
+ ],
+ "bonus_no": 22,
+ "date": "2007-08-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1382583129,
+   "winners": 7
+  },
+  {
+   "prize": 46086105,
+   "winners": 35
+  },
+  {
+   "prize": 1477119,
+   "winners": 1092
+  },
+  {
+   "prize": 56159,
+   "winners": 57445
+  },
+  {
+   "prize": 5000,
+   "winners": 959435
+  }
+ ],
+ "total_sales_amount": 41854623000,
+ "winners_combination": {}
+}

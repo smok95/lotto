@@ -1,0 +1,41 @@
+{
+ "draw_no": 676,
+ "numbers": [
+  1,
+  8,
+  17,
+  34,
+  39,
+  45
+ ],
+ "bonus_no": 27,
+ "date": "2015-11-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1879726500,
+   "winners": 8
+  },
+  {
+   "prize": 39782572,
+   "winners": 63
+  },
+  {
+   "prize": 1505287,
+   "winners": 1665
+  },
+  {
+   "prize": 50000,
+   "winners": 83276
+  },
+  {
+   "prize": 5000,
+   "winners": 1371921
+  }
+ ],
+ "total_sales_amount": 62147642000,
+ "winners_combination": {
+  "auto": 5,
+  "semi_auto": 1,
+  "manual": 2
+ }
+}

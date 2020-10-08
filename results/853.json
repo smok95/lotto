@@ -1,0 +1,41 @@
+{
+ "draw_no": 853,
+ "numbers": [
+  2,
+  8,
+  23,
+  26,
+  27,
+  44
+ ],
+ "bonus_no": 13,
+ "date": "2019-04-06T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2885006786,
+   "winners": 7
+  },
+  {
+   "prize": 37398237,
+   "winners": 90
+  },
+  {
+   "prize": 1667910,
+   "winners": 2018
+  },
+  {
+   "prize": 50000,
+   "winners": 105158
+  },
+  {
+   "prize": 5000,
+   "winners": 1787511
+  }
+ ],
+ "total_sales_amount": 82244370000,
+ "winners_combination": {
+  "auto": 3,
+  "semi_auto": 1,
+  "manual": 3
+ }
+}

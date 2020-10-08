@@ -1,0 +1,41 @@
+{
+ "draw_no": 715,
+ "numbers": [
+  2,
+  7,
+  27,
+  33,
+  41,
+  44
+ ],
+ "bonus_no": 10,
+ "date": "2016-08-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2605510438,
+   "winners": 6
+  },
+  {
+   "prize": 42713286,
+   "winners": 61
+  },
+  {
+   "prize": 1391090,
+   "winners": 1873
+  },
+  {
+   "prize": 50000,
+   "winners": 90747
+  },
+  {
+   "prize": 5000,
+   "winners": 1503174
+  }
+ ],
+ "total_sales_amount": 65794607000,
+ "winners_combination": {
+  "auto": 4,
+  "semi_auto": 1,
+  "manual": 1
+ }
+}

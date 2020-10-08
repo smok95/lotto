@@ -1,0 +1,40 @@
+{
+ "draw_no": 302,
+ "numbers": [
+  13,
+  19,
+  20,
+  32,
+  38,
+  42
+ ],
+ "bonus_no": 4,
+ "date": "2008-09-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 5472167250,
+   "winners": 2
+  },
+  {
+   "prize": 41455813,
+   "winners": 44
+  },
+  {
+   "prize": 1608515,
+   "winners": 1134
+  },
+  {
+   "prize": 61360,
+   "winners": 59455
+  },
+  {
+   "prize": 5000,
+   "winners": 990149
+  }
+ ],
+ "total_sales_amount": 46382605000,
+ "winners_combination": {
+  "auto": 1,
+  "manual": 1
+ }
+}

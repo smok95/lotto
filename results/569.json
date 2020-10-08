@@ -1,0 +1,40 @@
+{
+ "draw_no": 569,
+ "numbers": [
+  3,
+  6,
+  13,
+  23,
+  24,
+  35
+ ],
+ "bonus_no": 1,
+ "date": "2013-10-26T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3467925188,
+   "winners": 4
+  },
+  {
+   "prize": 64220837,
+   "winners": 36
+  },
+  {
+   "prize": 1355188,
+   "winners": 1706
+  },
+  {
+   "prize": 50000,
+   "winners": 81582
+  },
+  {
+   "prize": 5000,
+   "winners": 1329250
+  }
+ ],
+ "total_sales_amount": 58441902000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

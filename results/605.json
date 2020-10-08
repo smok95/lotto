@@ -1,0 +1,40 @@
+{
+ "draw_no": 605,
+ "numbers": [
+  1,
+  2,
+  7,
+  9,
+  10,
+  38
+ ],
+ "bonus_no": 42,
+ "date": "2014-07-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1394232250,
+   "winners": 9
+  },
+  {
+   "prize": 52283710,
+   "winners": 40
+  },
+  {
+   "prize": 914851,
+   "winners": 2286
+  },
+  {
+   "prize": 50000,
+   "winners": 92980
+  },
+  {
+   "prize": 5000,
+   "winners": 1386335
+  }
+ ],
+ "total_sales_amount": 56622924000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 3
+ }
+}

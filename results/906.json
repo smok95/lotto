@@ -1,0 +1,39 @@
+{
+ "draw_no": 906,
+ "numbers": [
+  2,
+  5,
+  14,
+  28,
+  31,
+  32
+ ],
+ "bonus_no": 20,
+ "date": "2020-04-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2472607250,
+   "winners": 9
+  },
+  {
+   "prize": 58871602,
+   "winners": 63
+  },
+  {
+   "prize": 1565602,
+   "winners": 2369
+  },
+  {
+   "prize": 50000,
+   "winners": 117171
+  },
+  {
+   "prize": 5000,
+   "winners": 1988860
+  }
+ ],
+ "total_sales_amount": 90948274000,
+ "winners_combination": {
+  "auto": 9
+ }
+}

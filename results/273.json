@@ -1,0 +1,40 @@
+{
+ "draw_no": 273,
+ "numbers": [
+  1,
+  8,
+  24,
+  31,
+  34,
+  44
+ ],
+ "bonus_no": 6,
+ "date": "2008-02-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3339543100,
+   "winners": 3
+  },
+  {
+   "prize": 79512931,
+   "winners": 21
+  },
+  {
+   "prize": 1523515,
+   "winners": 1096
+  },
+  {
+   "prize": 59431,
+   "winners": 56192
+  },
+  {
+   "prize": 5000,
+   "winners": 942078
+  }
+ ],
+ "total_sales_amount": 42816211000,
+ "winners_combination": {
+  "auto": 2,
+  "manual": 1
+ }
+}

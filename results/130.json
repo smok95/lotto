@@ -1,0 +1,37 @@
+{
+ "draw_no": 130,
+ "numbers": [
+  7,
+  19,
+  24,
+  27,
+  42,
+  45
+ ],
+ "bonus_no": 31,
+ "date": "2005-05-28T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3036496650,
+   "winners": 4
+  },
+  {
+   "prize": 67477704,
+   "winners": 30
+  },
+  {
+   "prize": 1590206,
+   "winners": 1273
+  },
+  {
+   "prize": 63672,
+   "winners": 63587
+  },
+  {
+   "prize": 5000,
+   "winners": 1087239
+  }
+ ],
+ "total_sales_amount": 51359012000,
+ "winners_combination": {}
+}

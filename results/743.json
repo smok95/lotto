@@ -1,0 +1,40 @@
+{
+ "draw_no": 743,
+ "numbers": [
+  15,
+  19,
+  21,
+  34,
+  41,
+  44
+ ],
+ "bonus_no": 10,
+ "date": "2017-02-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2608641000,
+   "winners": 7
+  },
+  {
+   "prize": 66161185,
+   "winners": 46
+  },
+  {
+   "prize": 1535527,
+   "winners": 1982
+  },
+  {
+   "prize": 50000,
+   "winners": 91886
+  },
+  {
+   "prize": 5000,
+   "winners": 1555362
+  }
+ ],
+ "total_sales_amount": 73436852000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 2
+ }
+}

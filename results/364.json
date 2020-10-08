@@ -1,0 +1,40 @@
+{
+ "draw_no": 364,
+ "numbers": [
+  2,
+  5,
+  7,
+  14,
+  16,
+  40
+ ],
+ "bonus_no": 4,
+ "date": "2009-11-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2531914800,
+   "winners": 4
+  },
+  {
+   "prize": 45620087,
+   "winners": 37
+  },
+  {
+   "prize": 1340702,
+   "winners": 1259
+  },
+  {
+   "prize": 53421,
+   "winners": 63195
+  },
+  {
+   "prize": 5000,
+   "winners": 1043314
+  }
+ ],
+ "total_sales_amount": 44192004000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

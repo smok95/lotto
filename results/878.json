@@ -1,0 +1,40 @@
+{
+ "draw_no": 878,
+ "numbers": [
+  2,
+  6,
+  11,
+  16,
+  25,
+  31
+ ],
+ "bonus_no": 3,
+ "date": "2019-09-28T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3207993500,
+   "winners": 6
+  },
+  {
+   "prize": 46492660,
+   "winners": 69
+  },
+  {
+   "prize": 1079769,
+   "winners": 2971
+  },
+  {
+   "prize": 50000,
+   "winners": 129139
+  },
+  {
+   "prize": 5000,
+   "winners": 1994188
+  }
+ ],
+ "total_sales_amount": 84183676000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 1
+ }
+}

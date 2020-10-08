@@ -1,0 +1,40 @@
+{
+ "draw_no": 338,
+ "numbers": [
+  2,
+  13,
+  34,
+  38,
+  42,
+  45
+ ],
+ "bonus_no": 16,
+ "date": "2009-05-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3383431000,
+   "winners": 3
+  },
+  {
+   "prize": 43377321,
+   "winners": 39
+  },
+  {
+   "prize": 1506426,
+   "winners": 1123
+  },
+  {
+   "prize": 62091,
+   "winners": 54492
+  },
+  {
+   "prize": 5000,
+   "winners": 930171
+  }
+ ],
+ "total_sales_amount": 43136020000,
+ "winners_combination": {
+  "auto": 2,
+  "manual": 1
+ }
+}

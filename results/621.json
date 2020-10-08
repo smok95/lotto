@@ -1,0 +1,40 @@
+{
+ "draw_no": 621,
+ "numbers": [
+  1,
+  2,
+  6,
+  16,
+  19,
+  42
+ ],
+ "bonus_no": 9,
+ "date": "2014-10-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2359723500,
+   "winners": 6
+  },
+  {
+   "prize": 38060057,
+   "winners": 62
+  },
+  {
+   "prize": 1517508,
+   "winners": 1555
+  },
+  {
+   "prize": 50000,
+   "winners": 82843
+  },
+  {
+   "prize": 5000,
+   "winners": 1336734
+  }
+ ],
+ "total_sales_amount": 59407216000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 2
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 746,
+ "numbers": [
+  3,
+  12,
+  33,
+  36,
+  42,
+  45
+ ],
+ "bonus_no": 25,
+ "date": "2017-03-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2038623709,
+   "winners": 9
+  },
+  {
+   "prize": 52723027,
+   "winners": 58
+  },
+  {
+   "prize": 1606059,
+   "winners": 1904
+  },
+  {
+   "prize": 50000,
+   "winners": 94197
+  },
+  {
+   "prize": 5000,
+   "winners": 1589291
+  }
+ ],
+ "total_sales_amount": 74239579000,
+ "winners_combination": {
+  "auto": 8,
+  "semi_auto": 1
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 316,
+ "numbers": [
+  10,
+  11,
+  21,
+  27,
+  31,
+  39
+ ],
+ "bonus_no": 43,
+ "date": "2008-12-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1673586400,
+   "winners": 6
+  },
+  {
+   "prize": 57709876,
+   "winners": 29
+  },
+  {
+   "prize": 1197130,
+   "winners": 1398
+  },
+  {
+   "prize": 48967,
+   "winners": 68356
+  },
+  {
+   "prize": 5000,
+   "winners": 1060204
+  }
+ ],
+ "total_sales_amount": 44073768000,
+ "winners_combination": {
+  "auto": 2,
+  "manual": 4
+ }
+}

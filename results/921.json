@@ -1,0 +1,40 @@
+{
+ "draw_no": 921,
+ "numbers": [
+  5,
+  7,
+  12,
+  22,
+  28,
+  41
+ ],
+ "bonus_no": 1,
+ "date": "2020-07-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1232573405,
+   "winners": 17
+  },
+  {
+   "prize": 48504047,
+   "winners": 72
+  },
+  {
+   "prize": 1302123,
+   "winners": 2682
+  },
+  {
+   "prize": 50000,
+   "winners": 129993
+  },
+  {
+   "prize": 5000,
+   "winners": 2101238
+  }
+ ],
+ "total_sales_amount": 89888341000,
+ "winners_combination": {
+  "auto": 16,
+  "manual": 1
+ }
+}

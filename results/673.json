@@ -1,0 +1,41 @@
+{
+ "draw_no": 673,
+ "numbers": [
+  7,
+  10,
+  17,
+  29,
+  33,
+  44
+ ],
+ "bonus_no": 5,
+ "date": "2015-10-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1491453300,
+   "winners": 10
+  },
+  {
+   "prize": 71021586,
+   "winners": 35
+  },
+  {
+   "prize": 1333560,
+   "winners": 1864
+  },
+  {
+   "prize": 50000,
+   "winners": 88838
+  },
+  {
+   "prize": 5000,
+   "winners": 1450769
+  }
+ ],
+ "total_sales_amount": 63163578000,
+ "winners_combination": {
+  "auto": 5,
+  "semi_auto": 1,
+  "manual": 4
+ }
+}

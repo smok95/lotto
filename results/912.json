@@ -1,0 +1,41 @@
+{
+ "draw_no": 912,
+ "numbers": [
+  5,
+  8,
+  18,
+  21,
+  22,
+  38
+ ],
+ "bonus_no": 10,
+ "date": "2020-05-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1493500581,
+   "winners": 14
+  },
+  {
+   "prize": 49783353,
+   "winners": 70
+  },
+  {
+   "prize": 1368212,
+   "winners": 2547
+  },
+  {
+   "prize": 50000,
+   "winners": 125332
+  },
+  {
+   "prize": 5000,
+   "winners": 2030860
+  }
+ ],
+ "total_sales_amount": 88599155000,
+ "winners_combination": {
+  "auto": 7,
+  "semi_auto": 2,
+  "manual": 5
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "draw_no": 697,
+ "numbers": [
+  2,
+  5,
+  8,
+  11,
+  33,
+  39
+ ],
+ "bonus_no": 31,
+ "date": "2016-04-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1531443038,
+   "winners": 10
+  },
+  {
+   "prize": 28360057,
+   "winners": 90
+  },
+  {
+   "prize": 1315673,
+   "winners": 1940
+  },
+  {
+   "prize": 50000,
+   "winners": 99698
+  },
+  {
+   "prize": 5000,
+   "winners": 1615786
+  }
+ ],
+ "total_sales_amount": 66966141000,
+ "winners_combination": {
+  "auto": 7,
+  "semi_auto": 1,
+  "manual": 2
+ }
+}

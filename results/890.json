@@ -1,0 +1,39 @@
+{
+ "draw_no": 890,
+ "numbers": [
+  1,
+  4,
+  14,
+  18,
+  29,
+  37
+ ],
+ "bonus_no": 6,
+ "date": "2019-12-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2335486167,
+   "winners": 9
+  },
+  {
+   "prize": 60400505,
+   "winners": 58
+  },
+  {
+   "prize": 1474424,
+   "winners": 2376
+  },
+  {
+   "prize": 50000,
+   "winners": 114859
+  },
+  {
+   "prize": 5000,
+   "winners": 1915593
+  }
+ ],
+ "total_sales_amount": 86693498000,
+ "winners_combination": {
+  "auto": 9
+ }
+}

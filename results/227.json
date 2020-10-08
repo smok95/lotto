@@ -1,0 +1,37 @@
+{
+ "draw_no": 227,
+ "numbers": [
+  4,
+  5,
+  15,
+  16,
+  22,
+  42
+ ],
+ "bonus_no": 2,
+ "date": "2007-04-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 5253542400,
+   "winners": 2
+  },
+  {
+   "prize": 72965867,
+   "winners": 24
+  },
+  {
+   "prize": 1587653,
+   "winners": 1103
+  },
+  {
+   "prize": 61811,
+   "winners": 56663
+  },
+  {
+   "prize": 5000,
+   "winners": 942116
+  }
+ ],
+ "total_sales_amount": 44444776000,
+ "winners_combination": {}
+}

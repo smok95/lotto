@@ -1,0 +1,40 @@
+{
+ "draw_no": 466,
+ "numbers": [
+  4,
+  10,
+  13,
+  23,
+  32,
+  44
+ ],
+ "bonus_no": 20,
+ "date": "2011-11-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1530313459,
+   "winners": 9
+  },
+  {
+   "prize": 41735822,
+   "winners": 55
+  },
+  {
+   "prize": 1314703,
+   "winners": 1746
+  },
+  {
+   "prize": 50000,
+   "winners": 83132
+  },
+  {
+   "prize": 5000,
+   "winners": 1327403
+  }
+ ],
+ "total_sales_amount": 58314753000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 3
+ }
+}

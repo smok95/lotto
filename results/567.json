@@ -1,0 +1,40 @@
+{
+ "draw_no": 567,
+ "numbers": [
+  1,
+  10,
+  15,
+  16,
+  32,
+  41
+ ],
+ "bonus_no": 28,
+ "date": "2013-10-12T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2318659438,
+   "winners": 6
+  },
+  {
+   "prize": 43748292,
+   "winners": 53
+  },
+  {
+   "prize": 1498811,
+   "winners": 1547
+  },
+  {
+   "prize": 50000,
+   "winners": 76284
+  },
+  {
+   "prize": 5000,
+   "winners": 1271252
+  }
+ ],
+ "total_sales_amount": 57439471000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 3
+ }
+}

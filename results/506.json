@@ -1,0 +1,40 @@
+{
+ "draw_no": 506,
+ "numbers": [
+  6,
+  9,
+  11,
+  22,
+  24,
+  30
+ ],
+ "bonus_no": 31,
+ "date": "2012-08-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4073333875,
+   "winners": 3
+  },
+  {
+   "prize": 61717180,
+   "winners": 33
+  },
+  {
+   "prize": 1282536,
+   "winners": 1588
+  },
+  {
+   "prize": 50000,
+   "winners": 75289
+  },
+  {
+   "prize": 5000,
+   "winners": 1224774
+  }
+ ],
+ "total_sales_amount": 52363311000,
+ "winners_combination": {
+  "auto": 2,
+  "manual": 1
+ }
+}

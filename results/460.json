@@ -1,0 +1,39 @@
+{
+ "draw_no": 460,
+ "numbers": [
+  8,
+  11,
+  28,
+  30,
+  43,
+  45
+ ],
+ "bonus_no": 41,
+ "date": "2011-09-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3180895782,
+   "winners": 4
+  },
+  {
+   "prize": 70686573,
+   "winners": 30
+  },
+  {
+   "prize": 1622493,
+   "winners": 1307
+  },
+  {
+   "prize": 50000,
+   "winners": 66799
+  },
+  {
+   "prize": 5000,
+   "winners": 1130818
+  }
+ ],
+ "total_sales_amount": 51917635000,
+ "winners_combination": {
+  "auto": 4
+ }
+}

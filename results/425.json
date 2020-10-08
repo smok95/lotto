@@ -1,0 +1,40 @@
+{
+ "draw_no": 425,
+ "numbers": [
+  8,
+  10,
+  14,
+  27,
+  33,
+  38
+ ],
+ "bonus_no": 3,
+ "date": "2011-01-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1534833000,
+   "winners": 8
+  },
+  {
+   "prize": 49913269,
+   "winners": 41
+  },
+  {
+   "prize": 1577829,
+   "winners": 1297
+  },
+  {
+   "prize": 50000,
+   "winners": 66071
+  },
+  {
+   "prize": 5000,
+   "winners": 1110949
+  }
+ ],
+ "total_sales_amount": 50459694000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

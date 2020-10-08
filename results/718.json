@@ -1,0 +1,40 @@
+{
+ "draw_no": 718,
+ "numbers": [
+  4,
+  11,
+  20,
+  23,
+  32,
+  39
+ ],
+ "bonus_no": 40,
+ "date": "2016-09-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 926166464,
+   "winners": 17
+  },
+  {
+   "prize": 41002162,
+   "winners": 64
+  },
+  {
+   "prize": 1091572,
+   "winners": 2404
+  },
+  {
+   "prize": 50000,
+   "winners": 114614
+  },
+  {
+   "prize": 5000,
+   "winners": 1595315
+  }
+ ],
+ "total_sales_amount": 69400763000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 10
+ }
+}

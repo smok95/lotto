@@ -1,0 +1,40 @@
+{
+ "draw_no": 304,
+ "numbers": [
+  4,
+  10,
+  16,
+  26,
+  33,
+  41
+ ],
+ "bonus_no": 38,
+ "date": "2008-09-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1661646150,
+   "winners": 6
+  },
+  {
+   "prize": 44909356,
+   "winners": 37
+  },
+  {
+   "prize": 1165250,
+   "winners": 1426
+  },
+  {
+   "prize": 53519,
+   "winners": 62096
+  },
+  {
+   "prize": 5000,
+   "winners": 992573
+  }
+ ],
+ "total_sales_amount": 43158653000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 3
+ }
+}

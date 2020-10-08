@@ -1,0 +1,40 @@
+{
+ "draw_no": 312,
+ "numbers": [
+  2,
+  3,
+  5,
+  6,
+  12,
+  20
+ ],
+ "bonus_no": 25,
+ "date": "2008-11-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 629017820,
+   "winners": 15
+  },
+  {
+   "prize": 27112838,
+   "winners": 58
+  },
+  {
+   "prize": 761892,
+   "winners": 2064
+  },
+  {
+   "prize": 34211,
+   "winners": 91934
+  },
+  {
+   "prize": 5000,
+   "winners": 1080450
+  }
+ ],
+ "total_sales_amount": 42255391000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 12
+ }
+}

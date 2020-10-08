@@ -1,0 +1,40 @@
+{
+ "draw_no": 633,
+ "numbers": [
+  9,
+  12,
+  19,
+  20,
+  39,
+  41
+ ],
+ "bonus_no": 13,
+ "date": "2015-01-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1217257094,
+   "winners": 12
+  },
+  {
+   "prize": 51798175,
+   "winners": 47
+  },
+  {
+   "prize": 1360825,
+   "winners": 1789
+  },
+  {
+   "prize": 50000,
+   "winners": 87613
+  },
+  {
+   "prize": 5000,
+   "winners": 1430227
+  }
+ ],
+ "total_sales_amount": 62015797000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 4
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "draw_no": 860,
+ "numbers": [
+  4,
+  8,
+  18,
+  25,
+  27,
+  32
+ ],
+ "bonus_no": 42,
+ "date": "2019-05-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1879899825,
+   "winners": 10
+  },
+  {
+   "prize": 50534942,
+   "winners": 62
+  },
+  {
+   "prize": 1339533,
+   "winners": 2339
+  },
+  {
+   "prize": 50000,
+   "winners": 128867
+  },
+  {
+   "prize": 5000,
+   "winners": 1882931
+  }
+ ],
+ "total_sales_amount": 81846672000,
+ "winners_combination": {
+  "auto": 6,
+  "semi_auto": 1,
+  "manual": 3
+ }
+}

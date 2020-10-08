@@ -1,0 +1,40 @@
+{
+ "draw_no": 655,
+ "numbers": [
+  7,
+  37,
+  38,
+  39,
+  40,
+  44
+ ],
+ "bonus_no": 18,
+ "date": "2015-06-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1661439625,
+   "winners": 9
+  },
+  {
+   "prize": 60784377,
+   "winners": 41
+  },
+  {
+   "prize": 1547926,
+   "winners": 1610
+  },
+  {
+   "prize": 50000,
+   "winners": 77437
+  },
+  {
+   "prize": 5000,
+   "winners": 1281655
+  }
+ ],
+ "total_sales_amount": 60434801000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 2
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 858,
+ "numbers": [
+  9,
+  13,
+  32,
+  38,
+  39,
+  43
+ ],
+ "bonus_no": 23,
+ "date": "2019-05-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2202347459,
+   "winners": 9
+  },
+  {
+   "prize": 80573688,
+   "winners": 41
+  },
+  {
+   "prize": 1592059,
+   "winners": 2075
+  },
+  {
+   "prize": 50000,
+   "winners": 106176
+  },
+  {
+   "prize": 5000,
+   "winners": 1789295
+  }
+ ],
+ "total_sales_amount": 81366889000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 1
+ }
+}

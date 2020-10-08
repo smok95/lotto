@@ -1,0 +1,40 @@
+{
+ "draw_no": 339,
+ "numbers": [
+  6,
+  8,
+  14,
+  21,
+  30,
+  37
+ ],
+ "bonus_no": 45,
+ "date": "2009-05-30T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1096778334,
+   "winners": 9
+  },
+  {
+   "prize": 51411485,
+   "winners": 32
+  },
+  {
+   "prize": 1486150,
+   "winners": 1107
+  },
+  {
+   "prize": 60324,
+   "winners": 54545
+  },
+  {
+   "prize": 5000,
+   "winners": 913229
+  }
+ ],
+ "total_sales_amount": 42035640000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 1
+ }
+}

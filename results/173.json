@@ -1,0 +1,37 @@
+{
+ "draw_no": 173,
+ "numbers": [
+  3,
+  9,
+  24,
+  30,
+  33,
+  34
+ ],
+ "bonus_no": 18,
+ "date": "2006-03-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1487736788,
+   "winners": 8
+  },
+  {
+   "prize": 31486493,
+   "winners": 63
+  },
+  {
+   "prize": 1369924,
+   "winners": 1448
+  },
+  {
+   "prize": 50637,
+   "winners": 78349
+  },
+  {
+   "prize": 5000,
+   "winners": 1261354
+  }
+ ],
+ "total_sales_amount": 52286521000,
+ "winners_combination": {}
+}

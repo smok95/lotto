@@ -1,0 +1,37 @@
+{
+ "draw_no": 210,
+ "numbers": [
+  10,
+  19,
+  22,
+  23,
+  25,
+  37
+ ],
+ "bonus_no": 39,
+ "date": "2006-12-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 5139085950,
+   "winners": 2
+  },
+  {
+   "prize": 37239754,
+   "winners": 46
+  },
+  {
+   "prize": 1319745,
+   "winners": 1298
+  },
+  {
+   "prize": 53262,
+   "winners": 64325
+  },
+  {
+   "prize": 5000,
+   "winners": 1049739
+  }
+ ],
+ "total_sales_amount": 44757963000,
+ "winners_combination": {}
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 482,
+ "numbers": [
+  1,
+  10,
+  16,
+  24,
+  25,
+  35
+ ],
+ "bonus_no": 43,
+ "date": "2012-02-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1897921179,
+   "winners": 7
+  },
+  {
+   "prize": 73808046,
+   "winners": 30
+  },
+  {
+   "prize": 1350971,
+   "winners": 1639
+  },
+  {
+   "prize": 50000,
+   "winners": 78522
+  },
+  {
+   "prize": 5000,
+   "winners": 1292139
+  }
+ ],
+ "total_sales_amount": 56201452000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 3
+ }
+}

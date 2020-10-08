@@ -1,0 +1,39 @@
+{
+ "draw_no": 275,
+ "numbers": [
+  14,
+  19,
+  20,
+  35,
+  38,
+  40
+ ],
+ "bonus_no": 26,
+ "date": "2008-03-08T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 10044066900,
+   "winners": 1
+  },
+  {
+   "prize": 88105850,
+   "winners": 19
+  },
+  {
+   "prize": 1689215,
+   "winners": 991
+  },
+  {
+   "prize": 64813,
+   "winners": 51657
+  },
+  {
+   "prize": 5000,
+   "winners": 884959
+  }
+ ],
+ "total_sales_amount": 42329813000,
+ "winners_combination": {
+  "auto": 1
+ }
+}

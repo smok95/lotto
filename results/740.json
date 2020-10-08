@@ -1,0 +1,41 @@
+{
+ "draw_no": 740,
+ "numbers": [
+  4,
+  8,
+  9,
+  16,
+  17,
+  19
+ ],
+ "bonus_no": 31,
+ "date": "2017-02-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 936929792,
+   "winners": 18
+  },
+  {
+   "prize": 65367195,
+   "winners": 43
+  },
+  {
+   "prize": 1148668,
+   "winners": 2447
+  },
+  {
+   "prize": 50000,
+   "winners": 115722
+  },
+  {
+   "prize": 5000,
+   "winners": 1864169
+  }
+ ],
+ "total_sales_amount": 75186520000,
+ "winners_combination": {
+  "auto": 12,
+  "semi_auto": 1,
+  "manual": 5
+ }
+}

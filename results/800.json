@@ -1,0 +1,41 @@
+{
+ "draw_no": 800,
+ "numbers": [
+  1,
+  4,
+  10,
+  12,
+  28,
+  45
+ ],
+ "bonus_no": 26,
+ "date": "2018-03-31T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1632246205,
+   "winners": 11
+  },
+  {
+   "prize": 58675518,
+   "winners": 51
+  },
+  {
+   "prize": 1373315,
+   "winners": 2179
+  },
+  {
+   "prize": 50000,
+   "winners": 110956
+  },
+  {
+   "prize": 5000,
+   "winners": 1801924
+  }
+ ],
+ "total_sales_amount": 76994062000,
+ "winners_combination": {
+  "auto": 7,
+  "semi_auto": 1,
+  "manual": 3
+ }
+}

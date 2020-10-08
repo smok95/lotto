@@ -1,0 +1,40 @@
+{
+ "draw_no": 345,
+ "numbers": [
+  15,
+  20,
+  23,
+  29,
+  39,
+  42
+ ],
+ "bonus_no": 2,
+ "date": "2009-07-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 5203577550,
+   "winners": 2
+  },
+  {
+   "prize": 45645418,
+   "winners": 38
+  },
+  {
+   "prize": 1687282,
+   "winners": 1028
+  },
+  {
+   "prize": 68394,
+   "winners": 50722
+  },
+  {
+   "prize": 5000,
+   "winners": 884042
+  }
+ ],
+ "total_sales_amount": 43530937000,
+ "winners_combination": {
+  "auto": 1,
+  "manual": 1
+ }
+}

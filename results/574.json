@@ -1,0 +1,39 @@
+{
+ "draw_no": 574,
+ "numbers": [
+  14,
+  15,
+  16,
+  19,
+  25,
+  43
+ ],
+ "bonus_no": 2,
+ "date": "2013-11-30T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 6965184938,
+   "winners": 2
+  },
+  {
+   "prize": 70355404,
+   "winners": 33
+  },
+  {
+   "prize": 1844106,
+   "winners": 1259
+  },
+  {
+   "prize": 50000,
+   "winners": 68910
+  },
+  {
+   "prize": 5000,
+   "winners": 1184428
+  }
+ ],
+ "total_sales_amount": 55882933000,
+ "winners_combination": {
+  "auto": 2
+ }
+}

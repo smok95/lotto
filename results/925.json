@@ -1,0 +1,41 @@
+{
+ "draw_no": 925,
+ "numbers": [
+  13,
+  24,
+  32,
+  34,
+  39,
+  42
+ ],
+ "bonus_no": 4,
+ "date": "2020-08-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1771080532,
+   "winners": 12
+  },
+  {
+   "prize": 52090604,
+   "winners": 68
+  },
+  {
+   "prize": 1516986,
+   "winners": 2335
+  },
+  {
+   "prize": 50000,
+   "winners": 117863
+  },
+  {
+   "prize": 5000,
+   "winners": 1944019
+  }
+ ],
+ "total_sales_amount": 87901067000,
+ "winners_combination": {
+  "auto": 8,
+  "semi_auto": 1,
+  "manual": 3
+ }
+}

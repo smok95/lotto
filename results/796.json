@@ -1,0 +1,39 @@
+{
+ "draw_no": 796,
+ "numbers": [
+  1,
+  21,
+  26,
+  36,
+  40,
+  41
+ ],
+ "bonus_no": 5,
+ "date": "2018-03-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2763490340,
+   "winners": 7
+  },
+  {
+   "prize": 70088524,
+   "winners": 46
+  },
+  {
+   "prize": 1678331,
+   "winners": 1921
+  },
+  {
+   "prize": 50000,
+   "winners": 96701
+  },
+  {
+   "prize": 5000,
+   "winners": 1643069
+  }
+ ],
+ "total_sales_amount": 77685943000,
+ "winners_combination": {
+  "auto": 7
+ }
+}

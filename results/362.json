@@ -1,0 +1,39 @@
+{
+ "draw_no": 362,
+ "numbers": [
+  2,
+  3,
+  22,
+  27,
+  30,
+  40
+ ],
+ "bonus_no": 29,
+ "date": "2009-11-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1729424650,
+   "winners": 6
+  },
+  {
+   "prize": 66516333,
+   "winners": 26
+  },
+  {
+   "prize": 1474361,
+   "winners": 1173
+  },
+  {
+   "prize": 60898,
+   "winners": 56798
+  },
+  {
+   "prize": 5000,
+   "winners": 974787
+  }
+ ],
+ "total_sales_amount": 44336363000,
+ "winners_combination": {
+  "auto": 6
+ }
+}

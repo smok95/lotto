@@ -1,0 +1,37 @@
+{
+ "draw_no": 113,
+ "numbers": [
+  4,
+  9,
+  28,
+  33,
+  36,
+  45
+ ],
+ "bonus_no": 26,
+ "date": "2005-01-29T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1561528934,
+   "winners": 9
+  },
+  {
+   "prize": 54471940,
+   "winners": 43
+  },
+  {
+   "prize": 1583701,
+   "winners": 1479
+  },
+  {
+   "prize": 64428,
+   "winners": 72711
+  },
+  {
+   "prize": 5000,
+   "winners": 1241238
+  }
+ ],
+ "total_sales_amount": 59258248000,
+ "winners_combination": {}
+}

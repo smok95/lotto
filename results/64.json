@@ -1,0 +1,37 @@
+{
+ "draw_no": 64,
+ "numbers": [
+  14,
+  15,
+  18,
+  21,
+  26,
+  36
+ ],
+ "bonus_no": 39,
+ "date": "2004-02-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3899818000,
+   "winners": 4
+  },
+  {
+   "prize": 236352600,
+   "winners": 11
+  },
+  {
+   "prize": 3993600,
+   "winners": 651
+  },
+  {
+   "prize": 140000,
+   "winners": 37117
+  },
+  {
+   "prize": 10000,
+   "winners": 654379
+  }
+ ],
+ "total_sales_amount": 65085154000,
+ "winners_combination": {}
+}

@@ -1,0 +1,37 @@
+{
+ "draw_no": 6,
+ "numbers": [
+  14,
+  15,
+  26,
+  27,
+  40,
+  42
+ ],
+ "bonus_no": 34,
+ "date": "2003-01-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 6574451700,
+   "winners": 1
+  },
+  {
+   "prize": 196297600,
+   "winners": 3
+  },
+  {
+   "prize": 4267300,
+   "winners": 138
+  },
+  {
+   "prize": 87600,
+   "winners": 13445
+  },
+  {
+   "prize": 10000,
+   "winners": 176375
+  }
+ ],
+ "total_sales_amount": 15305356000,
+ "winners_combination": {}
+}

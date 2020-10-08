@@ -1,0 +1,40 @@
+{
+ "draw_no": 554,
+ "numbers": [
+  13,
+  14,
+  17,
+  32,
+  41,
+  42
+ ],
+ "bonus_no": 6,
+ "date": "2013-07-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 6813893625,
+   "winners": 2
+  },
+  {
+   "prize": 55397510,
+   "winners": 41
+  },
+  {
+   "prize": 1530525,
+   "winners": 1484
+  },
+  {
+   "prize": 50000,
+   "winners": 74436
+  },
+  {
+   "prize": 5000,
+   "winners": 1234010
+  }
+ ],
+ "total_sales_amount": 56124466000,
+ "winners_combination": {
+  "auto": 1,
+  "manual": 1
+ }
+}

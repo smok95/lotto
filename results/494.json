@@ -1,0 +1,40 @@
+{
+ "draw_no": 494,
+ "numbers": [
+  5,
+  7,
+  8,
+  15,
+  30,
+  43
+ ],
+ "bonus_no": 22,
+ "date": "2012-05-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1054588407,
+   "winners": 12
+  },
+  {
+   "prize": 52729421,
+   "winners": 40
+  },
+  {
+   "prize": 1370486,
+   "winners": 1539
+  },
+  {
+   "prize": 50000,
+   "winners": 74174
+  },
+  {
+   "prize": 5000,
+   "winners": 1215736
+  }
+ ],
+ "total_sales_amount": 53321589000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 5
+ }
+}

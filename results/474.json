@@ -1,0 +1,40 @@
+{
+ "draw_no": 474,
+ "numbers": [
+  4,
+  13,
+  18,
+  31,
+  33,
+  45
+ ],
+ "bonus_no": 43,
+ "date": "2011-12-31T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 936690800,
+   "winners": 15
+  },
+  {
+   "prize": 48785980,
+   "winners": 48
+  },
+  {
+   "prize": 1347369,
+   "winners": 1738
+  },
+  {
+   "prize": 50000,
+   "winners": 81500
+  },
+  {
+   "prize": 5000,
+   "winners": 1336085
+  }
+ ],
+ "total_sales_amount": 58978482000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 9
+ }
+}

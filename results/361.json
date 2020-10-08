@@ -1,0 +1,40 @@
+{
+ "draw_no": 361,
+ "numbers": [
+  5,
+  10,
+  16,
+  24,
+  27,
+  35
+ ],
+ "bonus_no": 33,
+ "date": "2009-10-31T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1473115115,
+   "winners": 7
+  },
+  {
+   "prize": 50548068,
+   "winners": 34
+  },
+  {
+   "prize": 1174733,
+   "winners": 1463
+  },
+  {
+   "prize": 51039,
+   "winners": 67347
+  },
+  {
+   "prize": 5000,
+   "winners": 1068999
+  }
+ ],
+ "total_sales_amount": 45062676000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 2
+ }
+}

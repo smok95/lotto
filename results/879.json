@@ -1,0 +1,40 @@
+{
+ "draw_no": 879,
+ "numbers": [
+  1,
+  4,
+  10,
+  14,
+  15,
+  35
+ ],
+ "bonus_no": 20,
+ "date": "2019-10-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3206361313,
+   "winners": 6
+  },
+  {
+   "prize": 41641057,
+   "winners": 77
+  },
+  {
+   "prize": 1236069,
+   "winners": 2594
+  },
+  {
+   "prize": 50000,
+   "winners": 123497
+  },
+  {
+   "prize": 5000,
+   "winners": 1952277
+  }
+ ],
+ "total_sales_amount": 83174251000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 2
+ }
+}

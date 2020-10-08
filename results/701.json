@@ -1,0 +1,41 @@
+{
+ "draw_no": 701,
+ "numbers": [
+  3,
+  10,
+  14,
+  16,
+  36,
+  38
+ ],
+ "bonus_no": 35,
+ "date": "2016-05-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1583183175,
+   "winners": 10
+  },
+  {
+   "prize": 65965966,
+   "winners": 40
+  },
+  {
+   "prize": 1590500,
+   "winners": 1659
+  },
+  {
+   "prize": 50000,
+   "winners": 81917
+  },
+  {
+   "prize": 5000,
+   "winners": 1404422
+  }
+ ],
+ "total_sales_amount": 64454138000,
+ "winners_combination": {
+  "auto": 8,
+  "semi_auto": 1,
+  "manual": 1
+ }
+}

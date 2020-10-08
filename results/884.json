@@ -1,0 +1,40 @@
+{
+ "draw_no": 884,
+ "numbers": [
+  4,
+  14,
+  23,
+  28,
+  37,
+  45
+ ],
+ "bonus_no": 17,
+ "date": "2019-11-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1799077282,
+   "winners": 12
+  },
+  {
+   "prize": 48623711,
+   "winners": 74
+  },
+  {
+   "prize": 1630338,
+   "winners": 2207
+  },
+  {
+   "prize": 50000,
+   "winners": 108076
+  },
+  {
+   "prize": 5000,
+   "winners": 1817654
+  }
+ ],
+ "total_sales_amount": 86554613000,
+ "winners_combination": {
+  "auto": 10,
+  "manual": 2
+ }
+}

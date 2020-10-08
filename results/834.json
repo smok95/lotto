@@ -1,0 +1,40 @@
+{
+ "draw_no": 834,
+ "numbers": [
+  6,
+  8,
+  18,
+  35,
+  42,
+  43
+ ],
+ "bonus_no": 3,
+ "date": "2018-11-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1690693671,
+   "winners": 11
+  },
+  {
+   "prize": 65949044,
+   "winners": 47
+  },
+  {
+   "prize": 1575804,
+   "winners": 1967
+  },
+  {
+   "prize": 50000,
+   "winners": 99132
+  },
+  {
+   "prize": 5000,
+   "winners": 1643491
+  }
+ ],
+ "total_sales_amount": 75941791000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 4
+ }
+}

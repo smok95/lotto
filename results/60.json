@@ -1,0 +1,37 @@
+{
+ "draw_no": 60,
+ "numbers": [
+  2,
+  8,
+  25,
+  36,
+  39,
+  42
+ ],
+ "bonus_no": 11,
+ "date": "2004-01-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2172504600,
+   "winners": 7
+  },
+  {
+   "prize": 93873600,
+   "winners": 27
+  },
+  {
+   "prize": 2329500,
+   "winners": 1088
+  },
+  {
+   "prize": 110800,
+   "winners": 45712
+  },
+  {
+   "prize": 10000,
+   "winners": 735708
+  }
+ ],
+ "total_sales_amount": 65405936000,
+ "winners_combination": {}
+}

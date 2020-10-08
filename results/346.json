@@ -1,0 +1,40 @@
+{
+ "draw_no": 346,
+ "numbers": [
+  5,
+  13,
+  14,
+  22,
+  44,
+  45
+ ],
+ "bonus_no": 33,
+ "date": "2009-07-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2017727340,
+   "winners": 5
+  },
+  {
+   "prize": 64670749,
+   "winners": 26
+  },
+  {
+   "prize": 1467225,
+   "winners": 1146
+  },
+  {
+   "prize": 61695,
+   "winners": 54509
+  },
+  {
+   "prize": 5000,
+   "winners": 923360
+  }
+ ],
+ "total_sales_amount": 42862389000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 2
+ }
+}

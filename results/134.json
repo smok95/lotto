@@ -1,0 +1,37 @@
+{
+ "draw_no": 134,
+ "numbers": [
+  3,
+  12,
+  20,
+  23,
+  31,
+  35
+ ],
+ "bonus_no": 43,
+ "date": "2005-06-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2349155100,
+   "winners": 5
+  },
+  {
+   "prize": 39152585,
+   "winners": 50
+  },
+  {
+   "prize": 1366106,
+   "winners": 1433
+  },
+  {
+   "prize": 56175,
+   "winners": 69698
+  },
+  {
+   "prize": 5000,
+   "winners": 1129299
+  }
+ ],
+ "total_sales_amount": 50445575000,
+ "winners_combination": {}
+}

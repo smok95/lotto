@@ -1,0 +1,40 @@
+{
+ "draw_no": 926,
+ "numbers": [
+  10,
+  16,
+  18,
+  20,
+  25,
+  31
+ ],
+ "bonus_no": 6,
+ "date": "2020-08-29T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2032490663,
+   "winners": 10
+  },
+  {
+   "prize": 47048395,
+   "winners": 72
+  },
+  {
+   "prize": 1158907,
+   "winners": 2923
+  },
+  {
+   "prize": 50000,
+   "winners": 133167
+  },
+  {
+   "prize": 5000,
+   "winners": 2085580
+  }
+ ],
+ "total_sales_amount": 88372251000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 3
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "draw_no": 756,
+ "numbers": [
+  10,
+  14,
+  16,
+  18,
+  27,
+  28
+ ],
+ "bonus_no": 4,
+ "date": "2017-05-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3414434700,
+   "winners": 5
+  },
+  {
+   "prize": 53686081,
+   "winners": 53
+  },
+  {
+   "prize": 1524846,
+   "winners": 1866
+  },
+  {
+   "prize": 50000,
+   "winners": 94800
+  },
+  {
+   "prize": 5000,
+   "winners": 1598715
+  }
+ ],
+ "total_sales_amount": 70992946000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

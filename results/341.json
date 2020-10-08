@@ -1,0 +1,40 @@
+{
+ "draw_no": 341,
+ "numbers": [
+  1,
+  8,
+  19,
+  34,
+  39,
+  43
+ ],
+ "bonus_no": 41,
+ "date": "2009-06-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1497207772,
+   "winners": 7
+  },
+  {
+   "prize": 52931588,
+   "winners": 33
+  },
+  {
+   "prize": 1414367,
+   "winners": 1235
+  },
+  {
+   "prize": 59458,
+   "winners": 58756
+  },
+  {
+   "prize": 5000,
+   "winners": 978760
+  }
+ ],
+ "total_sales_amount": 44722448000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 4
+ }
+}

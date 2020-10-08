@@ -1,0 +1,37 @@
+{
+ "draw_no": 58,
+ "numbers": [
+  10,
+  24,
+  25,
+  33,
+  40,
+  44
+ ],
+ "bonus_no": 1,
+ "date": "2004-01-10T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3676429200,
+   "winners": 4
+  },
+  {
+   "prize": 62844900,
+   "winners": 39
+  },
+  {
+   "prize": 1859600,
+   "winners": 1318
+  },
+  {
+   "prize": 84200,
+   "winners": 58215
+  },
+  {
+   "prize": 10000,
+   "winners": 880954
+  }
+ ],
+ "total_sales_amount": 66638136000,
+ "winners_combination": {}
+}

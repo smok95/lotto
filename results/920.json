@@ -1,0 +1,40 @@
+{
+ "draw_no": 920,
+ "numbers": [
+  2,
+  3,
+  26,
+  33,
+  34,
+  43
+ ],
+ "bonus_no": 29,
+ "date": "2020-07-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3120260197,
+   "winners": 7
+  },
+  {
+   "prize": 68684973,
+   "winners": 53
+  },
+  {
+   "prize": 1550385,
+   "winners": 2348
+  },
+  {
+   "prize": 50000,
+   "winners": 117181
+  },
+  {
+   "prize": 5000,
+   "winners": 1984222
+  }
+ ],
+ "total_sales_amount": 89805177000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 3
+ }
+}

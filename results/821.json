@@ -1,0 +1,40 @@
+{
+ "draw_no": 821,
+ "numbers": [
+  1,
+  12,
+  13,
+  24,
+  29,
+  44
+ ],
+ "bonus_no": 16,
+ "date": "2018-08-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1316155956,
+   "winners": 14
+  },
+  {
+   "prize": 55836920,
+   "winners": 55
+  },
+  {
+   "prize": 1462396,
+   "winners": 2100
+  },
+  {
+   "prize": 50000,
+   "winners": 101082
+  },
+  {
+   "prize": 5000,
+   "winners": 1687355
+  }
+ ],
+ "total_sales_amount": 76118239000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 6
+ }
+}

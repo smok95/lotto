@@ -1,0 +1,40 @@
+{
+ "draw_no": 572,
+ "numbers": [
+  3,
+  13,
+  18,
+  33,
+  37,
+  45
+ ],
+ "bonus_no": 1,
+ "date": "2013-11-16T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1668216188,
+   "winners": 8
+  },
+  {
+   "prize": 41967703,
+   "winners": 53
+  },
+  {
+   "prize": 1282750,
+   "winners": 1734
+  },
+  {
+   "prize": 50000,
+   "winners": 81361
+  },
+  {
+   "prize": 5000,
+   "winners": 1274889
+  }
+ ],
+ "total_sales_amount": 56473602000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

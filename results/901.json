@@ -1,0 +1,41 @@
+{
+ "draw_no": 901,
+ "numbers": [
+  5,
+  18,
+  20,
+  23,
+  30,
+  34
+ ],
+ "bonus_no": 21,
+ "date": "2020-03-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2267974667,
+   "winners": 9
+  },
+  {
+   "prize": 50775553,
+   "winners": 67
+  },
+  {
+   "prize": 1473987,
+   "winners": 2308
+  },
+  {
+   "prize": 50000,
+   "winners": 114451
+  },
+  {
+   "prize": 5000,
+   "winners": 1890747
+  }
+ ],
+ "total_sales_amount": 84783962000,
+ "winners_combination": {
+  "auto": 3,
+  "semi_auto": 4,
+  "manual": 2
+ }
+}

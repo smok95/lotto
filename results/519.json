@@ -1,0 +1,39 @@
+{
+ "draw_no": 519,
+ "numbers": [
+  6,
+  8,
+  13,
+  16,
+  30,
+  43
+ ],
+ "bonus_no": 3,
+ "date": "2012-11-10T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1950601393,
+   "winners": 7
+  },
+  {
+   "prize": 71115676,
+   "winners": 32
+  },
+  {
+   "prize": 1677010,
+   "winners": 1357
+  },
+  {
+   "prize": 50000,
+   "winners": 71405
+  },
+  {
+   "prize": 5000,
+   "winners": 1206248
+  }
+ ],
+ "total_sales_amount": 55614206000,
+ "winners_combination": {
+  "auto": 7
+ }
+}

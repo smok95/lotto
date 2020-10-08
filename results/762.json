@@ -1,0 +1,40 @@
+{
+ "draw_no": 762,
+ "numbers": [
+  1,
+  3,
+  12,
+  21,
+  26,
+  41
+ ],
+ "bonus_no": 16,
+ "date": "2017-07-08T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1631432063,
+   "winners": 10
+  },
+  {
+   "prize": 51302896,
+   "winners": 53
+  },
+  {
+   "prize": 1330261,
+   "winners": 2044
+  },
+  {
+   "prize": 50000,
+   "winners": 103406
+  },
+  {
+   "prize": 5000,
+   "winners": 1671344
+  }
+ ],
+ "total_sales_amount": 70558895000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 6
+ }
+}

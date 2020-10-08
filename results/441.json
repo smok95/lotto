@@ -1,0 +1,39 @@
+{
+ "draw_no": 441,
+ "numbers": [
+  1,
+  23,
+  28,
+  30,
+  34,
+  35
+ ],
+ "bonus_no": 9,
+ "date": "2011-05-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3170417063,
+   "winners": 4
+  },
+  {
+   "prize": 50324081,
+   "winners": 42
+  },
+  {
+   "prize": 1875432,
+   "winners": 1127
+  },
+  {
+   "prize": 50000,
+   "winners": 60027
+  },
+  {
+   "prize": 5000,
+   "winners": 1045164
+  }
+ ],
+ "total_sales_amount": 50272122000,
+ "winners_combination": {
+  "auto": 4
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "draw_no": 813,
+ "numbers": [
+  11,
+  30,
+  34,
+  35,
+  42,
+  44
+ ],
+ "bonus_no": 27,
+ "date": "2018-06-30T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4591763157,
+   "winners": 4
+  },
+  {
+   "prize": 71190127,
+   "winners": 43
+  },
+  {
+   "prize": 1700654,
+   "winners": 1800
+  },
+  {
+   "prize": 50000,
+   "winners": 89323
+  },
+  {
+   "prize": 5000,
+   "winners": 1548384
+  }
+ ],
+ "total_sales_amount": 73394947000,
+ "winners_combination": {
+  "auto": 4
+ }
+}

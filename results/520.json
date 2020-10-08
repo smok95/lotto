@@ -1,0 +1,40 @@
+{
+ "draw_no": 520,
+ "numbers": [
+  4,
+  22,
+  27,
+  28,
+  38,
+  40
+ ],
+ "bonus_no": 1,
+ "date": "2012-11-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2167205438,
+   "winners": 6
+  },
+  {
+   "prize": 58573120,
+   "winners": 37
+  },
+  {
+   "prize": 1332026,
+   "winners": 1627
+  },
+  {
+   "prize": 50000,
+   "winners": 77196
+  },
+  {
+   "prize": 5000,
+   "winners": 1260891
+  }
+ ],
+ "total_sales_amount": 55003797000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 1
+ }
+}

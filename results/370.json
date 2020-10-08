@@ -1,0 +1,40 @@
+{
+ "draw_no": 370,
+ "numbers": [
+  16,
+  18,
+  24,
+  42,
+  44,
+  45
+ ],
+ "bonus_no": 17,
+ "date": "2010-01-02T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1678941943,
+   "winners": 7
+  },
+  {
+   "prize": 61211425,
+   "winners": 32
+  },
+  {
+   "prize": 1677026,
+   "winners": 1168
+  },
+  {
+   "prize": 64701,
+   "winners": 60549
+  },
+  {
+   "prize": 5000,
+   "winners": 1058734
+  }
+ ],
+ "total_sales_amount": 49762652000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

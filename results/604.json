@@ -1,0 +1,40 @@
+{
+ "draw_no": 604,
+ "numbers": [
+  2,
+  6,
+  18,
+  21,
+  33,
+  34
+ ],
+ "bonus_no": 30,
+ "date": "2014-06-28T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1229141557,
+   "winners": 11
+  },
+  {
+   "prize": 62595172,
+   "winners": 36
+  },
+  {
+   "prize": 1553016,
+   "winners": 1451
+  },
+  {
+   "prize": 50000,
+   "winners": 75476
+  },
+  {
+   "prize": 5000,
+   "winners": 1266398
+  }
+ ],
+ "total_sales_amount": 56266399000,
+ "winners_combination": {
+  "auto": 10,
+  "manual": 1
+ }
+}

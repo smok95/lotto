@@ -1,0 +1,40 @@
+{
+ "draw_no": 833,
+ "numbers": [
+  12,
+  18,
+  30,
+  39,
+  41,
+  42
+ ],
+ "bonus_no": 19,
+ "date": "2018-11-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2356317282,
+   "winners": 8
+  },
+  {
+   "prize": 59278423,
+   "winners": 53
+  },
+  {
+   "prize": 1615299,
+   "winners": 1945
+  },
+  {
+   "prize": 50000,
+   "winners": 103152
+  },
+  {
+   "prize": 5000,
+   "winners": 1715510
+  }
+ ],
+ "total_sales_amount": 77738402000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 1
+ }
+}

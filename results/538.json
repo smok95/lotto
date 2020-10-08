@@ -1,0 +1,40 @@
+{
+ "draw_no": 538,
+ "numbers": [
+  6,
+  10,
+  18,
+  31,
+  32,
+  34
+ ],
+ "bonus_no": 11,
+ "date": "2013-03-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4688021625,
+   "winners": 3
+  },
+  {
+   "prize": 48833559,
+   "winners": 48
+  },
+  {
+   "prize": 1359636,
+   "winners": 1724
+  },
+  {
+   "prize": 50000,
+   "winners": 82529
+  },
+  {
+   "prize": 5000,
+   "winners": 1347630
+  }
+ ],
+ "total_sales_amount": 59233373000,
+ "winners_combination": {
+  "auto": 1,
+  "manual": 2
+ }
+}

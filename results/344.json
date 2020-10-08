@@ -1,0 +1,40 @@
+{
+ "draw_no": 344,
+ "numbers": [
+  1,
+  2,
+  15,
+  28,
+  34,
+  45
+ ],
+ "bonus_no": 38,
+ "date": "2009-07-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1467106543,
+   "winners": 7
+  },
+  {
+   "prize": 74418448,
+   "winners": 23
+  },
+  {
+   "prize": 1547581,
+   "winners": 1106
+  },
+  {
+   "prize": 60593,
+   "winners": 56496
+  },
+  {
+   "prize": 5000,
+   "winners": 960640
+  }
+ ],
+ "total_sales_amount": 43838886000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

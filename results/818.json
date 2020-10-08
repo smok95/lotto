@@ -1,0 +1,41 @@
+{
+ "draw_no": 818,
+ "numbers": [
+  14,
+  15,
+  25,
+  28,
+  29,
+  30
+ ],
+ "bonus_no": 3,
+ "date": "2018-08-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1380804318,
+   "winners": 13
+  },
+  {
+   "prize": 76711351,
+   "winners": 39
+  },
+  {
+   "prize": 1621541,
+   "winners": 1845
+  },
+  {
+   "prize": 50000,
+   "winners": 90205
+  },
+  {
+   "prize": 5000,
+   "winners": 1490497
+  }
+ ],
+ "total_sales_amount": 71793353000,
+ "winners_combination": {
+  "auto": 8,
+  "semi_auto": 1,
+  "manual": 4
+ }
+}

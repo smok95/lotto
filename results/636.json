@@ -1,0 +1,40 @@
+{
+ "draw_no": 636,
+ "numbers": [
+  6,
+  7,
+  15,
+  16,
+  20,
+  31
+ ],
+ "bonus_no": 26,
+ "date": "2015-02-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1832362219,
+   "winners": 8
+  },
+  {
+   "prize": 55526128,
+   "winners": 44
+  },
+  {
+   "prize": 1238292,
+   "winners": 1973
+  },
+  {
+   "prize": 50000,
+   "winners": 90830
+  },
+  {
+   "prize": 5000,
+   "winners": 1461300
+  }
+ ],
+ "total_sales_amount": 62786394000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

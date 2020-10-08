@@ -1,0 +1,39 @@
+{
+ "draw_no": 785,
+ "numbers": [
+  4,
+  6,
+  15,
+  25,
+  26,
+  33
+ ],
+ "bonus_no": 40,
+ "date": "2017-12-16T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2886622688,
+   "winners": 6
+  },
+  {
+   "prize": 52484049,
+   "winners": 55
+  },
+  {
+   "prize": 1463805,
+   "winners": 1972
+  },
+  {
+   "prize": 50000,
+   "winners": 100062
+  },
+  {
+   "prize": 5000,
+   "winners": 1678240
+  }
+ ],
+ "total_sales_amount": 72974563000,
+ "winners_combination": {
+  "auto": 6
+ }
+}

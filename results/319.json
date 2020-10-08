@@ -1,0 +1,40 @@
+{
+ "draw_no": 319,
+ "numbers": [
+  5,
+  8,
+  22,
+  28,
+  33,
+  42
+ ],
+ "bonus_no": 37,
+ "date": "2009-01-10T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2135659380,
+   "winners": 5
+  },
+  {
+   "prize": 68450622,
+   "winners": 26
+  },
+  {
+   "prize": 1546235,
+   "winners": 1151
+  },
+  {
+   "prize": 59833,
+   "winners": 59490
+  },
+  {
+   "prize": 5000,
+   "winners": 984086
+  }
+ ],
+ "total_sales_amount": 45435183000,
+ "winners_combination": {
+  "auto": 2,
+  "manual": 3
+ }
+}

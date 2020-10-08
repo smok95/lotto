@@ -1,0 +1,41 @@
+{
+ "draw_no": 836,
+ "numbers": [
+  1,
+  9,
+  11,
+  14,
+  26,
+  28
+ ],
+ "bonus_no": 19,
+ "date": "2018-12-08T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1257843670,
+   "winners": 14
+  },
+  {
+   "prize": 47338203,
+   "winners": 62
+  },
+  {
+   "prize": 1316130,
+   "winners": 2230
+  },
+  {
+   "prize": 50000,
+   "winners": 103846
+  },
+  {
+   "prize": 5000,
+   "winners": 1719260
+  }
+ ],
+ "total_sales_amount": 74536697000,
+ "winners_combination": {
+  "auto": 10,
+  "semi_auto": 1,
+  "manual": 3
+ }
+}

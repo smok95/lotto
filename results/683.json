@@ -1,0 +1,41 @@
+{
+ "draw_no": 683,
+ "numbers": [
+  6,
+  13,
+  20,
+  27,
+  28,
+  40
+ ],
+ "bonus_no": 15,
+ "date": "2016-01-02T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1010930883,
+   "winners": 16
+  },
+  {
+   "prize": 59907016,
+   "winners": 45
+  },
+  {
+   "prize": 996974,
+   "winners": 2704
+  },
+  {
+   "prize": 50000,
+   "winners": 117974
+  },
+  {
+   "prize": 5000,
+   "winners": 1700964
+  }
+ ],
+ "total_sales_amount": 71940091000,
+ "winners_combination": {
+  "auto": 6,
+  "semi_auto": 2,
+  "manual": 8
+ }
+}

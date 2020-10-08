@@ -1,0 +1,40 @@
+{
+ "draw_no": 492,
+ "numbers": [
+  22,
+  27,
+  31,
+  35,
+  37,
+  40
+ ],
+ "bonus_no": 42,
+ "date": "2012-05-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2493013800,
+   "winners": 5
+  },
+  {
+   "prize": 51937788,
+   "winners": 40
+  },
+  {
+   "prize": 1448753,
+   "winners": 1434
+  },
+  {
+   "prize": 50000,
+   "winners": 69327
+  },
+  {
+   "prize": 5000,
+   "winners": 1152057
+  }
+ ],
+ "total_sales_amount": 51693454000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 2
+ }
+}

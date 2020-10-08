@@ -1,0 +1,39 @@
+{
+ "draw_no": 432,
+ "numbers": [
+  2,
+  3,
+  5,
+  11,
+  27,
+  39
+ ],
+ "bonus_no": 33,
+ "date": "2011-03-12T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2299427550,
+   "winners": 5
+  },
+  {
+   "prize": 39920618,
+   "winners": 48
+  },
+  {
+   "prize": 1096846,
+   "winners": 1747
+  },
+  {
+   "prize": 50000,
+   "winners": 83754
+  },
+  {
+   "prize": 5000,
+   "winners": 1331414
+  }
+ ],
+ "total_sales_amount": 52348574000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

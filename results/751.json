@@ -1,0 +1,41 @@
+{
+ "draw_no": 751,
+ "numbers": [
+  3,
+  4,
+  16,
+  20,
+  28,
+  44
+ ],
+ "bonus_no": 17,
+ "date": "2017-04-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2097968110,
+   "winners": 8
+  },
+  {
+   "prize": 40540447,
+   "winners": 69
+  },
+  {
+   "prize": 1265743,
+   "winners": 2210
+  },
+  {
+   "prize": 50000,
+   "winners": 102632
+  },
+  {
+   "prize": 5000,
+   "winners": 1651438
+  }
+ ],
+ "total_sales_amount": 71534233000,
+ "winners_combination": {
+  "auto": 4,
+  "semi_auto": 2,
+  "manual": 2
+ }
+}

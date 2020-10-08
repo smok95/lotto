@@ -1,0 +1,40 @@
+{
+ "draw_no": 863,
+ "numbers": [
+  16,
+  21,
+  28,
+  35,
+  39,
+  43
+ ],
+ "bonus_no": 12,
+ "date": "2019-06-15T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2853357322,
+   "winners": 7
+  },
+  {
+   "prize": 52014327,
+   "winners": 64
+  },
+  {
+   "prize": 1630224,
+   "winners": 2042
+  },
+  {
+   "prize": 50000,
+   "winners": 104949
+  },
+  {
+   "prize": 5000,
+   "winners": 1753097
+  }
+ ],
+ "total_sales_amount": 81288540000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

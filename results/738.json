@@ -1,0 +1,41 @@
+{
+ "draw_no": 738,
+ "numbers": [
+  23,
+  27,
+  28,
+  38,
+  42,
+  43
+ ],
+ "bonus_no": 36,
+ "date": "2017-01-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1634191091,
+   "winners": 11
+  },
+  {
+   "prize": 62417021,
+   "winners": 48
+  },
+  {
+   "prize": 1826840,
+   "winners": 1640
+  },
+  {
+   "prize": 50000,
+   "winners": 88050
+  },
+  {
+   "prize": 5000,
+   "winners": 1502685
+  }
+ ],
+ "total_sales_amount": 71768122000,
+ "winners_combination": {
+  "auto": 9,
+  "semi_auto": 1,
+  "manual": 1
+ }
+}

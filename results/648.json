@@ -1,0 +1,41 @@
+{
+ "draw_no": 648,
+ "numbers": [
+  13,
+  19,
+  28,
+  37,
+  38,
+  43
+ ],
+ "bonus_no": 4,
+ "date": "2015-05-02T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2120987947,
+   "winners": 7
+  },
+  {
+   "prize": 54988577,
+   "winners": 45
+  },
+  {
+   "prize": 1517159,
+   "winners": 1631
+  },
+  {
+   "prize": 50000,
+   "winners": 80986
+  },
+  {
+   "prize": 5000,
+   "winners": 1318403
+  }
+ ],
+ "total_sales_amount": 60874405000,
+ "winners_combination": {
+  "auto": 4,
+  "semi_auto": 1,
+  "manual": 2
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 706,
+ "numbers": [
+  3,
+  4,
+  6,
+  10,
+  28,
+  30
+ ],
+ "bonus_no": 37,
+ "date": "2016-06-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3831746063,
+   "winners": 4
+  },
+  {
+   "prize": 50088184,
+   "winners": 51
+  },
+  {
+   "prize": 1211811,
+   "winners": 2108
+  },
+  {
+   "prize": 50000,
+   "winners": 95376
+  },
+  {
+   "prize": 5000,
+   "winners": 1531393
+  }
+ ],
+ "total_sales_amount": 65723488000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

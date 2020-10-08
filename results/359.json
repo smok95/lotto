@@ -1,0 +1,40 @@
+{
+ "draw_no": 359,
+ "numbers": [
+  1,
+  10,
+  19,
+  20,
+  24,
+  40
+ ],
+ "bonus_no": 23,
+ "date": "2009-10-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1286712600,
+   "winners": 8
+  },
+  {
+   "prize": 46368022,
+   "winners": 37
+  },
+  {
+   "prize": 1036001,
+   "winners": 1656
+  },
+  {
+   "prize": 46822,
+   "winners": 73283
+  },
+  {
+   "prize": 5000,
+   "winners": 1097592
+  }
+ ],
+ "total_sales_amount": 45288256000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

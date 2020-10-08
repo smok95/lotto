@@ -1,0 +1,39 @@
+{
+ "draw_no": 629,
+ "numbers": [
+  19,
+  28,
+  31,
+  38,
+  43,
+  44
+ ],
+ "bonus_no": 1,
+ "date": "2014-12-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2919433575,
+   "winners": 5
+  },
+  {
+   "prize": 71554745,
+   "winners": 34
+  },
+  {
+   "prize": 1841682,
+   "winners": 1321
+  },
+  {
+   "prize": 50000,
+   "winners": 68554
+  },
+  {
+   "prize": 5000,
+   "winners": 1183752
+  }
+ ],
+ "total_sales_amount": 57618701000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

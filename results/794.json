@@ -1,0 +1,40 @@
+{
+ "draw_no": 794,
+ "numbers": [
+  6,
+  7,
+  18,
+  19,
+  30,
+  38
+ ],
+ "bonus_no": 13,
+ "date": "2018-02-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2650940304,
+   "winners": 7
+  },
+  {
+   "prize": 68728082,
+   "winners": 45
+  },
+  {
+   "prize": 1186331,
+   "winners": 2607
+  },
+  {
+   "prize": 50000,
+   "winners": 116809
+  },
+  {
+   "prize": 5000,
+   "winners": 1877646
+  }
+ ],
+ "total_sales_amount": 79941579000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

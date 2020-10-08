@@ -1,0 +1,40 @@
+{
+ "draw_no": 905,
+ "numbers": [
+  3,
+  4,
+  16,
+  27,
+  38,
+  40
+ ],
+ "bonus_no": 20,
+ "date": "2020-04-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3017862536,
+   "winners": 7
+  },
+  {
+   "prize": 45725190,
+   "winners": 77
+  },
+  {
+   "prize": 1332138,
+   "winners": 2643
+  },
+  {
+   "prize": 50000,
+   "winners": 129133
+  },
+  {
+   "prize": 5000,
+   "winners": 2111090
+  }
+ ],
+ "total_sales_amount": 90357634000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 3
+ }
+}

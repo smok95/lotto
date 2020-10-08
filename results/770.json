@@ -1,0 +1,40 @@
+{
+ "draw_no": 770,
+ "numbers": [
+  1,
+  9,
+  12,
+  23,
+  39,
+  43
+ ],
+ "bonus_no": 34,
+ "date": "2017-09-02T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2163099329,
+   "winners": 8
+  },
+  {
+   "prize": 38455100,
+   "winners": 75
+  },
+  {
+   "prize": 1252882,
+   "winners": 2302
+  },
+  {
+   "prize": 50000,
+   "winners": 108450
+  },
+  {
+   "prize": 5000,
+   "winners": 1717526
+  }
+ ],
+ "total_sales_amount": 74166379000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

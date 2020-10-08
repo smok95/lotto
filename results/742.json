@@ -1,0 +1,41 @@
+{
+ "draw_no": 742,
+ "numbers": [
+  8,
+  10,
+  13,
+  36,
+  37,
+  40
+ ],
+ "bonus_no": 6,
+ "date": "2017-02-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1111814813,
+   "winners": 16
+  },
+  {
+   "prize": 67382716,
+   "winners": 44
+  },
+  {
+   "prize": 1492870,
+   "winners": 1986
+  },
+  {
+   "prize": 50000,
+   "winners": 98348
+  },
+  {
+   "prize": 5000,
+   "winners": 1658556
+  }
+ ],
+ "total_sales_amount": 73857792000,
+ "winners_combination": {
+  "auto": 11,
+  "semi_auto": 1,
+  "manual": 4
+ }
+}

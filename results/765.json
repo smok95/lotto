@@ -1,0 +1,40 @@
+{
+ "draw_no": 765,
+ "numbers": [
+  1,
+  3,
+  8,
+  12,
+  42,
+  43
+ ],
+ "bonus_no": 33,
+ "date": "2017-07-29T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1109214250,
+   "winners": 15
+  },
+  {
+   "prize": 51352512,
+   "winners": 54
+  },
+  {
+   "prize": 1307419,
+   "winners": 2121
+  },
+  {
+   "prize": 50000,
+   "winners": 101653
+  },
+  {
+   "prize": 5000,
+   "winners": 1643849
+  }
+ ],
+ "total_sales_amount": 70972360000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 10
+ }
+}

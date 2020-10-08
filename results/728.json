@@ -1,0 +1,39 @@
+{
+ "draw_no": 728,
+ "numbers": [
+  3,
+  6,
+  10,
+  30,
+  34,
+  37
+ ],
+ "bonus_no": 36,
+ "date": "2016-11-12T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3243464400,
+   "winners": 5
+  },
+  {
+   "prize": 48265840,
+   "winners": 56
+  },
+  {
+   "prize": 1446168,
+   "winners": 1869
+  },
+  {
+   "prize": 50000,
+   "winners": 94693
+  },
+  {
+   "prize": 5000,
+   "winners": 1559062
+  }
+ ],
+ "total_sales_amount": 68306112000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

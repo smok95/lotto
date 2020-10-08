@@ -1,0 +1,40 @@
+{
+ "draw_no": 437,
+ "numbers": [
+  11,
+  16,
+  29,
+  38,
+  41,
+  44
+ ],
+ "bonus_no": 21,
+ "date": "2011-04-16T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2096245438,
+   "winners": 6
+  },
+  {
+   "prize": 63522590,
+   "winners": 33
+  },
+  {
+   "prize": 1630051,
+   "winners": 1286
+  },
+  {
+   "prize": 50000,
+   "winners": 64531
+  },
+  {
+   "prize": 5000,
+   "winners": 1080539
+  }
+ ],
+ "total_sales_amount": 50798417000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 2
+ }
+}

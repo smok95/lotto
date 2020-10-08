@@ -1,0 +1,39 @@
+{
+ "draw_no": 882,
+ "numbers": [
+  18,
+  34,
+  39,
+  43,
+  44,
+  45
+ ],
+ "bonus_no": 23,
+ "date": "2019-10-26T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4127270400,
+   "winners": 5
+  },
+  {
+   "prize": 78168000,
+   "winners": 44
+  },
+  {
+   "prize": 1651966,
+   "winners": 2082
+  },
+  {
+   "prize": 50000,
+   "winners": 109226
+  },
+  {
+   "prize": 5000,
+   "winners": 1839873
+  }
+ ],
+ "total_sales_amount": 84351602000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

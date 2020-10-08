@@ -1,0 +1,39 @@
+{
+ "draw_no": 842,
+ "numbers": [
+  14,
+  26,
+  32,
+  36,
+  39,
+  42
+ ],
+ "bonus_no": 38,
+ "date": "2019-01-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2035475025,
+   "winners": 10
+  },
+  {
+   "prize": 80772819,
+   "winners": 42
+  },
+  {
+   "prize": 1663786,
+   "winners": 2039
+  },
+  {
+   "prize": 50000,
+   "winners": 103190
+  },
+  {
+   "prize": 5000,
+   "winners": 1735911
+  }
+ ],
+ "total_sales_amount": 81957444000,
+ "winners_combination": {
+  "auto": 10
+ }
+}

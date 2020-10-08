@@ -1,0 +1,40 @@
+{
+ "draw_no": 835,
+ "numbers": [
+  9,
+  10,
+  13,
+  28,
+  38,
+  45
+ ],
+ "bonus_no": 35,
+ "date": "2018-12-01T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1233681125,
+   "winners": 15
+  },
+  {
+   "prize": 53175911,
+   "winners": 58
+  },
+  {
+   "prize": 1337469,
+   "winners": 2306
+  },
+  {
+   "prize": 50000,
+   "winners": 106763
+  },
+  {
+   "prize": 5000,
+   "winners": 1767089
+  }
+ ],
+ "total_sales_amount": 77694435000,
+ "winners_combination": {
+  "auto": 10,
+  "manual": 5
+ }
+}

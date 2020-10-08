@@ -1,0 +1,40 @@
+{
+ "draw_no": 877,
+ "numbers": [
+  5,
+  17,
+  18,
+  22,
+  23,
+  43
+ ],
+ "bonus_no": 12,
+ "date": "2019-09-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1716607188,
+   "winners": 12
+  },
+  {
+   "prize": 45776192,
+   "winners": 75
+  },
+  {
+   "prize": 1584317,
+   "winners": 2167
+  },
+  {
+   "prize": 50000,
+   "winners": 109806
+  },
+  {
+   "prize": 5000,
+   "winners": 1867270
+  }
+ ],
+ "total_sales_amount": 84584730000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 4
+ }
+}

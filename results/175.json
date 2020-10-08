@@ -1,0 +1,37 @@
+{
+ "draw_no": 175,
+ "numbers": [
+  19,
+  26,
+  28,
+  31,
+  33,
+  36
+ ],
+ "bonus_no": 17,
+ "date": "2006-04-08T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2371132620,
+   "winners": 5
+  },
+  {
+   "prize": 41165497,
+   "winners": 48
+  },
+  {
+   "prize": 1466922,
+   "winners": 1347
+  },
+  {
+   "prize": 58473,
+   "winners": 67585
+  },
+  {
+   "prize": 5000,
+   "winners": 1137627
+  }
+ ],
+ "total_sales_amount": 50895147000,
+ "winners_combination": {}
+}

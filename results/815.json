@@ -1,0 +1,40 @@
+{
+ "draw_no": 815,
+ "numbers": [
+  17,
+  21,
+  25,
+  26,
+  27,
+  36
+ ],
+ "bonus_no": 4,
+ "date": "2018-07-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2579855358,
+   "winners": 7
+  },
+  {
+   "prize": 77175161,
+   "winners": 39
+  },
+  {
+   "prize": 1767371,
+   "winners": 1703
+  },
+  {
+   "prize": 50000,
+   "winners": 92977
+  },
+  {
+   "prize": 5000,
+   "winners": 1596140
+  }
+ ],
+ "total_sales_amount": 73416400000,
+ "winners_combination": {
+  "auto": 5,
+  "semi_auto": 2
+ }
+}

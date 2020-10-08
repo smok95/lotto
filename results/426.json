@@ -1,0 +1,39 @@
+{
+ "draw_no": 426,
+ "numbers": [
+  4,
+  17,
+  18,
+  27,
+  39,
+  43
+ ],
+ "bonus_no": 19,
+ "date": "2011-01-29T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3057233625,
+   "winners": 4
+  },
+  {
+   "prize": 32351679,
+   "winners": 63
+  },
+  {
+   "prize": 1393135,
+   "winners": 1463
+  },
+  {
+   "prize": 50000,
+   "winners": 71102
+  },
+  {
+   "prize": 5000,
+   "winners": 1174590
+  }
+ ],
+ "total_sales_amount": 51466592000,
+ "winners_combination": {
+  "auto": 4
+ }
+}

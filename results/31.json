@@ -1,0 +1,37 @@
+{
+ "draw_no": 31,
+ "numbers": [
+  7,
+  9,
+  18,
+  23,
+  28,
+  35
+ ],
+ "bonus_no": 32,
+ "date": "2003-07-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 8106672900,
+   "winners": 2
+  },
+  {
+   "prize": 93180100,
+   "winners": 29
+  },
+  {
+   "prize": 2391300,
+   "winners": 1130
+  },
+  {
+   "prize": 92500,
+   "winners": 58406
+  },
+  {
+   "prize": 10000,
+   "winners": 863641
+  }
+ ],
+ "total_sales_amount": 71317306000,
+ "winners_combination": {}
+}

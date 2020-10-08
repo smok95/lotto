@@ -1,0 +1,40 @@
+{
+ "draw_no": 565,
+ "numbers": [
+  4,
+  10,
+  18,
+  27,
+  40,
+  45
+ ],
+ "bonus_no": 38,
+ "date": "2013-09-28T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1742064469,
+   "winners": 8
+  },
+  {
+   "prize": 59557760,
+   "winners": 39
+  },
+  {
+   "prize": 1244777,
+   "winners": 1866
+  },
+  {
+   "prize": 50000,
+   "winners": 85438
+  },
+  {
+   "prize": 5000,
+   "winners": 1384878
+  }
+ ],
+ "total_sales_amount": 59556622000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 2
+ }
+}

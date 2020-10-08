@@ -1,0 +1,41 @@
+{
+ "draw_no": 891,
+ "numbers": [
+  9,
+  13,
+  28,
+  31,
+  39,
+  41
+ ],
+ "bonus_no": 19,
+ "date": "2019-12-28T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3082673947,
+   "winners": 7
+  },
+  {
+   "prize": 46707182,
+   "winners": 77
+  },
+  {
+   "prize": 1472147,
+   "winners": 2443
+  },
+  {
+   "prize": 50000,
+   "winners": 122132
+  },
+  {
+   "prize": 5000,
+   "winners": 1998623
+  }
+ ],
+ "total_sales_amount": 89742677000,
+ "winners_combination": {
+  "auto": 3,
+  "semi_auto": 1,
+  "manual": 3
+ }
+}

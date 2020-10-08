@@ -1,0 +1,40 @@
+{
+ "draw_no": 712,
+ "numbers": [
+  17,
+  20,
+  30,
+  31,
+  33,
+  45
+ ],
+ "bonus_no": 19,
+ "date": "2016-07-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4034485125,
+   "winners": 4
+  },
+  {
+   "prize": 57226740,
+   "winners": 47
+  },
+  {
+   "prize": 1557416,
+   "winners": 1727
+  },
+  {
+   "prize": 50000,
+   "winners": 86066
+  },
+  {
+   "prize": 5000,
+   "winners": 1449521
+  }
+ ],
+ "total_sales_amount": 66136318000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

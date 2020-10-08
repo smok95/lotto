@@ -1,0 +1,40 @@
+{
+ "draw_no": 485,
+ "numbers": [
+  17,
+  22,
+  26,
+  27,
+  36,
+  39
+ ],
+ "bonus_no": 20,
+ "date": "2012-03-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1501474917,
+   "winners": 9
+  },
+  {
+   "prize": 68248860,
+   "winners": 33
+  },
+  {
+   "prize": 1601859,
+   "winners": 1406
+  },
+  {
+   "prize": 50000,
+   "winners": 72785
+  },
+  {
+   "prize": 5000,
+   "winners": 1237898
+  }
+ ],
+ "total_sales_amount": 55692878000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 2
+ }
+}

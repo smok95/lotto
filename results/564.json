@@ -1,0 +1,40 @@
+{
+ "draw_no": 564,
+ "numbers": [
+  14,
+  19,
+  25,
+  26,
+  27,
+  34
+ ],
+ "bonus_no": 2,
+ "date": "2013-09-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1934801143,
+   "winners": 7
+  },
+  {
+   "prize": 70539625,
+   "winners": 32
+  },
+  {
+   "prize": 1368871,
+   "winners": 1649
+  },
+  {
+   "prize": 50000,
+   "winners": 83100
+  },
+  {
+   "prize": 5000,
+   "winners": 1358618
+  }
+ ],
+ "total_sales_amount": 58012468000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

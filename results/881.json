@@ -1,0 +1,41 @@
+{
+ "draw_no": 881,
+ "numbers": [
+  4,
+  18,
+  20,
+  26,
+  27,
+  32
+ ],
+ "bonus_no": 9,
+ "date": "2019-10-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2503212282,
+   "winners": 8
+  },
+  {
+   "prize": 49815170,
+   "winners": 67
+  },
+  {
+   "prize": 1524722,
+   "winners": 2189
+  },
+  {
+   "prize": 50000,
+   "winners": 116952
+  },
+  {
+   "prize": 5000,
+   "winners": 1939849
+  }
+ ],
+ "total_sales_amount": 84495552000,
+ "winners_combination": {
+  "auto": 6,
+  "semi_auto": 1,
+  "manual": 1
+ }
+}

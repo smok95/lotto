@@ -1,0 +1,37 @@
+{
+ "draw_no": 67,
+ "numbers": [
+  3,
+  7,
+  10,
+  15,
+  36,
+  38
+ ],
+ "bonus_no": 33,
+ "date": "2004-03-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2114436500,
+   "winners": 7
+  },
+  {
+   "prize": 39787700,
+   "winners": 62
+  },
+  {
+   "prize": 2537900,
+   "winners": 972
+  },
+  {
+   "prize": 105500,
+   "winners": 46740
+  },
+  {
+   "prize": 10000,
+   "winners": 748901
+  }
+ ],
+ "total_sales_amount": 64314872000,
+ "winners_combination": {}
+}

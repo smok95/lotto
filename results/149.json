@@ -1,0 +1,37 @@
+{
+ "draw_no": 149,
+ "numbers": [
+  2,
+  11,
+  21,
+  34,
+  41,
+  42
+ ],
+ "bonus_no": 27,
+ "date": "2005-10-08T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1639052143,
+   "winners": 7
+  },
+  {
+   "prize": 44470407,
+   "winners": 43
+  },
+  {
+   "prize": 1632987,
+   "winners": 1171
+  },
+  {
+   "prize": 63267,
+   "winners": 60450
+  },
+  {
+   "prize": 5000,
+   "winners": 1016240
+  }
+ ],
+ "total_sales_amount": 48406950000,
+ "winners_combination": {}
+}

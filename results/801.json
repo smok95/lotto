@@ -1,0 +1,41 @@
+{
+ "draw_no": 801,
+ "numbers": [
+  17,
+  25,
+  28,
+  37,
+  43,
+  44
+ ],
+ "bonus_no": 2,
+ "date": "2018-04-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2256786657,
+   "winners": 8
+  },
+  {
+   "prize": 59000959,
+   "winners": 51
+  },
+  {
+   "prize": 1505278,
+   "winners": 1999
+  },
+  {
+   "prize": 50000,
+   "winners": 97006
+  },
+  {
+   "prize": 5000,
+   "winners": 1618941
+  }
+ ],
+ "total_sales_amount": 74034792000,
+ "winners_combination": {
+  "auto": 6,
+  "semi_auto": 1,
+  "manual": 1
+ }
+}

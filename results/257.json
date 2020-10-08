@@ -1,0 +1,37 @@
+{
+ "draw_no": 257,
+ "numbers": [
+  6,
+  13,
+  27,
+  31,
+  32,
+  37
+ ],
+ "bonus_no": 4,
+ "date": "2007-11-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2391377025,
+   "winners": 4
+  },
+  {
+   "prize": 88569520,
+   "winners": 18
+  },
+  {
+   "prize": 1292986,
+   "winners": 1233
+  },
+  {
+   "prize": 54996,
+   "winners": 57977
+  },
+  {
+   "prize": 5000,
+   "winners": 954861
+  }
+ ],
+ "total_sales_amount": 41433637000,
+ "winners_combination": {}
+}

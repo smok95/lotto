@@ -1,0 +1,40 @@
+{
+ "draw_no": 709,
+ "numbers": [
+  10,
+  18,
+  30,
+  36,
+  39,
+  44
+ ],
+ "bonus_no": 32,
+ "date": "2016-07-02T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1165271625,
+   "winners": 14
+  },
+  {
+   "prize": 61794708,
+   "winners": 44
+  },
+  {
+   "prize": 1603165,
+   "winners": 1696
+  },
+  {
+   "prize": 50000,
+   "winners": 82305
+  },
+  {
+   "prize": 5000,
+   "winners": 1385853
+  }
+ ],
+ "total_sales_amount": 65592504000,
+ "winners_combination": {
+  "auto": 12,
+  "manual": 2
+ }
+}

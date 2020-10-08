@@ -1,0 +1,37 @@
+{
+ "draw_no": 26,
+ "numbers": [
+  4,
+  5,
+  7,
+  18,
+  20,
+  25
+ ],
+ "bonus_no": 31,
+ "date": "2003-05-31T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3495069900,
+   "winners": 5
+  },
+  {
+   "prize": 74680900,
+   "winners": 39
+  },
+  {
+   "prize": 2173500,
+   "winners": 1340
+  },
+  {
+   "prize": 80600,
+   "winners": 72252
+  },
+  {
+   "prize": 10000,
+   "winners": 1097093
+  }
+ ],
+ "total_sales_amount": 80193026000,
+ "winners_combination": {}
+}

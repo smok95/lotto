@@ -1,0 +1,37 @@
+{
+ "draw_no": 15,
+ "numbers": [
+  3,
+  4,
+  16,
+  30,
+  31,
+  37
+ ],
+ "bonus_no": 13,
+ "date": "2003-03-15T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 17014245000,
+   "winners": 1
+  },
+  {
+   "prize": 177231700,
+   "winners": 16
+  },
+  {
+   "prize": 5571100,
+   "winners": 509
+  },
+  {
+   "prize": 144600,
+   "winners": 39202
+  },
+  {
+   "prize": 10000,
+   "winners": 827538
+  }
+ ],
+ "total_sales_amount": 73264910000,
+ "winners_combination": {}
+}

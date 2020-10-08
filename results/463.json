@@ -1,0 +1,34 @@
+{
+ "draw_no": 463,
+ "numbers": [
+  23,
+  29,
+  31,
+  33,
+  34,
+  44
+ ],
+ "bonus_no": 40,
+ "date": "2011-10-15T00:00:00Z",
+ "divisions": [
+  {},
+  {
+   "prize": 54687384,
+   "winners": 37
+  },
+  {
+   "prize": 1613584,
+   "winners": 1254
+  },
+  {
+   "prize": 50000,
+   "winners": 62251
+  },
+  {
+   "prize": 5000,
+   "winners": 1060512
+  }
+ ],
+ "total_sales_amount": 49205151000,
+ "winners_combination": {}
+}

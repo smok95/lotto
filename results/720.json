@@ -1,0 +1,40 @@
+{
+ "draw_no": 720,
+ "numbers": [
+  1,
+  12,
+  29,
+  34,
+  36,
+  37
+ ],
+ "bonus_no": 41,
+ "date": "2016-09-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1233770358,
+   "winners": 14
+  },
+  {
+   "prize": 77805338,
+   "winners": 37
+  },
+  {
+   "prize": 1619122,
+   "winners": 1778
+  },
+  {
+   "prize": 50000,
+   "winners": 88260
+  },
+  {
+   "prize": 5000,
+   "winners": 1505233
+  }
+ ],
+ "total_sales_amount": 69939090000,
+ "winners_combination": {
+  "auto": 9,
+  "manual": 5
+ }
+}

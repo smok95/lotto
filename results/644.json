@@ -1,0 +1,40 @@
+{
+ "draw_no": 644,
+ "numbers": [
+  5,
+  13,
+  17,
+  23,
+  28,
+  36
+ ],
+ "bonus_no": 8,
+ "date": "2015-04-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1831451204,
+   "winners": 8
+  },
+  {
+   "prize": 49835407,
+   "winners": 49
+  },
+  {
+   "prize": 1299593,
+   "winners": 1879
+  },
+  {
+   "prize": 50000,
+   "winners": 87582
+  },
+  {
+   "prize": 5000,
+   "winners": 1401744
+  }
+ ],
+ "total_sales_amount": 61846599000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

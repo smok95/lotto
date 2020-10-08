@@ -1,0 +1,39 @@
+{
+ "draw_no": 894,
+ "numbers": [
+  19,
+  32,
+  37,
+  40,
+  41,
+  43
+ ],
+ "bonus_no": 45,
+ "date": "2020-01-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2377935959,
+   "winners": 9
+  },
+  {
+   "prize": 63694714,
+   "winners": 56
+  },
+  {
+   "prize": 1530204,
+   "winners": 2331
+  },
+  {
+   "prize": 50000,
+   "winners": 116749
+  },
+  {
+   "prize": 5000,
+   "winners": 1971982
+  }
+ ],
+ "total_sales_amount": 88465183000,
+ "winners_combination": {
+  "auto": 9
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 792,
+ "numbers": [
+  2,
+  7,
+  19,
+  25,
+  29,
+  36
+ ],
+ "bonus_no": 16,
+ "date": "2018-02-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2655736768,
+   "winners": 7
+  },
+  {
+   "prize": 47667071,
+   "winners": 65
+  },
+  {
+   "prize": 1582411,
+   "winners": 1958
+  },
+  {
+   "prize": 50000,
+   "winners": 99185
+  },
+  {
+   "prize": 5000,
+   "winners": 1684675
+  }
+ ],
+ "total_sales_amount": 76339003000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

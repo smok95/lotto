@@ -1,0 +1,40 @@
+{
+ "draw_no": 643,
+ "numbers": [
+  15,
+  24,
+  31,
+  32,
+  33,
+  40
+ ],
+ "bonus_no": 13,
+ "date": "2015-03-28T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2535763625,
+   "winners": 6
+  },
+  {
+   "prize": 58971248,
+   "winners": 43
+  },
+  {
+   "prize": 1662796,
+   "winners": 1525
+  },
+  {
+   "prize": 50000,
+   "winners": 84656
+  },
+  {
+   "prize": 5000,
+   "winners": 1407225
+  }
+ ],
+ "total_sales_amount": 63110068000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 3
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 904,
+ "numbers": [
+  2,
+  6,
+  8,
+  26,
+  43,
+  45
+ ],
+ "bonus_no": 11,
+ "date": "2020-03-28T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2718077813,
+   "winners": 8
+  },
+  {
+   "prize": 39392433,
+   "winners": 92
+  },
+  {
+   "prize": 1550751,
+   "winners": 2337
+  },
+  {
+   "prize": 50000,
+   "winners": 115626
+  },
+  {
+   "prize": 5000,
+   "winners": 1938996
+  }
+ ],
+ "total_sales_amount": 88938220000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 2
+ }
+}

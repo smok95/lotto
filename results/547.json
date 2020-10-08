@@ -1,0 +1,40 @@
+{
+ "draw_no": 547,
+ "numbers": [
+  6,
+  7,
+  15,
+  22,
+  34,
+  39
+ ],
+ "bonus_no": 28,
+ "date": "2013-05-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2838444450,
+   "winners": 5
+  },
+  {
+   "prize": 43803156,
+   "winners": 54
+  },
+  {
+   "prize": 1528018,
+   "winners": 1548
+  },
+  {
+   "prize": 50000,
+   "winners": 75527
+  },
+  {
+   "prize": 5000,
+   "winners": 1256984
+  }
+ ],
+ "total_sales_amount": 57968466000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 1
+ }
+}

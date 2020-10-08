@@ -1,0 +1,41 @@
+{
+ "draw_no": 928,
+ "numbers": [
+  3,
+  4,
+  10,
+  20,
+  28,
+  44
+ ],
+ "bonus_no": 30,
+ "date": "2020-09-12T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3134591358,
+   "winners": 7
+  },
+  {
+   "prize": 45148436,
+   "winners": 81
+  },
+  {
+   "prize": 1385761,
+   "winners": 2639
+  },
+  {
+   "prize": 50000,
+   "winners": 121873
+  },
+  {
+   "prize": 5000,
+   "winners": 2011931
+  }
+ ],
+ "total_sales_amount": 90818982000,
+ "winners_combination": {
+  "auto": 3,
+  "semi_auto": 1,
+  "manual": 3
+ }
+}

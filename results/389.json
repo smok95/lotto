@@ -1,0 +1,39 @@
+{
+ "draw_no": 389,
+ "numbers": [
+  7,
+  16,
+  18,
+  20,
+  23,
+  26
+ ],
+ "bonus_no": 3,
+ "date": "2010-05-15T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2119027020,
+   "winners": 5
+  },
+  {
+   "prize": 49051552,
+   "winners": 36
+  },
+  {
+   "prize": 1409303,
+   "winners": 1253
+  },
+  {
+   "prize": 58088,
+   "winners": 60800
+  },
+  {
+   "prize": 5000,
+   "winners": 1021691
+  }
+ ],
+ "total_sales_amount": 45534027000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

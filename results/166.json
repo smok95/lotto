@@ -1,0 +1,37 @@
+{
+ "draw_no": 166,
+ "numbers": [
+  9,
+  12,
+  27,
+  36,
+  39,
+  45
+ ],
+ "bonus_no": 14,
+ "date": "2006-02-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1111299982,
+   "winners": 11
+  },
+  {
+   "prize": 72763690,
+   "winners": 28
+  },
+  {
+   "prize": 1351947,
+   "winners": 1507
+  },
+  {
+   "prize": 57594,
+   "winners": 70751
+  },
+  {
+   "prize": 5000,
+   "winners": 1140980
+  }
+ ],
+ "total_sales_amount": 52157466000,
+ "winners_combination": {}
+}

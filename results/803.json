@@ -1,0 +1,40 @@
+{
+ "draw_no": 803,
+ "numbers": [
+  5,
+  9,
+  14,
+  26,
+  30,
+  43
+ ],
+ "bonus_no": 2,
+ "date": "2018-04-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3663810225,
+   "winners": 5
+  },
+  {
+   "prize": 61063504,
+   "winners": 50
+  },
+  {
+   "prize": 1458059,
+   "winners": 2094
+  },
+  {
+   "prize": 50000,
+   "winners": 102413
+  },
+  {
+   "prize": 5000,
+   "winners": 1657869
+  }
+ ],
+ "total_sales_amount": 75670793000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 1
+ }
+}

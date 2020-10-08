@@ -1,0 +1,40 @@
+{
+ "draw_no": 845,
+ "numbers": [
+  1,
+  16,
+  29,
+  33,
+  40,
+  45
+ ],
+ "bonus_no": 6,
+ "date": "2019-02-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1891217182,
+   "winners": 11
+  },
+  {
+   "prize": 61914849,
+   "winners": 56
+  },
+  {
+   "prize": 1701292,
+   "winners": 2038
+  },
+  {
+   "prize": 50000,
+   "winners": 105790
+  },
+  {
+   "prize": 5000,
+   "winners": 1782933
+  }
+ ],
+ "total_sales_amount": 83884034000,
+ "winners_combination": {
+  "auto": 9,
+  "manual": 2
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 662,
+ "numbers": [
+  5,
+  6,
+  9,
+  11,
+  15,
+  37
+ ],
+ "bonus_no": 26,
+ "date": "2015-08-08T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1689733688,
+   "winners": 8
+  },
+  {
+   "prize": 52394844,
+   "winners": 43
+  },
+  {
+   "prize": 1260761,
+   "winners": 1787
+  },
+  {
+   "prize": 50000,
+   "winners": 88493
+  },
+  {
+   "prize": 5000,
+   "winners": 1426759
+  }
+ ],
+ "total_sales_amount": 59164542000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 2
+ }
+}

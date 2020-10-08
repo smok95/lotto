@@ -1,0 +1,40 @@
+{
+ "draw_no": 634,
+ "numbers": [
+  4,
+  10,
+  11,
+  12,
+  20,
+  27
+ ],
+ "bonus_no": 38,
+ "date": "2015-01-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1077935106,
+   "winners": 13
+  },
+  {
+   "prize": 43250483,
+   "winners": 54
+  },
+  {
+   "prize": 1057757,
+   "winners": 2208
+  },
+  {
+   "prize": 50000,
+   "winners": 101514
+  },
+  {
+   "prize": 5000,
+   "winners": 1562975
+  }
+ ],
+ "total_sales_amount": 63149567000,
+ "winners_combination": {
+  "auto": 10,
+  "manual": 3
+ }
+}

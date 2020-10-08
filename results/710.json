@@ -1,0 +1,40 @@
+{
+ "draw_no": 710,
+ "numbers": [
+  3,
+  4,
+  9,
+  24,
+  25,
+  33
+ ],
+ "bonus_no": 10,
+ "date": "2016-07-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2895441150,
+   "winners": 5
+  },
+  {
+   "prize": 42331011,
+   "winners": 57
+  },
+  {
+   "prize": 1212497,
+   "winners": 1990
+  },
+  {
+   "prize": 50000,
+   "winners": 102058
+  },
+  {
+   "prize": 5000,
+   "winners": 1627229
+  }
+ ],
+ "total_sales_amount": 65083972000,
+ "winners_combination": {
+  "auto": 1,
+  "manual": 4
+ }
+}

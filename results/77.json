@@ -1,0 +1,37 @@
+{
+ "draw_no": 77,
+ "numbers": [
+  2,
+  18,
+  29,
+  32,
+  43,
+  44
+ ],
+ "bonus_no": 37,
+ "date": "2004-05-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 5155758600,
+   "winners": 3
+  },
+  {
+   "prize": 135677800,
+   "winners": 19
+  },
+  {
+   "prize": 3615500,
+   "winners": 713
+  },
+  {
+   "prize": 139200,
+   "winners": 37033
+  },
+  {
+   "prize": 10000,
+   "winners": 643154
+  }
+ ],
+ "total_sales_amount": 64420666000,
+ "winners_combination": {}
+}

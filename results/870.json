@@ -1,0 +1,40 @@
+{
+ "draw_no": 870,
+ "numbers": [
+  21,
+  25,
+  30,
+  32,
+  40,
+  42
+ ],
+ "bonus_no": 31,
+ "date": "2019-08-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1928842988,
+   "winners": 10
+  },
+  {
+   "prize": 66973715,
+   "winners": 48
+  },
+  {
+   "prize": 1581279,
+   "winners": 2033
+  },
+  {
+   "prize": 50000,
+   "winners": 102000
+  },
+  {
+   "prize": 5000,
+   "winners": 1705285
+  }
+ ],
+ "total_sales_amount": 78688663000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 4
+ }
+}

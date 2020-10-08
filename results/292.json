@@ -1,0 +1,40 @@
+{
+ "draw_no": 292,
+ "numbers": [
+  17,
+  18,
+  31,
+  32,
+  33,
+  34
+ ],
+ "bonus_no": 10,
+ "date": "2008-07-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 720373950,
+   "winners": 14
+  },
+  {
+   "prize": 45428988,
+   "winners": 37
+  },
+  {
+   "prize": 995778,
+   "winners": 1688
+  },
+  {
+   "prize": 50256,
+   "winners": 66893
+  },
+  {
+   "prize": 5000,
+   "winners": 977718
+  }
+ ],
+ "total_sales_amount": 43394631000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 9
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "draw_no": 532,
+ "numbers": [
+  16,
+  17,
+  23,
+  24,
+  29,
+  44
+ ],
+ "bonus_no": 3,
+ "date": "2013-02-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2216896286,
+   "winners": 7
+  },
+  {
+   "prize": 99476116,
+   "winners": 26
+  },
+  {
+   "prize": 1747554,
+   "winners": 1480
+  },
+  {
+   "prize": 50000,
+   "winners": 74186
+  },
+  {
+   "prize": 5000,
+   "winners": 1288672
+  }
+ ],
+ "total_sales_amount": 61687384000,
+ "winners_combination": {
+  "auto": 7
+ }
+}

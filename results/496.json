@@ -1,0 +1,40 @@
+{
+ "draw_no": 496,
+ "numbers": [
+  4,
+  13,
+  20,
+  29,
+  36,
+  41
+ ],
+ "bonus_no": 39,
+ "date": "2012-06-02T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3285932250,
+   "winners": 4
+  },
+  {
+   "prize": 47622207,
+   "winners": 46
+  },
+  {
+   "prize": 1577122,
+   "winners": 1389
+  },
+  {
+   "prize": 50000,
+   "winners": 66873
+  },
+  {
+   "prize": 5000,
+   "winners": 1117856
+  }
+ ],
+ "total_sales_amount": 52915804000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

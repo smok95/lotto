@@ -1,0 +1,39 @@
+{
+ "draw_no": 384,
+ "numbers": [
+  11,
+  22,
+  24,
+  32,
+  36,
+  38
+ ],
+ "bonus_no": 7,
+ "date": "2010-04-10T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3658734200,
+   "winners": 3
+  },
+  {
+   "prize": 44618710,
+   "winners": 41
+  },
+  {
+   "prize": 1505652,
+   "winners": 1215
+  },
+  {
+   "prize": 58927,
+   "winners": 62090
+  },
+  {
+   "prize": 5000,
+   "winners": 1030160
+  }
+ ],
+ "total_sales_amount": 46888942000,
+ "winners_combination": {
+  "auto": 3
+ }
+}

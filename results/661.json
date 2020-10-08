@@ -1,0 +1,40 @@
+{
+ "draw_no": 661,
+ "numbers": [
+  2,
+  3,
+  12,
+  20,
+  27,
+  38
+ ],
+ "bonus_no": 40,
+ "date": "2015-08-01T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1713025547,
+   "winners": 8
+  },
+  {
+   "prize": 36254509,
+   "winners": 63
+  },
+  {
+   "prize": 1248107,
+   "winners": 1830
+  },
+  {
+   "prize": 50000,
+   "winners": 87840
+  },
+  {
+   "prize": 5000,
+   "winners": 1426883
+  }
+ ],
+ "total_sales_amount": 59597375000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

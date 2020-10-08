@@ -1,0 +1,40 @@
+{
+ "draw_no": 612,
+ "numbers": [
+  6,
+  9,
+  18,
+  19,
+  25,
+  33
+ ],
+ "bonus_no": 40,
+ "date": "2014-08-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1181705250,
+   "winners": 11
+  },
+  {
+   "prize": 36719655,
+   "winners": 59
+  },
+  {
+   "prize": 1181921,
+   "winners": 1833
+  },
+  {
+   "prize": 50000,
+   "winners": 86228
+  },
+  {
+   "prize": 5000,
+   "winners": 1364516
+  }
+ ],
+ "total_sales_amount": 56931314000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 4
+ }
+}

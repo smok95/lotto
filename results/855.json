@@ -1,0 +1,40 @@
+{
+ "draw_no": 855,
+ "numbers": [
+  8,
+  15,
+  17,
+  19,
+  43,
+  44
+ ],
+ "bonus_no": 7,
+ "date": "2019-04-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2269510500,
+   "winners": 9
+  },
+  {
+   "prize": 55807636,
+   "winners": 61
+  },
+  {
+   "prize": 1683614,
+   "winners": 2022
+  },
+  {
+   "prize": 50000,
+   "winners": 102532
+  },
+  {
+   "prize": 5000,
+   "winners": 1765328
+  }
+ ],
+ "total_sales_amount": 82374732000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 2
+ }
+}

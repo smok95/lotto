@@ -1,0 +1,37 @@
+{
+ "draw_no": 92,
+ "numbers": [
+  3,
+  14,
+  24,
+  33,
+  35,
+  36
+ ],
+ "bonus_no": 17,
+ "date": "2004-09-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1233270846,
+   "winners": 11
+  },
+  {
+   "prize": 45219931,
+   "winners": 50
+  },
+  {
+   "prize": 1393098,
+   "winners": 1623
+  },
+  {
+   "prize": 57011,
+   "winners": 79319
+  },
+  {
+   "prize": 5000,
+   "winners": 1307607
+  }
+ ],
+ "total_sales_amount": 58296001000,
+ "winners_combination": {}
+}

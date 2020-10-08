@@ -1,0 +1,39 @@
+{
+ "draw_no": 307,
+ "numbers": [
+  5,
+  15,
+  21,
+  23,
+  25,
+  45
+ ],
+ "bonus_no": 12,
+ "date": "2008-10-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2587643250,
+   "winners": 4
+  },
+  {
+   "prize": 61610554,
+   "winners": 28
+  },
+  {
+   "prize": 1465672,
+   "winners": 1177
+  },
+  {
+   "prize": 58085,
+   "winners": 59400
+  },
+  {
+   "prize": 5000,
+   "winners": 937908
+  }
+ ],
+ "total_sales_amount": 43880990000,
+ "winners_combination": {
+  "auto": 4
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 873,
+ "numbers": [
+  3,
+  5,
+  12,
+  13,
+  33,
+  39
+ ],
+ "bonus_no": 38,
+ "date": "2019-08-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1874553225,
+   "winners": 10
+  },
+  {
+   "prize": 45944932,
+   "winners": 68
+  },
+  {
+   "prize": 1315476,
+   "winners": 2375
+  },
+  {
+   "prize": 50000,
+   "winners": 123684
+  },
+  {
+   "prize": 5000,
+   "winners": 2001910
+  }
+ ],
+ "total_sales_amount": 82375586000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 5
+ }
+}

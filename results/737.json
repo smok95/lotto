@@ -1,0 +1,40 @@
+{
+ "draw_no": 737,
+ "numbers": [
+  13,
+  15,
+  18,
+  24,
+  27,
+  41
+ ],
+ "bonus_no": 11,
+ "date": "2017-01-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4283061000,
+   "winners": 4
+  },
+  {
+   "prize": 59486959,
+   "winners": 48
+  },
+  {
+   "prize": 1474122,
+   "winners": 1937
+  },
+  {
+   "prize": 50000,
+   "winners": 94183
+  },
+  {
+   "prize": 5000,
+   "winners": 1567166
+  }
+ ],
+ "total_sales_amount": 70775944000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

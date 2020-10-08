@@ -1,0 +1,37 @@
+{
+ "draw_no": 136,
+ "numbers": [
+  2,
+  16,
+  30,
+  36,
+  41,
+  42
+ ],
+ "bonus_no": 11,
+ "date": "2005-07-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1997694150,
+   "winners": 6
+  },
+  {
+   "prize": 76834391,
+   "winners": 26
+  },
+  {
+   "prize": 1561919,
+   "winners": 1279
+  },
+  {
+   "prize": 59639,
+   "winners": 66993
+  },
+  {
+   "prize": 5000,
+   "winners": 1119075
+  }
+ ],
+ "total_sales_amount": 51144633000,
+ "winners_combination": {}
+}

@@ -1,0 +1,39 @@
+{
+ "draw_no": 378,
+ "numbers": [
+  5,
+  22,
+  29,
+  31,
+  34,
+  39
+ ],
+ "bonus_no": 43,
+ "date": "2010-02-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2317698240,
+   "winners": 5
+  },
+  {
+   "prize": 64380507,
+   "winners": 30
+  },
+  {
+   "prize": 1718341,
+   "winners": 1124
+  },
+  {
+   "prize": 64659,
+   "winners": 59742
+  },
+  {
+   "prize": 5000,
+   "winners": 1023866
+  }
+ ],
+ "total_sales_amount": 48866964000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

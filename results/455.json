@@ -1,0 +1,40 @@
+{
+ "draw_no": 455,
+ "numbers": [
+  4,
+  19,
+  20,
+  26,
+  30,
+  35
+ ],
+ "bonus_no": 24,
+ "date": "2011-08-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1635711483,
+   "winners": 7
+  },
+  {
+   "prize": 59635315,
+   "winners": 32
+  },
+  {
+   "prize": 1317908,
+   "winners": 1448
+  },
+  {
+   "prize": 50000,
+   "winners": 69056
+  },
+  {
+   "prize": 5000,
+   "winners": 1133097
+  }
+ ],
+ "total_sales_amount": 48769851000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 528,
+ "numbers": [
+  5,
+  17,
+  25,
+  31,
+  39,
+  40
+ ],
+ "bonus_no": 10,
+ "date": "2013-01-12T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1197889125,
+   "winners": 11
+  },
+  {
+   "prize": 25536397,
+   "winners": 86
+  },
+  {
+   "prize": 1212662,
+   "winners": 1811
+  },
+  {
+   "prize": 50000,
+   "winners": 87443
+  },
+  {
+   "prize": 5000,
+   "winners": 1366616
+  }
+ ],
+ "total_sales_amount": 57548541000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 4
+ }
+}

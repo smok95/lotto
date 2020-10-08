@@ -1,0 +1,37 @@
+{
+ "draw_no": 214,
+ "numbers": [
+  5,
+  7,
+  20,
+  25,
+  28,
+  37
+ ],
+ "bonus_no": 32,
+ "date": "2007-01-06T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1406980875,
+   "winners": 8
+  },
+  {
+   "prize": 52110403,
+   "winners": 36
+  },
+  {
+   "prize": 1309124,
+   "winners": 1433
+  },
+  {
+   "prize": 53433,
+   "winners": 70219
+  },
+  {
+   "prize": 5000,
+   "winners": 1167625
+  }
+ ],
+ "total_sales_amount": 49195740000,
+ "winners_combination": {}
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 502,
+ "numbers": [
+  6,
+  22,
+  28,
+  32,
+  34,
+  40
+ ],
+ "bonus_no": 26,
+ "date": "2012-07-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2201458125,
+   "winners": 6
+  },
+  {
+   "prize": 71014779,
+   "winners": 31
+  },
+  {
+   "prize": 1485465,
+   "winners": 1482
+  },
+  {
+   "prize": 50000,
+   "winners": 70160
+  },
+  {
+   "prize": 5000,
+   "winners": 1176131
+  }
+ ],
+ "total_sales_amount": 54000640000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 3
+ }
+}

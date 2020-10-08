@@ -1,0 +1,37 @@
+{
+ "draw_no": 79,
+ "numbers": [
+  3,
+  12,
+  24,
+  27,
+  30,
+  32
+ ],
+ "bonus_no": 14,
+ "date": "2004-06-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3416443800,
+   "winners": 4
+  },
+  {
+   "prize": 73471910,
+   "winners": 31
+  },
+  {
+   "prize": 1904373,
+   "winners": 1196
+  },
+  {
+   "prize": 92154,
+   "winners": 49431
+  },
+  {
+   "prize": 10000,
+   "winners": 741871
+  }
+ ],
+ "total_sales_amount": 60390004000,
+ "winners_combination": {}
+}

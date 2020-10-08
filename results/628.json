@@ -1,0 +1,40 @@
+{
+ "draw_no": 628,
+ "numbers": [
+  1,
+  7,
+  12,
+  15,
+  23,
+  42
+ ],
+ "bonus_no": 11,
+ "date": "2014-12-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1499942875,
+   "winners": 9
+  },
+  {
+   "prize": 60808495,
+   "winners": 37
+  },
+  {
+   "prize": 1382012,
+   "winners": 1628
+  },
+  {
+   "prize": 50000,
+   "winners": 80147
+  },
+  {
+   "prize": 5000,
+   "winners": 1323978
+  }
+ ],
+ "total_sales_amount": 57253109000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 4
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 847,
+ "numbers": [
+  12,
+  16,
+  26,
+  28,
+  30,
+  42
+ ],
+ "bonus_no": 22,
+ "date": "2019-02-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2520846657,
+   "winners": 8
+  },
+  {
+   "prize": 84028222,
+   "winners": 40
+  },
+  {
+   "prize": 1375821,
+   "winners": 2443
+  },
+  {
+   "prize": 50000,
+   "winners": 114324
+  },
+  {
+   "prize": 5000,
+   "winners": 1857205
+  }
+ ],
+ "total_sales_amount": 83782512000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 1
+ }
+}

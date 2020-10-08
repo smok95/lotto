@@ -1,0 +1,41 @@
+{
+ "draw_no": 693,
+ "numbers": [
+  1,
+  6,
+  11,
+  28,
+  34,
+  42
+ ],
+ "bonus_no": 30,
+ "date": "2016-03-12T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1642763813,
+   "winners": 10
+  },
+  {
+   "prize": 63673016,
+   "winners": 43
+  },
+  {
+   "prize": 1618168,
+   "winners": 1692
+  },
+  {
+   "prize": 50000,
+   "winners": 87017
+  },
+  {
+   "prize": 5000,
+   "winners": 1484420
+  }
+ ],
+ "total_sales_amount": 67352935000,
+ "winners_combination": {
+  "auto": 8,
+  "semi_auto": 1,
+  "manual": 1
+ }
+}

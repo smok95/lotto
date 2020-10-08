@@ -1,0 +1,37 @@
+{
+ "draw_no": 152,
+ "numbers": [
+  1,
+  5,
+  13,
+  26,
+  29,
+  34
+ ],
+ "bonus_no": 43,
+ "date": "2005-10-29T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2278131840,
+   "winners": 5
+  },
+  {
+   "prize": 63281440,
+   "winners": 30
+  },
+  {
+   "prize": 1603415,
+   "winners": 1184
+  },
+  {
+   "prize": 62986,
+   "winners": 60282
+  },
+  {
+   "prize": 5000,
+   "winners": 1021147
+  }
+ ],
+ "total_sales_amount": 48180334000,
+ "winners_combination": {}
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 688,
+ "numbers": [
+  5,
+  15,
+  22,
+  23,
+  34,
+  35
+ ],
+ "bonus_no": 2,
+ "date": "2016-02-06T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1967536750,
+   "winners": 9
+  },
+  {
+   "prize": 55685003,
+   "winners": 53
+  },
+  {
+   "prize": 1400715,
+   "winners": 2107
+  },
+  {
+   "prize": 50000,
+   "winners": 97676
+  },
+  {
+   "prize": 5000,
+   "winners": 1610713
+  }
+ ],
+ "total_sales_amount": 73095612000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 4
+ }
+}

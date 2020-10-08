@@ -1,0 +1,37 @@
+{
+ "draw_no": 159,
+ "numbers": [
+  1,
+  18,
+  30,
+  41,
+  42,
+  43
+ ],
+ "bonus_no": 32,
+ "date": "2005-12-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1755407300,
+   "winners": 6
+  },
+  {
+   "prize": 73141971,
+   "winners": 24
+  },
+  {
+   "prize": 1639036,
+   "winners": 1071
+  },
+  {
+   "prize": 63911,
+   "winners": 54933
+  },
+  {
+   "prize": 5000,
+   "winners": 920378
+  }
+ ],
+ "total_sales_amount": 44311926000,
+ "winners_combination": {}
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 436,
+ "numbers": [
+  9,
+  14,
+  20,
+  22,
+  33,
+  34
+ ],
+ "bonus_no": 28,
+ "date": "2011-04-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1512266579,
+   "winners": 8
+  },
+  {
+   "prize": 45826260,
+   "winners": 44
+  },
+  {
+   "prize": 1414987,
+   "winners": 1425
+  },
+  {
+   "prize": 50000,
+   "winners": 70742
+  },
+  {
+   "prize": 5000,
+   "winners": 1153313
+  }
+ ],
+ "total_sales_amount": 50869017000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

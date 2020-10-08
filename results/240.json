@@ -1,0 +1,37 @@
+{
+ "draw_no": 240,
+ "numbers": [
+  6,
+  10,
+  16,
+  40,
+  41,
+  43
+ ],
+ "bonus_no": 21,
+ "date": "2007-07-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 5098251450,
+   "winners": 2
+  },
+  {
+   "prize": 60693470,
+   "winners": 28
+  },
+  {
+   "prize": 1567728,
+   "winners": 1084
+  },
+  {
+   "prize": 59238,
+   "winners": 57376
+  },
+  {
+   "prize": 5000,
+   "winners": 961510
+  }
+ ],
+ "total_sales_amount": 43603443000,
+ "winners_combination": {}
+}

@@ -1,0 +1,37 @@
+{
+ "draw_no": 231,
+ "numbers": [
+  5,
+  10,
+  19,
+  31,
+  44,
+  45
+ ],
+ "bonus_no": 27,
+ "date": "2007-05-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1088365900,
+   "winners": 9
+  },
+  {
+   "prize": 85923624,
+   "winners": 19
+  },
+  {
+   "prize": 1288516,
+   "winners": 1267
+  },
+  {
+   "prize": 55051,
+   "winners": 59311
+  },
+  {
+   "prize": 5000,
+   "winners": 970465
+  }
+ ],
+ "total_sales_amount": 42355627000,
+ "winners_combination": {}
+}

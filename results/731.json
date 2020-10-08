@@ -1,0 +1,40 @@
+{
+ "draw_no": 731,
+ "numbers": [
+  2,
+  7,
+  13,
+  25,
+  42,
+  45
+ ],
+ "bonus_no": 39,
+ "date": "2016-12-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2340471054,
+   "winners": 7
+  },
+  {
+   "prize": 60678880,
+   "winners": 45
+  },
+  {
+   "prize": 1431106,
+   "winners": 1908
+  },
+  {
+   "prize": 50000,
+   "winners": 96083
+  },
+  {
+   "prize": 5000,
+   "winners": 1594258
+  }
+ ],
+ "total_sales_amount": 69239673000,
+ "winners_combination": {
+  "auto": 2,
+  "manual": 5
+ }
+}

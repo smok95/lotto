@@ -1,0 +1,40 @@
+{
+ "draw_no": 579,
+ "numbers": [
+  5,
+  7,
+  20,
+  22,
+  37,
+  42
+ ],
+ "bonus_no": 39,
+ "date": "2014-01-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1396068444,
+   "winners": 11
+  },
+  {
+   "prize": 55640409,
+   "winners": 46
+  },
+  {
+   "prize": 1446840,
+   "winners": 1769
+  },
+  {
+   "prize": 50000,
+   "winners": 85011
+  },
+  {
+   "prize": 5000,
+   "winners": 1408043
+  }
+ ],
+ "total_sales_amount": 63532871000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 5
+ }
+}

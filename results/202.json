@@ -1,0 +1,37 @@
+{
+ "draw_no": 202,
+ "numbers": [
+  12,
+  14,
+  27,
+  33,
+  39,
+  44
+ ],
+ "bonus_no": 17,
+ "date": "2006-10-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1893391700,
+   "winners": 6
+  },
+  {
+   "prize": 47334793,
+   "winners": 40
+  },
+  {
+   "prize": 1536844,
+   "winners": 1232
+  },
+  {
+   "prize": 60558,
+   "winners": 62532
+  },
+  {
+   "prize": 5000,
+   "winners": 1043620
+  }
+ ],
+ "total_sales_amount": 48304034000,
+ "winners_combination": {}
+}

@@ -1,0 +1,41 @@
+{
+ "draw_no": 779,
+ "numbers": [
+  6,
+  12,
+  19,
+  24,
+  34,
+  41
+ ],
+ "bonus_no": 4,
+ "date": "2017-11-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1527709296,
+   "winners": 11
+  },
+  {
+   "prize": 42436370,
+   "winners": 66
+  },
+  {
+   "prize": 1118978,
+   "winners": 2503
+  },
+  {
+   "prize": 50000,
+   "winners": 114464
+  },
+  {
+   "prize": 5000,
+   "winners": 1751447
+  }
+ ],
+ "total_sales_amount": 73773676000,
+ "winners_combination": {
+  "auto": 5,
+  "semi_auto": 1,
+  "manual": 5
+ }
+}

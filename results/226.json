@@ -1,0 +1,37 @@
+{
+ "draw_no": 226,
+ "numbers": [
+  2,
+  6,
+  8,
+  14,
+  21,
+  22
+ ],
+ "bonus_no": 34,
+ "date": "2007-03-31T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1744100150,
+   "winners": 6
+  },
+  {
+   "prize": 45897373,
+   "winners": 38
+  },
+  {
+   "prize": 1336476,
+   "winners": 1305
+  },
+  {
+   "prize": 54439,
+   "winners": 64076
+  },
+  {
+   "prize": 5000,
+   "winners": 1026364
+  }
+ ],
+ "total_sales_amount": 45145643000,
+ "winners_combination": {}
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 724,
+ "numbers": [
+  2,
+  8,
+  33,
+  35,
+  37,
+  41
+ ],
+ "bonus_no": 14,
+ "date": "2016-10-15T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1427789813,
+   "winners": 12
+  },
+  {
+   "prize": 51919630,
+   "winners": 55
+  },
+  {
+   "prize": 1557873,
+   "winners": 1833
+  },
+  {
+   "prize": 50000,
+   "winners": 90083
+  },
+  {
+   "prize": 5000,
+   "winners": 1528970
+  }
+ ],
+ "total_sales_amount": 69987274000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 4
+ }
+}

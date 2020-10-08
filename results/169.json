@@ -1,0 +1,37 @@
+{
+ "draw_no": 169,
+ "numbers": [
+  16,
+  27,
+  35,
+  37,
+  43,
+  45
+ ],
+ "bonus_no": 19,
+ "date": "2006-02-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2482888380,
+   "winners": 5
+  },
+  {
+   "prize": 66744312,
+   "winners": 31
+  },
+  {
+   "prize": 1766929,
+   "winners": 1171
+  },
+  {
+   "prize": 65994,
+   "winners": 62705
+  },
+  {
+   "prize": 5000,
+   "winners": 1069471
+  }
+ ],
+ "total_sales_amount": 52076183000,
+ "winners_combination": {}
+}

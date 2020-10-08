@@ -1,0 +1,34 @@
+{
+ "draw_no": 289,
+ "numbers": [
+  3,
+  14,
+  33,
+  37,
+  38,
+  42
+ ],
+ "bonus_no": 10,
+ "date": "2008-06-14T00:00:00Z",
+ "divisions": [
+  {},
+  {
+   "prize": 63761694,
+   "winners": 24
+  },
+  {
+   "prize": 1501748,
+   "winners": 1019
+  },
+  {
+   "prize": 58541,
+   "winners": 52281
+  },
+  {
+   "prize": 5000,
+   "winners": 880103
+  }
+ ],
+ "total_sales_amount": 39406643000,
+ "winners_combination": {}
+}

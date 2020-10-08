@@ -1,0 +1,40 @@
+{
+ "draw_no": 838,
+ "numbers": [
+  9,
+  14,
+  17,
+  33,
+  36,
+  38
+ ],
+ "bonus_no": 20,
+ "date": "2018-12-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3813733050,
+   "winners": 5
+  },
+  {
+   "prize": 46736925,
+   "winners": 68
+  },
+  {
+   "prize": 1431582,
+   "winners": 2220
+  },
+  {
+   "prize": 50000,
+   "winners": 107897
+  },
+  {
+   "prize": 5000,
+   "winners": 1777501
+  }
+ ],
+ "total_sales_amount": 79414484000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 2
+ }
+}

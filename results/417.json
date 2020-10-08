@@ -1,0 +1,39 @@
+{
+ "draw_no": 417,
+ "numbers": [
+  4,
+  5,
+  14,
+  20,
+  22,
+  43
+ ],
+ "bonus_no": 44,
+ "date": "2010-11-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2818329938,
+   "winners": 4
+  },
+  {
+   "prize": 55261372,
+   "winners": 34
+  },
+  {
+   "prize": 1590929,
+   "winners": 1181
+  },
+  {
+   "prize": 50000,
+   "winners": 58879
+  },
+  {
+   "prize": 5000,
+   "winners": 1001817
+  }
+ ],
+ "total_sales_amount": 45968256000,
+ "winners_combination": {
+  "auto": 4
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "draw_no": 88,
+ "numbers": [
+  1,
+  17,
+  20,
+  24,
+  30,
+  41
+ ],
+ "bonus_no": 27,
+ "date": "2004-08-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3069709650,
+   "winners": 4
+  },
+  {
+   "prize": 66015262,
+   "winners": 31
+  },
+  {
+   "prize": 1729902,
+   "winners": 1183
+  },
+  {
+   "prize": 63321,
+   "winners": 64639
+  },
+  {
+   "prize": 5000,
+   "winners": 1098115
+  }
+ ],
+ "total_sales_amount": 51910612000,
+ "winners_combination": {}
+}

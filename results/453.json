@@ -1,0 +1,40 @@
+{
+ "draw_no": 453,
+ "numbers": [
+  12,
+  24,
+  33,
+  38,
+  40,
+  42
+ ],
+ "bonus_no": 30,
+ "date": "2011-08-06T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2262732375,
+   "winners": 5
+  },
+  {
+   "prize": 52378065,
+   "winners": 36
+  },
+  {
+   "prize": 1335419,
+   "winners": 1412
+  },
+  {
+   "prize": 50000,
+   "winners": 69250
+  },
+  {
+   "prize": 5000,
+   "winners": 1096036
+  }
+ ],
+ "total_sales_amount": 48055125000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 2
+ }
+}

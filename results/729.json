@@ -1,0 +1,40 @@
+{
+ "draw_no": 729,
+ "numbers": [
+  11,
+  17,
+  21,
+  26,
+  36,
+  45
+ ],
+ "bonus_no": 16,
+ "date": "2016-11-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4198250719,
+   "winners": 4
+  },
+  {
+   "prize": 79966681,
+   "winners": 35
+  },
+  {
+   "prize": 1492712,
+   "winners": 1875
+  },
+  {
+   "prize": 50000,
+   "winners": 89560
+  },
+  {
+   "prize": 5000,
+   "winners": 1504682
+  }
+ ],
+ "total_sales_amount": 68784161000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

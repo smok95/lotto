@@ -1,0 +1,41 @@
+{
+ "draw_no": 839,
+ "numbers": [
+  3,
+  9,
+  11,
+  12,
+  13,
+  19
+ ],
+ "bonus_no": 35,
+ "date": "2018-12-29T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1359454904,
+   "winners": 13
+  },
+  {
+   "prize": 61364284,
+   "winners": 48
+  },
+  {
+   "prize": 1105663,
+   "winners": 2664
+  },
+  {
+   "prize": 50000,
+   "winners": 126227
+  },
+  {
+   "prize": 5000,
+   "winners": 1946924
+  }
+ ],
+ "total_sales_amount": 79219710000,
+ "winners_combination": {
+  "auto": 7,
+  "semi_auto": 2,
+  "manual": 4
+ }
+}

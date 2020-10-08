@@ -1,0 +1,40 @@
+{
+ "draw_no": 721,
+ "numbers": [
+  1,
+  28,
+  35,
+  41,
+  43,
+  44
+ ],
+ "bonus_no": 31,
+ "date": "2016-09-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2273767360,
+   "winners": 8
+  },
+  {
+   "prize": 75792246,
+   "winners": 40
+  },
+  {
+   "prize": 1886553,
+   "winners": 1607
+  },
+  {
+   "prize": 50000,
+   "winners": 84770
+  },
+  {
+   "prize": 5000,
+   "winners": 1464353
+  }
+ ],
+ "total_sales_amount": 71627567000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 1
+ }
+}

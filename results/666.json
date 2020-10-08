@@ -1,0 +1,40 @@
+{
+ "draw_no": 666,
+ "numbers": [
+  2,
+  4,
+  6,
+  11,
+  17,
+  28
+ ],
+ "bonus_no": 16,
+ "date": "2015-09-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2396901063,
+   "winners": 6
+  },
+  {
+   "prize": 50997895,
+   "winners": 47
+  },
+  {
+   "prize": 1231074,
+   "winners": 1947
+  },
+  {
+   "prize": 50000,
+   "winners": 93631
+  },
+  {
+   "prize": 5000,
+   "winners": 1493940
+  }
+ ],
+ "total_sales_amount": 62652917000,
+ "winners_combination": {
+  "auto": 1,
+  "manual": 5
+ }
+}

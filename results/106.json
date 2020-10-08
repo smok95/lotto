@@ -1,0 +1,37 @@
+{
+ "draw_no": 106,
+ "numbers": [
+  4,
+  10,
+  12,
+  22,
+  24,
+  33
+ ],
+ "bonus_no": 29,
+ "date": "2004-12-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 810461157,
+   "winners": 16
+  },
+  {
+   "prize": 54030744,
+   "winners": 40
+  },
+  {
+   "prize": 1051182,
+   "winners": 2056
+  },
+  {
+   "prize": 46205,
+   "winners": 93551
+  },
+  {
+   "prize": 5000,
+   "winners": 1415989
+  }
+ ],
+ "total_sales_amount": 57384485000,
+ "winners_combination": {}
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 583,
+ "numbers": [
+  8,
+  17,
+  27,
+  33,
+  40,
+  44
+ ],
+ "bonus_no": 24,
+ "date": "2014-02-01T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1341848353,
+   "winners": 11
+  },
+  {
+   "prize": 48236379,
+   "winners": 51
+  },
+  {
+   "prize": 1347238,
+   "winners": 1826
+  },
+  {
+   "prize": 50000,
+   "winners": 88583
+  },
+  {
+   "prize": 5000,
+   "winners": 1445611
+  }
+ ],
+ "total_sales_amount": 62675295000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 8
+ }
+}

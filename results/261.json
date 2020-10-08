@@ -1,0 +1,37 @@
+{
+ "draw_no": 261,
+ "numbers": [
+  6,
+  11,
+  16,
+  18,
+  31,
+  43
+ ],
+ "bonus_no": 2,
+ "date": "2007-12-01T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3192299100,
+   "winners": 3
+  },
+  {
+   "prize": 49879674,
+   "winners": 32
+  },
+  {
+   "prize": 1445788,
+   "winners": 1104
+  },
+  {
+   "prize": 56717,
+   "winners": 56285
+  },
+  {
+   "prize": 5000,
+   "winners": 929205
+  }
+ ],
+ "total_sales_amount": 41215041000,
+ "winners_combination": {}
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 843,
+ "numbers": [
+  19,
+  21,
+  30,
+  33,
+  34,
+  42
+ ],
+ "bonus_no": 4,
+ "date": "2019-01-26T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4012970100,
+   "winners": 5
+  },
+  {
+   "prize": 64310419,
+   "winners": 52
+  },
+  {
+   "prize": 1670401,
+   "winners": 2002
+  },
+  {
+   "prize": 50000,
+   "winners": 105717
+  },
+  {
+   "prize": 5000,
+   "winners": 1777953
+  }
+ ],
+ "total_sales_amount": 81857498000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 1
+ }
+}

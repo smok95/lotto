@@ -1,0 +1,40 @@
+{
+ "draw_no": 759,
+ "numbers": [
+  9,
+  33,
+  36,
+  40,
+  42,
+  43
+ ],
+ "bonus_no": 32,
+ "date": "2017-06-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3032670500,
+   "winners": 6
+  },
+  {
+   "prize": 68924330,
+   "winners": 44
+  },
+  {
+   "prize": 1722130,
+   "winners": 1761
+  },
+  {
+   "prize": 50000,
+   "winners": 88543
+  },
+  {
+   "prize": 5000,
+   "winners": 1525518
+  }
+ ],
+ "total_sales_amount": 72632208000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 2
+ }
+}

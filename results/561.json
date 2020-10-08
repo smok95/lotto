@@ -1,0 +1,40 @@
+{
+ "draw_no": 561,
+ "numbers": [
+  5,
+  7,
+  18,
+  37,
+  42,
+  45
+ ],
+ "bonus_no": 20,
+ "date": "2013-08-31T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2753712225,
+   "winners": 5
+  },
+  {
+   "prize": 55969761,
+   "winners": 41
+  },
+  {
+   "prize": 1600252,
+   "winners": 1434
+  },
+  {
+   "prize": 50000,
+   "winners": 73966
+  },
+  {
+   "prize": 5000,
+   "winners": 1252562
+  }
+ ],
+ "total_sales_amount": 56638383000,
+ "winners_combination": {
+  "auto": 2,
+  "manual": 3
+ }
+}

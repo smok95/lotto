@@ -1,0 +1,40 @@
+{
+ "draw_no": 529,
+ "numbers": [
+  18,
+  20,
+  24,
+  27,
+  31,
+  42
+ ],
+ "bonus_no": 39,
+ "date": "2013-01-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1749114797,
+   "winners": 8
+  },
+  {
+   "prize": 70671305,
+   "winners": 33
+  },
+  {
+   "prize": 1552699,
+   "winners": 1502
+  },
+  {
+   "prize": 50000,
+   "winners": 75069
+  },
+  {
+   "prize": 5000,
+   "winners": 1282443
+  }
+ ],
+ "total_sales_amount": 57645779000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

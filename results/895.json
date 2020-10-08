@@ -1,0 +1,40 @@
+{
+ "draw_no": 895,
+ "numbers": [
+  16,
+  26,
+  31,
+  38,
+  39,
+  41
+ ],
+ "bonus_no": 23,
+ "date": "2020-01-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1928079219,
+   "winners": 12
+  },
+  {
+   "prize": 66485491,
+   "winners": 58
+  },
+  {
+   "prize": 1402240,
+   "winners": 2750
+  },
+  {
+   "prize": 50000,
+   "winners": 134059
+  },
+  {
+   "prize": 5000,
+   "winners": 2185782
+  }
+ ],
+ "total_sales_amount": 96962255000,
+ "winners_combination": {
+  "auto": 10,
+  "manual": 2
+ }
+}

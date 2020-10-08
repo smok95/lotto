@@ -1,0 +1,40 @@
+{
+ "draw_no": 468,
+ "numbers": [
+  8,
+  13,
+  15,
+  28,
+  37,
+  43
+ ],
+ "bonus_no": 17,
+ "date": "2011-11-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1527197167,
+   "winners": 9
+  },
+  {
+   "prize": 69418054,
+   "winners": 33
+  },
+  {
+   "prize": 1572269,
+   "winners": 1457
+  },
+  {
+   "prize": 50000,
+   "winners": 70701
+  },
+  {
+   "prize": 5000,
+   "winners": 1187572
+  }
+ ],
+ "total_sales_amount": 55598552000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 1
+ }
+}

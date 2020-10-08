@@ -1,0 +1,41 @@
+{
+ "draw_no": 694,
+ "numbers": [
+  7,
+  15,
+  20,
+  25,
+  33,
+  43
+ ],
+ "bonus_no": 12,
+ "date": "2016-03-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1555036388,
+   "winners": 10
+  },
+  {
+   "prize": 33227274,
+   "winners": 78
+  },
+  {
+   "prize": 1133739,
+   "winners": 2286
+  },
+  {
+   "prize": 50000,
+   "winners": 102474
+  },
+  {
+   "prize": 5000,
+   "winners": 1581822
+  }
+ ],
+ "total_sales_amount": 67533257000,
+ "winners_combination": {
+  "auto": 3,
+  "semi_auto": 1,
+  "manual": 6
+ }
+}

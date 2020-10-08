@@ -1,0 +1,40 @@
+{
+ "draw_no": 670,
+ "numbers": [
+  11,
+  18,
+  26,
+  27,
+  40,
+  41
+ ],
+ "bonus_no": 25,
+ "date": "2015-10-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1191725219,
+   "winners": 12
+  },
+  {
+   "prize": 61114114,
+   "winners": 39
+  },
+  {
+   "prize": 1111166,
+   "winners": 2145
+  },
+  {
+   "prize": 50000,
+   "winners": 92680
+  },
+  {
+   "prize": 5000,
+   "winners": 1483948
+  }
+ ],
+ "total_sales_amount": 62242687000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 5
+ }
+}

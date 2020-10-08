@@ -1,0 +1,39 @@
+{
+ "draw_no": 793,
+ "numbers": [
+  10,
+  15,
+  21,
+  35,
+  38,
+  43
+ ],
+ "bonus_no": 31,
+ "date": "2018-02-10T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3750146775,
+   "winners": 5
+  },
+  {
+   "prize": 51231514,
+   "winners": 61
+  },
+  {
+   "prize": 1529674,
+   "winners": 2043
+  },
+  {
+   "prize": 50000,
+   "winners": 98216
+  },
+  {
+   "prize": 5000,
+   "winners": 1635392
+  }
+ ],
+ "total_sales_amount": 76177477000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "draw_no": 479,
+ "numbers": [
+  8,
+  23,
+  25,
+  27,
+  35,
+  44
+ ],
+ "bonus_no": 24,
+ "date": "2012-02-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2233046500,
+   "winners": 6
+  },
+  {
+   "prize": 65677839,
+   "winners": 34
+  },
+  {
+   "prize": 1607665,
+   "winners": 1389
+  },
+  {
+   "prize": 50000,
+   "winners": 71489
+  },
+  {
+   "prize": 5000,
+   "winners": 1197119
+  }
+ ],
+ "total_sales_amount": 54848834000,
+ "winners_combination": {
+  "auto": 6
+ }
+}

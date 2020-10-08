@@ -1,0 +1,37 @@
+{
+ "draw_no": 142,
+ "numbers": [
+  12,
+  16,
+  30,
+  34,
+  40,
+  44
+ ],
+ "bonus_no": 19,
+ "date": "2005-08-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1018265564,
+   "winners": 11
+  },
+  {
+   "prize": 66672150,
+   "winners": 28
+  },
+  {
+   "prize": 1407859,
+   "winners": 1326
+  },
+  {
+   "prize": 57795,
+   "winners": 64602
+  },
+  {
+   "prize": 5000,
+   "winners": 1067644
+  }
+ ],
+ "total_sales_amount": 48012844000,
+ "winners_combination": {}
+}

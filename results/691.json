@@ -1,0 +1,39 @@
+{
+ "draw_no": 691,
+ "numbers": [
+  15,
+  27,
+  33,
+  35,
+  43,
+  45
+ ],
+ "bonus_no": 16,
+ "date": "2016-02-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2839296750,
+   "winners": 6
+  },
+  {
+   "prize": 91590218,
+   "winners": 31
+  },
+  {
+   "prize": 1662352,
+   "winners": 1708
+  },
+  {
+   "prize": 50000,
+   "winners": 86063
+  },
+  {
+   "prize": 5000,
+   "winners": 1455528
+  }
+ ],
+ "total_sales_amount": 68590328000,
+ "winners_combination": {
+  "auto": 6
+ }
+}

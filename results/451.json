@@ -1,0 +1,40 @@
+{
+ "draw_no": 451,
+ "numbers": [
+  12,
+  15,
+  20,
+  24,
+  30,
+  38
+ ],
+ "bonus_no": 29,
+ "date": "2011-07-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 882138952,
+   "winners": 13
+  },
+  {
+   "prize": 61654873,
+   "winners": 31
+  },
+  {
+   "prize": 1185671,
+   "winners": 1612
+  },
+  {
+   "prize": 50000,
+   "winners": 74696
+  },
+  {
+   "prize": 5000,
+   "winners": 1181075
+  }
+ ],
+ "total_sales_amount": 49861167000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 7
+ }
+}

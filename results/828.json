@@ -1,0 +1,41 @@
+{
+ "draw_no": 828,
+ "numbers": [
+  4,
+  7,
+  13,
+  29,
+  31,
+  39
+ ],
+ "bonus_no": 18,
+ "date": "2018-10-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1455185972,
+   "winners": 13
+  },
+  {
+   "prize": 50853274,
+   "winners": 62
+  },
+  {
+   "prize": 1602085,
+   "winners": 1968
+  },
+  {
+   "prize": 50000,
+   "winners": 100644
+  },
+  {
+   "prize": 5000,
+   "winners": 1704198
+  }
+ ],
+ "total_sales_amount": 77552827000,
+ "winners_combination": {
+  "auto": 9,
+  "semi_auto": 1,
+  "manual": 3
+ }
+}

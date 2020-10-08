@@ -1,0 +1,40 @@
+{
+ "draw_no": 764,
+ "numbers": [
+  7,
+  22,
+  24,
+  31,
+  34,
+  36
+ ],
+ "bonus_no": 15,
+ "date": "2017-07-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2459975465,
+   "winners": 7
+  },
+  {
+   "prize": 65226623,
+   "winners": 44
+  },
+  {
+   "prize": 1504178,
+   "winners": 1908
+  },
+  {
+   "prize": 50000,
+   "winners": 90896
+  },
+  {
+   "prize": 5000,
+   "winners": 1530979
+  }
+ ],
+ "total_sales_amount": 70318932000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

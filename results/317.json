@@ -1,0 +1,40 @@
+{
+ "draw_no": 317,
+ "numbers": [
+  3,
+  10,
+  11,
+  22,
+  36,
+  39
+ ],
+ "bonus_no": 8,
+ "date": "2008-12-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2576258550,
+   "winners": 4
+  },
+  {
+   "prize": 68700228,
+   "winners": 25
+  },
+  {
+   "prize": 1517232,
+   "winners": 1132
+  },
+  {
+   "prize": 59672,
+   "winners": 57565
+  },
+  {
+   "prize": 5000,
+   "winners": 978500
+  }
+ ],
+ "total_sales_amount": 44135114000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

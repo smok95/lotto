@@ -1,0 +1,41 @@
+{
+ "draw_no": 919,
+ "numbers": [
+  9,
+  14,
+  17,
+  18,
+  42,
+  44
+ ],
+ "bonus_no": 35,
+ "date": "2020-07-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4305150450,
+   "winners": 5
+  },
+  {
+   "prize": 64064739,
+   "winners": 56
+  },
+  {
+   "prize": 1411896,
+   "winners": 2541
+  },
+  {
+   "prize": 50000,
+   "winners": 122864
+  },
+  {
+   "prize": 5000,
+   "winners": 2052965
+  }
+ ],
+ "total_sales_amount": 90218056000,
+ "winners_combination": {
+  "auto": 3,
+  "semi_auto": 1,
+  "manual": 1
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 914,
+ "numbers": [
+  16,
+  19,
+  24,
+  33,
+  42,
+  44
+ ],
+ "bonus_no": 27,
+ "date": "2020-06-06T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1950005557,
+   "winners": 11
+  },
+  {
+   "prize": 65000186,
+   "winners": 55
+  },
+  {
+   "prize": 1382983,
+   "winners": 2585
+  },
+  {
+   "prize": 50000,
+   "winners": 122904
+  },
+  {
+   "prize": 5000,
+   "winners": 2006794
+  }
+ ],
+ "total_sales_amount": 89558503000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 4
+ }
+}

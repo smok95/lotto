@@ -1,0 +1,40 @@
+{
+ "draw_no": 473,
+ "numbers": [
+  8,
+  13,
+  20,
+  22,
+  23,
+  36
+ ],
+ "bonus_no": 34,
+ "date": "2011-12-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3250418063,
+   "winners": 4
+  },
+  {
+   "prize": 60192928,
+   "winners": 36
+  },
+  {
+   "prize": 1650378,
+   "winners": 1313
+  },
+  {
+   "prize": 50000,
+   "winners": 67064
+  },
+  {
+   "prize": 5000,
+   "winners": 1148971
+  }
+ ],
+ "total_sales_amount": 52867236000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

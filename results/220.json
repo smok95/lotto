@@ -1,0 +1,37 @@
+{
+ "draw_no": 220,
+ "numbers": [
+  5,
+  11,
+  19,
+  21,
+  34,
+  43
+ ],
+ "bonus_no": 31,
+ "date": "2007-02-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1958094950,
+   "winners": 6
+  },
+  {
+   "prize": 69931963,
+   "winners": 28
+  },
+  {
+   "prize": 1486785,
+   "winners": 1317
+  },
+  {
+   "prize": 58216,
+   "winners": 67271
+  },
+  {
+   "prize": 5000,
+   "winners": 1122150
+  }
+ ],
+ "total_sales_amount": 50383399000,
+ "winners_combination": {}
+}

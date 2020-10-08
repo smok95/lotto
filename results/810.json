@@ -1,0 +1,40 @@
+{
+ "draw_no": 810,
+ "numbers": [
+  5,
+  10,
+  13,
+  21,
+  39,
+  43
+ ],
+ "bonus_no": 11,
+ "date": "2018-06-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2231598047,
+   "winners": 8
+  },
+  {
+   "prize": 46491626,
+   "winners": 64
+  },
+  {
+   "prize": 1449325,
+   "winners": 2053
+  },
+  {
+   "prize": 50000,
+   "winners": 100608
+  },
+  {
+   "prize": 5000,
+   "winners": 1672013
+  }
+ ],
+ "total_sales_amount": 74388355000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 2
+ }
+}

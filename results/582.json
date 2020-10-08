@@ -1,0 +1,40 @@
+{
+ "draw_no": 582,
+ "numbers": [
+  2,
+  12,
+  14,
+  33,
+  40,
+  41
+ ],
+ "bonus_no": 25,
+ "date": "2014-01-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3560558719,
+   "winners": 4
+  },
+  {
+   "prize": 41643962,
+   "winners": 57
+  },
+  {
+   "prize": 1455369,
+   "winners": 1631
+  },
+  {
+   "prize": 50000,
+   "winners": 79917
+  },
+  {
+   "prize": 5000,
+   "winners": 1333596
+  }
+ ],
+ "total_sales_amount": 59306953000,
+ "winners_combination": {
+  "auto": 1,
+  "manual": 3
+ }
+}

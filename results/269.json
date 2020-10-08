@@ -1,0 +1,39 @@
+{
+ "draw_no": 269,
+ "numbers": [
+  5,
+  18,
+  20,
+  36,
+  42,
+  43
+ ],
+ "bonus_no": 32,
+ "date": "2008-01-26T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1961399940,
+   "winners": 5
+  },
+  {
+   "prize": 74295453,
+   "winners": 22
+  },
+  {
+   "prize": 1611933,
+   "winners": 1014
+  },
+  {
+   "prize": 64715,
+   "winners": 50514
+  },
+  {
+   "prize": 5000,
+   "winners": 866762
+  }
+ ],
+ "total_sales_amount": 41357619000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

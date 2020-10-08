@@ -1,0 +1,41 @@
+{
+ "draw_no": 640,
+ "numbers": [
+  14,
+  15,
+  18,
+  21,
+  26,
+  35
+ ],
+ "bonus_no": 23,
+ "date": "2015-03-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1728768834,
+   "winners": 9
+  },
+  {
+   "prize": 54024027,
+   "winners": 48
+  },
+  {
+   "prize": 1582156,
+   "winners": 1639
+  },
+  {
+   "prize": 50000,
+   "winners": 85410
+  },
+  {
+   "prize": 5000,
+   "winners": 1404905
+  }
+ ],
+ "total_sales_amount": 64080502000,
+ "winners_combination": {
+  "auto": 7,
+  "semi_auto": 1,
+  "manual": 1
+ }
+}

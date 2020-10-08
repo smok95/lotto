@@ -1,0 +1,37 @@
+{
+ "draw_no": 108,
+ "numbers": [
+  7,
+  18,
+  22,
+  23,
+  29,
+  44
+ ],
+ "bonus_no": 12,
+ "date": "2004-12-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1998900772,
+   "winners": 7
+  },
+  {
+   "prize": 56879291,
+   "winners": 41
+  },
+  {
+   "prize": 1595111,
+   "winners": 1462
+  },
+  {
+   "prize": 65853,
+   "winners": 70827
+  },
+  {
+   "prize": 5000,
+   "winners": 1223421
+  }
+ ],
+ "total_sales_amount": 58875228000,
+ "winners_combination": {}
+}

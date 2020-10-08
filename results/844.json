@@ -1,0 +1,41 @@
+{
+ "draw_no": 844,
+ "numbers": [
+  7,
+  8,
+  13,
+  15,
+  33,
+  45
+ ],
+ "bonus_no": 18,
+ "date": "2019-02-02T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1162963542,
+   "winners": 18
+  },
+  {
+   "prize": 47793023,
+   "winners": 73
+  },
+  {
+   "prize": 1450080,
+   "winners": 2406
+  },
+  {
+   "prize": 50000,
+   "winners": 120078
+  },
+  {
+   "prize": 5000,
+   "winners": 1997556
+  }
+ ],
+ "total_sales_amount": 87805610000,
+ "winners_combination": {
+  "auto": 13,
+  "semi_auto": 2,
+  "manual": 3
+ }
+}

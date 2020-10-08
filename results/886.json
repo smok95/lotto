@@ -1,0 +1,40 @@
+{
+ "draw_no": 886,
+ "numbers": [
+  19,
+  23,
+  28,
+  37,
+  42,
+  45
+ ],
+ "bonus_no": 2,
+ "date": "2019-11-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2974643786,
+   "winners": 7
+  },
+  {
+   "prize": 58820640,
+   "winners": 59
+  },
+  {
+   "prize": 1621691,
+   "winners": 2140
+  },
+  {
+   "prize": 50000,
+   "winners": 109766
+  },
+  {
+   "prize": 5000,
+   "winners": 1768281
+  }
+ ],
+ "total_sales_amount": 84186094000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

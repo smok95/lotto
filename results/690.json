@@ -1,0 +1,40 @@
+{
+ "draw_no": 690,
+ "numbers": [
+  24,
+  25,
+  33,
+  34,
+  38,
+  39
+ ],
+ "bonus_no": 43,
+ "date": "2016-02-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1126507625,
+   "winners": 15
+  },
+  {
+   "prize": 82831444,
+   "winners": 34
+  },
+  {
+   "prize": 1589317,
+   "winners": 1772
+  },
+  {
+   "prize": 50000,
+   "winners": 87970
+  },
+  {
+   "prize": 5000,
+   "winners": 1528472
+  }
+ ],
+ "total_sales_amount": 69142025000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 12
+ }
+}

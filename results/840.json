@@ -1,0 +1,41 @@
+{
+ "draw_no": 840,
+ "numbers": [
+  2,
+  4,
+  11,
+  28,
+  29,
+  43
+ ],
+ "bonus_no": 27,
+ "date": "2019-01-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2042961788,
+   "winners": 10
+  },
+  {
+   "prize": 66763458,
+   "winners": 51
+  },
+  {
+   "prize": 1496676,
+   "winners": 2275
+  },
+  {
+   "prize": 50000,
+   "winners": 110586
+  },
+  {
+   "prize": 5000,
+   "winners": 1852019
+  }
+ ],
+ "total_sales_amount": 84057771000,
+ "winners_combination": {
+  "auto": 7,
+  "semi_auto": 1,
+  "manual": 2
+ }
+}

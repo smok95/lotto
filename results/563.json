@@ -1,0 +1,40 @@
+{
+ "draw_no": 563,
+ "numbers": [
+  5,
+  10,
+  16,
+  17,
+  31,
+  32
+ ],
+ "bonus_no": 21,
+ "date": "2013-09-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1932735643,
+   "winners": 7
+  },
+  {
+   "prize": 59338375,
+   "winners": 38
+  },
+  {
+   "prize": 1373239,
+   "winners": 1642
+  },
+  {
+   "prize": 50000,
+   "winners": 79945
+  },
+  {
+   "prize": 5000,
+   "winners": 1324790
+  }
+ ],
+ "total_sales_amount": 57320132000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "draw_no": 510,
+ "numbers": [
+  12,
+  29,
+  32,
+  33,
+  39,
+  40
+ ],
+ "bonus_no": 42,
+ "date": "2012-09-08T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2644158150,
+   "winners": 5
+  },
+  {
+   "prize": 88138605,
+   "winners": 25
+  },
+  {
+   "prize": 1670558,
+   "winners": 1319
+  },
+  {
+   "prize": 50000,
+   "winners": 69724
+  },
+  {
+   "prize": 5000,
+   "winners": 1173715
+  }
+ ],
+ "total_sales_amount": 53964992000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

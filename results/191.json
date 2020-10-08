@@ -1,0 +1,37 @@
+{
+ "draw_no": 191,
+ "numbers": [
+  5,
+  6,
+  24,
+  25,
+  32,
+  37
+ ],
+ "bonus_no": 8,
+ "date": "2006-07-29T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2577114675,
+   "winners": 4
+  },
+  {
+   "prize": 74698977,
+   "winners": 23
+  },
+  {
+   "prize": 1500504,
+   "winners": 1145
+  },
+  {
+   "prize": 57606,
+   "winners": 59650
+  },
+  {
+   "prize": 5000,
+   "winners": 1017334
+  }
+ ],
+ "total_sales_amount": 44534869000,
+ "winners_combination": {}
+}

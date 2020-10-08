@@ -1,0 +1,39 @@
+{
+ "draw_no": 631,
+ "numbers": [
+  1,
+  2,
+  4,
+  23,
+  31,
+  34
+ ],
+ "bonus_no": 8,
+ "date": "2015-01-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3919853532,
+   "winners": 4
+  },
+  {
+   "prize": 56809472,
+   "winners": 46
+  },
+  {
+   "prize": 1559210,
+   "winners": 1676
+  },
+  {
+   "prize": 50000,
+   "winners": 85710
+  },
+  {
+   "prize": 5000,
+   "winners": 1491785
+  }
+ ],
+ "total_sales_amount": 65300621000,
+ "winners_combination": {
+  "auto": 4
+ }
+}

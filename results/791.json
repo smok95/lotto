@@ -1,0 +1,40 @@
+{
+ "draw_no": 791,
+ "numbers": [
+  2,
+  10,
+  12,
+  31,
+  33,
+  42
+ ],
+ "bonus_no": 32,
+ "date": "2018-01-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1253081893,
+   "winners": 14
+  },
+  {
+   "prize": 76943625,
+   "winners": 38
+  },
+  {
+   "prize": 1213219,
+   "winners": 2410
+  },
+  {
+   "prize": 50000,
+   "winners": 102931
+  },
+  {
+   "prize": 5000,
+   "winners": 1713102
+  }
+ ],
+ "total_sales_amount": 74205844000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 9
+ }
+}

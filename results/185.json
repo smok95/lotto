@@ -1,0 +1,37 @@
+{
+ "draw_no": 185,
+ "numbers": [
+  1,
+  2,
+  4,
+  8,
+  19,
+  38
+ ],
+ "bonus_no": 14,
+ "date": "2006-06-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3522485800,
+   "winners": 3
+  },
+  {
+   "prize": 51801262,
+   "winners": 34
+  },
+  {
+   "prize": 1434237,
+   "winners": 1228
+  },
+  {
+   "prize": 53422,
+   "winners": 65938
+  },
+  {
+   "prize": 5000,
+   "winners": 1055823
+  }
+ ],
+ "total_sales_amount": 45783088000,
+ "winners_combination": {}
+}

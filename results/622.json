@@ -1,0 +1,40 @@
+{
+ "draw_no": 622,
+ "numbers": [
+  9,
+  15,
+  16,
+  21,
+  28,
+  34
+ ],
+ "bonus_no": 24,
+ "date": "2014-11-01T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1630598292,
+   "winners": 9
+  },
+  {
+   "prize": 71938160,
+   "winners": 34
+  },
+  {
+   "prize": 1501472,
+   "winners": 1629
+  },
+  {
+   "prize": 50000,
+   "winners": 77626
+  },
+  {
+   "prize": 5000,
+   "winners": 1270437
+  }
+ ],
+ "total_sales_amount": 59601329000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 1
+ }
+}

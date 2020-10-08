@@ -1,0 +1,37 @@
+{
+ "draw_no": 194,
+ "numbers": [
+  15,
+  20,
+  23,
+  26,
+  39,
+  44
+ ],
+ "bonus_no": 28,
+ "date": "2006-08-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2650567875,
+   "winners": 4
+  },
+  {
+   "prize": 84145012,
+   "winners": 21
+  },
+  {
+   "prize": 1648364,
+   "winners": 1072
+  },
+  {
+   "prize": 65985,
+   "winners": 53559
+  },
+  {
+   "prize": 5000,
+   "winners": 917061
+  }
+ ],
+ "total_sales_amount": 44511515000,
+ "winners_combination": {}
+}

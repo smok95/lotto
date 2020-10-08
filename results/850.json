@@ -1,0 +1,40 @@
+{
+ "draw_no": 850,
+ "numbers": [
+  16,
+  20,
+  24,
+  28,
+  36,
+  39
+ ],
+ "bonus_no": 5,
+ "date": "2019-03-16T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3377587875,
+   "winners": 6
+  },
+  {
+   "prize": 61410689,
+   "winners": 55
+  },
+  {
+   "prize": 1669594,
+   "winners": 2023
+  },
+  {
+   "prize": 50000,
+   "winners": 101591
+  },
+  {
+   "prize": 5000,
+   "winners": 1727367
+  }
+ ],
+ "total_sales_amount": 81474176000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 1
+ }
+}

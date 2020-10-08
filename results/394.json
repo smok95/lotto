@@ -1,0 +1,39 @@
+{
+ "draw_no": 394,
+ "numbers": [
+  1,
+  13,
+  20,
+  22,
+  25,
+  28
+ ],
+ "bonus_no": 15,
+ "date": "2010-06-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 10654349100,
+   "winners": 1
+  },
+  {
+   "prize": 53809844,
+   "winners": 33
+  },
+  {
+   "prize": 1474855,
+   "winners": 1204
+  },
+  {
+   "prize": 63081,
+   "winners": 56300
+  },
+  {
+   "prize": 5000,
+   "winners": 967784
+  }
+ ],
+ "total_sales_amount": 45192337000,
+ "winners_combination": {
+  "auto": 1
+ }
+}

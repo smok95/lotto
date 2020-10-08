@@ -1,0 +1,37 @@
+{
+ "draw_no": 127,
+ "numbers": [
+  3,
+  5,
+  10,
+  29,
+  32,
+  43
+ ],
+ "bonus_no": 35,
+ "date": "2005-05-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1965939150,
+   "winners": 6
+  },
+  {
+   "prize": 45719516,
+   "winners": 43
+  },
+  {
+   "prize": 1537091,
+   "winners": 1279
+  },
+  {
+   "prize": 58532,
+   "winners": 67175
+  },
+  {
+   "prize": 5000,
+   "winners": 1143382
+  }
+ ],
+ "total_sales_amount": 50752603000,
+ "winners_combination": {}
+}

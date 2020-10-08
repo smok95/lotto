@@ -1,0 +1,40 @@
+{
+ "draw_no": 755,
+ "numbers": [
+  13,
+  14,
+  26,
+  28,
+  30,
+  36
+ ],
+ "bonus_no": 37,
+ "date": "2017-05-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2214427266,
+   "winners": 8
+  },
+  {
+   "prize": 54677217,
+   "winners": 54
+  },
+  {
+   "prize": 1600309,
+   "winners": 1845
+  },
+  {
+   "prize": 50000,
+   "winners": 89745
+  },
+  {
+   "prize": 5000,
+   "winners": 1508502
+  }
+ ],
+ "total_sales_amount": 71300635000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 2
+ }
+}

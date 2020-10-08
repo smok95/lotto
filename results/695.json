@@ -1,0 +1,41 @@
+{
+ "draw_no": 695,
+ "numbers": [
+  4,
+  18,
+  26,
+  33,
+  34,
+  38
+ ],
+ "bonus_no": 14,
+ "date": "2016-03-26T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1450214830,
+   "winners": 11
+  },
+  {
+   "prize": 40283746,
+   "winners": 66
+  },
+  {
+   "prize": 1343471,
+   "winners": 1979
+  },
+  {
+   "prize": 50000,
+   "winners": 95436
+  },
+  {
+   "prize": 5000,
+   "winners": 1558885
+  }
+ ],
+ "total_sales_amount": 67672085000,
+ "winners_combination": {
+  "auto": 6,
+  "semi_auto": 2,
+  "manual": 3
+ }
+}

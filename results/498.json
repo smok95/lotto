@@ -1,0 +1,39 @@
+{
+ "draw_no": 498,
+ "numbers": [
+  13,
+  14,
+  24,
+  32,
+  39,
+  41
+ ],
+ "bonus_no": 3,
+ "date": "2012-06-16T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3244503094,
+   "winners": 4
+  },
+  {
+   "prize": 61800059,
+   "winners": 35
+  },
+  {
+   "prize": 1621441,
+   "winners": 1334
+  },
+  {
+   "prize": 50000,
+   "winners": 68471
+  },
+  {
+   "prize": 5000,
+   "winners": 1139612
+  }
+ ],
+ "total_sales_amount": 52851253000,
+ "winners_combination": {
+  "auto": 4
+ }
+}

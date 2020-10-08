@@ -1,0 +1,40 @@
+{
+ "draw_no": 692,
+ "numbers": [
+  3,
+  11,
+  14,
+  15,
+  32,
+  36
+ ],
+ "bonus_no": 44,
+ "date": "2016-03-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2301273697,
+   "winners": 7
+  },
+  {
+   "prize": 61018621,
+   "winners": 44
+  },
+  {
+   "prize": 1516848,
+   "winners": 1770
+  },
+  {
+   "prize": 50000,
+   "winners": 87763
+  },
+  {
+   "prize": 5000,
+   "winners": 1465709
+  }
+ ],
+ "total_sales_amount": 66390499000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 3
+ }
+}

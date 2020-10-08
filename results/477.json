@@ -1,0 +1,40 @@
+{
+ "draw_no": 477,
+ "numbers": [
+  14,
+  25,
+  29,
+  32,
+  33,
+  45
+ ],
+ "bonus_no": 37,
+ "date": "2012-01-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1919011829,
+   "winners": 8
+  },
+  {
+   "prize": 77535832,
+   "winners": 33
+  },
+  {
+   "prize": 1735877,
+   "winners": 1474
+  },
+  {
+   "prize": 50000,
+   "winners": 73001
+  },
+  {
+   "prize": 5000,
+   "winners": 1256239
+  }
+ ],
+ "total_sales_amount": 60801409000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 1
+ }
+}

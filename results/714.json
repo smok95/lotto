@@ -1,0 +1,40 @@
+{
+ "draw_no": 714,
+ "numbers": [
+  1,
+  7,
+  22,
+  33,
+  37,
+  40
+ ],
+ "bonus_no": 20,
+ "date": "2016-08-06T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2085131733,
+   "winners": 7
+  },
+  {
+   "prize": 52883776,
+   "winners": 46
+  },
+  {
+   "prize": 1198943,
+   "winners": 2029
+  },
+  {
+   "prize": 50000,
+   "winners": 96576
+  },
+  {
+   "prize": 5000,
+   "winners": 1551993
+  }
+ ],
+ "total_sales_amount": 64099989000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 4
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 725,
+ "numbers": [
+  6,
+  7,
+  19,
+  21,
+  41,
+  43
+ ],
+ "bonus_no": 38,
+ "date": "2016-10-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1579217250,
+   "winners": 11
+  },
+  {
+   "prize": 61600673,
+   "winners": 47
+  },
+  {
+   "prize": 1612943,
+   "winners": 1795
+  },
+  {
+   "prize": 50000,
+   "winners": 88359
+  },
+  {
+   "prize": 5000,
+   "winners": 1504907
+  }
+ ],
+ "total_sales_amount": 70208676000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 4
+ }
+}

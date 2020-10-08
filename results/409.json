@@ -1,0 +1,40 @@
+{
+ "draw_no": 409,
+ "numbers": [
+  6,
+  9,
+  21,
+  31,
+  32,
+  40
+ ],
+ "bonus_no": 38,
+ "date": "2010-10-02T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2896989750,
+   "winners": 4
+  },
+  {
+   "prize": 53647959,
+   "winners": 36
+  },
+  {
+   "prize": 1463127,
+   "winners": 1320
+  },
+  {
+   "prize": 50000,
+   "winners": 64123
+  },
+  {
+   "prize": 5000,
+   "winners": 1061106
+  }
+ ],
+ "total_sales_amount": 47924584000,
+ "winners_combination": {
+  "auto": 2,
+  "manual": 2
+ }
+}

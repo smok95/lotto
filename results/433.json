@@ -1,0 +1,40 @@
+{
+ "draw_no": 433,
+ "numbers": [
+  19,
+  23,
+  29,
+  33,
+  35,
+  43
+ ],
+ "bonus_no": 27,
+ "date": "2011-03-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1182294410,
+   "winners": 11
+  },
+  {
+   "prize": 52866824,
+   "winners": 41
+  },
+  {
+   "prize": 1696041,
+   "winners": 1278
+  },
+  {
+   "prize": 50000,
+   "winners": 65906
+  },
+  {
+   "prize": 5000,
+   "winners": 1112537
+  }
+ ],
+ "total_sales_amount": 52396606000,
+ "winners_combination": {
+  "auto": 9,
+  "manual": 2
+ }
+}

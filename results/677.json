@@ -1,0 +1,40 @@
+{
+ "draw_no": 677,
+ "numbers": [
+  12,
+  15,
+  24,
+  36,
+  41,
+  44
+ ],
+ "bonus_no": 42,
+ "date": "2015-11-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1921114407,
+   "winners": 8
+  },
+  {
+   "prize": 69229348,
+   "winners": 37
+  },
+  {
+   "prize": 1505871,
+   "winners": 1701
+  },
+  {
+   "prize": 50000,
+   "winners": 79827
+  },
+  {
+   "prize": 5000,
+   "winners": 1330115
+  }
+ ],
+ "total_sales_amount": 62267624000,
+ "winners_combination": {
+  "auto": 2,
+  "manual": 6
+ }
+}

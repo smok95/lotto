@@ -1,0 +1,40 @@
+{
+ "draw_no": 774,
+ "numbers": [
+  12,
+  15,
+  18,
+  28,
+  34,
+  42
+ ],
+ "bonus_no": 9,
+ "date": "2017-09-30T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1709721512,
+   "winners": 11
+  },
+  {
+   "prize": 52241491,
+   "winners": 60
+  },
+  {
+   "prize": 1602500,
+   "winners": 1956
+  },
+  {
+   "prize": 50000,
+   "winners": 101524
+  },
+  {
+   "prize": 5000,
+   "winners": 1704279
+  }
+ ],
+ "total_sales_amount": 77347021000,
+ "winners_combination": {
+  "auto": 10,
+  "semi_auto": 1
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 601,
+ "numbers": [
+  2,
+  16,
+  19,
+  31,
+  34,
+  35
+ ],
+ "bonus_no": 37,
+ "date": "2014-06-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1524565209,
+   "winners": 9
+  },
+  {
+   "prize": 81673137,
+   "winners": 28
+  },
+  {
+   "prize": 1508475,
+   "winners": 1516
+  },
+  {
+   "prize": 50000,
+   "winners": 72233
+  },
+  {
+   "prize": 5000,
+   "winners": 1205559
+  }
+ ],
+ "total_sales_amount": 55868455000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 3
+ }
+}

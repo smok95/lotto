@@ -1,0 +1,40 @@
+{
+ "draw_no": 805,
+ "numbers": [
+  3,
+  12,
+  13,
+  18,
+  31,
+  32
+ ],
+ "bonus_no": 42,
+ "date": "2018-05-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4266061969,
+   "winners": 4
+  },
+  {
+   "prize": 53661157,
+   "winners": 53
+  },
+  {
+   "prize": 1370623,
+   "winners": 2075
+  },
+  {
+   "prize": 50000,
+   "winners": 105602
+  },
+  {
+   "prize": 5000,
+   "winners": 1700112
+  }
+ ],
+ "total_sales_amount": 73065981000,
+ "winners_combination": {
+  "auto": 3,
+  "semi_auto": 1
+ }
+}

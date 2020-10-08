@@ -1,0 +1,39 @@
+{
+ "draw_no": 286,
+ "numbers": [
+  1,
+  15,
+  19,
+  40,
+  42,
+  44
+ ],
+ "bonus_no": 17,
+ "date": "2008-05-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3236566300,
+   "winners": 3
+  },
+  {
+   "prize": 59936413,
+   "winners": 27
+  },
+  {
+   "prize": 1566586,
+   "winners": 1033
+  },
+  {
+   "prize": 66246,
+   "winners": 48857
+  },
+  {
+   "prize": 5000,
+   "winners": 857882
+  }
+ ],
+ "total_sales_amount": 40944483000,
+ "winners_combination": {
+  "auto": 3
+ }
+}

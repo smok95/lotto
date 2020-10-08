@@ -1,0 +1,40 @@
+{
+ "draw_no": 913,
+ "numbers": [
+  6,
+  14,
+  16,
+  21,
+  27,
+  37
+ ],
+ "bonus_no": 40,
+ "date": "2020-05-30T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1338755602,
+   "winners": 16
+  },
+  {
+   "prize": 54091136,
+   "winners": 66
+  },
+  {
+   "prize": 1447108,
+   "winners": 2467
+  },
+  {
+   "prize": 50000,
+   "winners": 122530
+  },
+  {
+   "prize": 5000,
+   "winners": 1996371
+  }
+ ],
+ "total_sales_amount": 89336949000,
+ "winners_combination": {
+  "auto": 14,
+  "manual": 2
+ }
+}

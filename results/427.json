@@ -1,0 +1,39 @@
+{
+ "draw_no": 427,
+ "numbers": [
+  6,
+  7,
+  15,
+  24,
+  28,
+  30
+ ],
+ "bonus_no": 21,
+ "date": "2011-02-05T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 12571445625,
+   "winners": 1
+  },
+  {
+   "prize": 63492150,
+   "winners": 33
+  },
+  {
+   "prize": 1480736,
+   "winners": 1415
+  },
+  {
+   "prize": 50000,
+   "winners": 71400
+  },
+  {
+   "prize": 5000,
+   "winners": 1184720
+  }
+ ],
+ "total_sales_amount": 52511055000,
+ "winners_combination": {
+  "auto": 1
+ }
+}

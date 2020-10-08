@@ -1,0 +1,37 @@
+{
+ "draw_no": 103,
+ "numbers": [
+  5,
+  14,
+  15,
+  27,
+  30,
+  45
+ ],
+ "bonus_no": 10,
+ "date": "2004-11-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1691589563,
+   "winners": 8
+  },
+  {
+   "prize": 59354020,
+   "winners": 38
+  },
+  {
+   "prize": 1424797,
+   "winners": 1583
+  },
+  {
+   "prize": 59679,
+   "winners": 75587
+  },
+  {
+   "prize": 5000,
+   "winners": 1231156
+  }
+ ],
+ "total_sales_amount": 57420615000,
+ "winners_combination": {}
+}

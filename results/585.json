@@ -1,0 +1,40 @@
+{
+ "draw_no": 585,
+ "numbers": [
+  6,
+  7,
+  10,
+  16,
+  38,
+  41
+ ],
+ "bonus_no": 4,
+ "date": "2014-02-15T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1620546334,
+   "winners": 9
+  },
+  {
+   "prize": 54018212,
+   "winners": 45
+  },
+  {
+   "prize": 1590851,
+   "winners": 1528
+  },
+  {
+   "prize": 50000,
+   "winners": 79691
+  },
+  {
+   "prize": 5000,
+   "winners": 1339079
+  }
+ ],
+ "total_sales_amount": 60253002000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 3
+ }
+}

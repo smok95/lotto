@@ -1,0 +1,41 @@
+{
+ "draw_no": 726,
+ "numbers": [
+  1,
+  11,
+  21,
+  23,
+  34,
+  44
+ ],
+ "bonus_no": 24,
+ "date": "2016-10-29T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1166872634,
+   "winners": 14
+  },
+  {
+   "prize": 48619694,
+   "winners": 56
+  },
+  {
+   "prize": 1297143,
+   "winners": 2099
+  },
+  {
+   "prize": 50000,
+   "winners": 96718
+  },
+  {
+   "prize": 5000,
+   "winners": 1556425
+  }
+ ],
+ "total_sales_amount": 68799295000,
+ "winners_combination": {
+  "auto": 7,
+  "semi_auto": 2,
+  "manual": 5
+ }
+}

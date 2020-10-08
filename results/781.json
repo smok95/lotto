@@ -1,0 +1,40 @@
+{
+ "draw_no": 781,
+ "numbers": [
+  11,
+  16,
+  18,
+  19,
+  24,
+  39
+ ],
+ "bonus_no": 43,
+ "date": "2017-11-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1882891542,
+   "winners": 9
+  },
+  {
+   "prize": 54314180,
+   "winners": 52
+  },
+  {
+   "prize": 1435861,
+   "winners": 1967
+  },
+  {
+   "prize": 50000,
+   "winners": 102959
+  },
+  {
+   "prize": 5000,
+   "winners": 1699786
+  }
+ ],
+ "total_sales_amount": 72483157000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 2
+ }
+}

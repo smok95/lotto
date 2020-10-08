@@ -1,0 +1,40 @@
+{
+ "draw_no": 490,
+ "numbers": [
+  2,
+  7,
+  26,
+  29,
+  40,
+  43
+ ],
+ "bonus_no": 42,
+ "date": "2012-04-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1860234161,
+   "winners": 7
+  },
+  {
+   "prize": 74837007,
+   "winners": 29
+  },
+  {
+   "prize": 1599318,
+   "winners": 1357
+  },
+  {
+   "prize": 50000,
+   "winners": 65961
+  },
+  {
+   "prize": 5000,
+   "winners": 1126965
+  }
+ ],
+ "total_sales_amount": 52590121000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 2
+ }
+}

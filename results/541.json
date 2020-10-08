@@ -1,0 +1,40 @@
+{
+ "draw_no": 541,
+ "numbers": [
+  8,
+  13,
+  26,
+  28,
+  32,
+  34
+ ],
+ "bonus_no": 43,
+ "date": "2013-04-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1269327171,
+   "winners": 11
+  },
+  {
+   "prize": 58177496,
+   "winners": 40
+  },
+  {
+   "prize": 1611565,
+   "winners": 1444
+  },
+  {
+   "prize": 50000,
+   "winners": 73911
+  },
+  {
+   "prize": 5000,
+   "winners": 1246235
+  }
+ ],
+ "total_sales_amount": 57087047000,
+ "winners_combination": {
+  "auto": 9,
+  "manual": 2
+ }
+}

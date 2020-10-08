@@ -1,0 +1,37 @@
+{
+ "draw_no": 72,
+ "numbers": [
+  2,
+  4,
+  11,
+  17,
+  26,
+  27
+ ],
+ "bonus_no": 1,
+ "date": "2004-04-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3260524600,
+   "winners": 13
+  },
+  {
+   "prize": 104081800,
+   "winners": 44
+  },
+  {
+   "prize": 1824500,
+   "winners": 2510
+  },
+  {
+   "prize": 80300,
+   "winners": 113994
+  },
+  {
+   "prize": 10000,
+   "winners": 1702959
+  }
+ ],
+ "total_sales_amount": 125651214000,
+ "winners_combination": {}
+}

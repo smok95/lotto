@@ -1,0 +1,40 @@
+{
+ "draw_no": 598,
+ "numbers": [
+  4,
+  12,
+  24,
+  33,
+  38,
+  45
+ ],
+ "bonus_no": 22,
+ "date": "2014-05-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 833998594,
+   "winners": 16
+  },
+  {
+   "prize": 44479925,
+   "winners": 50
+  },
+  {
+   "prize": 1083291,
+   "winners": 2053
+  },
+  {
+   "prize": 50000,
+   "winners": 86005
+  },
+  {
+   "prize": 5000,
+   "winners": 1333411
+  }
+ ],
+ "total_sales_amount": 57518550000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 11
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 798,
+ "numbers": [
+  2,
+  10,
+  14,
+  22,
+  32,
+  36
+ ],
+ "bonus_no": 41,
+ "date": "2018-03-17T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2710791911,
+   "winners": 7
+  },
+  {
+   "prize": 52709843,
+   "winners": 60
+  },
+  {
+   "prize": 1488979,
+   "winners": 2124
+  },
+  {
+   "prize": 50000,
+   "winners": 98988
+  },
+  {
+   "prize": 5000,
+   "winners": 1653851
+  }
+ ],
+ "total_sales_amount": 77038759000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 4
+ }
+}

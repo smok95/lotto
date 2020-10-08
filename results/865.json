@@ -1,0 +1,40 @@
+{
+ "draw_no": 865,
+ "numbers": [
+  3,
+  15,
+  22,
+  32,
+  33,
+  45
+ ],
+ "bonus_no": 2,
+ "date": "2019-06-29T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1551729145,
+   "winners": 13
+  },
+  {
+   "prize": 64655382,
+   "winners": 52
+  },
+  {
+   "prize": 1619499,
+   "winners": 2076
+  },
+  {
+   "prize": 50000,
+   "winners": 104626
+  },
+  {
+   "prize": 5000,
+   "winners": 1749234
+  }
+ ],
+ "total_sales_amount": 81748217000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 7
+ }
+}

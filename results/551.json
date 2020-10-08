@@ -1,0 +1,39 @@
+{
+ "draw_no": 551,
+ "numbers": [
+  3,
+  6,
+  20,
+  24,
+  27,
+  44
+ ],
+ "bonus_no": 25,
+ "date": "2013-06-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 13526973750,
+   "winners": 1
+  },
+  {
+   "prize": 70452989,
+   "winners": 32
+  },
+  {
+   "prize": 1565622,
+   "winners": 1440
+  },
+  {
+   "prize": 50000,
+   "winners": 77811
+  },
+  {
+   "prize": 5000,
+   "winners": 1313634
+  }
+ ],
+ "total_sales_amount": 56989370000,
+ "winners_combination": {
+  "auto": 1
+ }
+}

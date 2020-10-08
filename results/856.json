@@ -1,0 +1,41 @@
+{
+ "draw_no": 856,
+ "numbers": [
+  10,
+  24,
+  40,
+  41,
+  43,
+  44
+ ],
+ "bonus_no": 17,
+ "date": "2019-04-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3977927550,
+   "winners": 5
+  },
+  {
+   "prize": 62546031,
+   "winners": 53
+  },
+  {
+   "prize": 1700842,
+   "winners": 1949
+  },
+  {
+   "prize": 50000,
+   "winners": 104537
+  },
+  {
+   "prize": 5000,
+   "winners": 1700369
+  }
+ ],
+ "total_sales_amount": 80496424000,
+ "winners_combination": {
+  "auto": 3,
+  "semi_auto": 1,
+  "manual": 1
+ }
+}

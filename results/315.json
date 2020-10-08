@@ -1,0 +1,39 @@
+{
+ "draw_no": 315,
+ "numbers": [
+  1,
+  13,
+  33,
+  35,
+  43,
+  45
+ ],
+ "bonus_no": 23,
+ "date": "2008-12-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1308728625,
+   "winners": 8
+  },
+  {
+   "prize": 54530360,
+   "winners": 32
+  },
+  {
+   "prize": 1641554,
+   "winners": 1063
+  },
+  {
+   "prize": 62091,
+   "winners": 56207
+  },
+  {
+   "prize": 5000,
+   "winners": 943975
+  }
+ ],
+ "total_sales_amount": 44339180000,
+ "winners_combination": {
+  "auto": 8
+ }
+}

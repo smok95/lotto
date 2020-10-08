@@ -1,0 +1,40 @@
+{
+ "draw_no": 924,
+ "numbers": [
+  3,
+  11,
+  34,
+  42,
+  43,
+  44
+ ],
+ "bonus_no": 13,
+ "date": "2020-08-15T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2382430667,
+   "winners": 9
+  },
+  {
+   "prize": 51791972,
+   "winners": 69
+  },
+  {
+   "prize": 1625863,
+   "winners": 2198
+  },
+  {
+   "prize": 50000,
+   "winners": 113214
+  },
+  {
+   "prize": 5000,
+   "winners": 1920852
+  }
+ ],
+ "total_sales_amount": 87708256000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 1
+ }
+}

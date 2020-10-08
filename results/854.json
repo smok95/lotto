@@ -1,0 +1,41 @@
+{
+ "draw_no": 854,
+ "numbers": [
+  20,
+  25,
+  31,
+  32,
+  36,
+  43
+ ],
+ "bonus_no": 3,
+ "date": "2019-04-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3421706750,
+   "winners": 6
+  },
+  {
+   "prize": 77766063,
+   "winners": 44
+  },
+  {
+   "prize": 1834696,
+   "winners": 1865
+  },
+  {
+   "prize": 50000,
+   "winners": 99152
+  },
+  {
+   "prize": 5000,
+   "winners": 1716083
+  }
+ ],
+ "total_sales_amount": 81823338000,
+ "winners_combination": {
+  "auto": 3,
+  "semi_auto": 1,
+  "manual": 2
+ }
+}

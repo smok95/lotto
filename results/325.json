@@ -1,0 +1,39 @@
+{
+ "draw_no": 325,
+ "numbers": [
+  7,
+  17,
+  20,
+  32,
+  44,
+  45
+ ],
+ "bonus_no": 33,
+ "date": "2009-02-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1806122450,
+   "winners": 6
+  },
+  {
+   "prize": 54730984,
+   "winners": 33
+  },
+  {
+   "prize": 1435710,
+   "winners": 1258
+  },
+  {
+   "prize": 57677,
+   "winners": 62629
+  },
+  {
+   "prize": 5000,
+   "winners": 1051453
+  }
+ ],
+ "total_sales_amount": 46636979000,
+ "winners_combination": {
+  "auto": 6
+ }
+}

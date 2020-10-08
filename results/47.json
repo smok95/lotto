@@ -1,0 +1,37 @@
+{
+ "draw_no": 47,
+ "numbers": [
+  14,
+  17,
+  26,
+  31,
+  36,
+  45
+ ],
+ "bonus_no": 27,
+ "date": "2003-10-25T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3250042400,
+   "winners": 5
+  },
+  {
+   "prize": 246215300,
+   "winners": 11
+  },
+  {
+   "prize": 3002600,
+   "winners": 902
+  },
+  {
+   "prize": 133400,
+   "winners": 40580
+  },
+  {
+   "prize": 10000,
+   "winners": 679466
+  }
+ ],
+ "total_sales_amount": 67756694000,
+ "winners_combination": {}
+}

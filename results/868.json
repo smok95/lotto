@@ -1,0 +1,40 @@
+{
+ "draw_no": 868,
+ "numbers": [
+  12,
+  17,
+  28,
+  41,
+  43,
+  44
+ ],
+ "bonus_no": 25,
+ "date": "2019-07-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3233804250,
+   "winners": 6
+  },
+  {
+   "prize": 53013185,
+   "winners": 61
+  },
+  {
+   "prize": 1502698,
+   "winners": 2152
+  },
+  {
+   "prize": 50000,
+   "winners": 109133
+  },
+  {
+   "prize": 5000,
+   "winners": 1789491
+  }
+ ],
+ "total_sales_amount": 80549078000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 3
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 596,
+ "numbers": [
+  3,
+  4,
+  12,
+  14,
+  25,
+  43
+ ],
+ "bonus_no": 17,
+ "date": "2014-05-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1328267663,
+   "winners": 10
+  },
+  {
+   "prize": 53994621,
+   "winners": 41
+  },
+  {
+   "prize": 1340872,
+   "winners": 1651
+  },
+  {
+   "prize": 50000,
+   "winners": 80007
+  },
+  {
+   "prize": 5000,
+   "winners": 1313990
+  }
+ ],
+ "total_sales_amount": 56561071000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 3
+ }
+}

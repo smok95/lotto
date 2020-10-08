@@ -1,0 +1,41 @@
+{
+ "draw_no": 757,
+ "numbers": [
+  6,
+  7,
+  11,
+  17,
+  33,
+  44
+ ],
+ "bonus_no": 1,
+ "date": "2017-06-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 739839858,
+   "winners": 21
+  },
+  {
+   "prize": 38079993,
+   "winners": 68
+  },
+  {
+   "prize": 974573,
+   "winners": 2657
+  },
+  {
+   "prize": 50000,
+   "winners": 117353
+  },
+  {
+   "prize": 5000,
+   "winners": 1788667
+  }
+ ],
+ "total_sales_amount": 71053002000,
+ "winners_combination": {
+  "auto": 11,
+  "semi_auto": 1,
+  "manual": 9
+ }
+}

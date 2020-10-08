@@ -1,0 +1,40 @@
+{
+ "draw_no": 586,
+ "numbers": [
+  2,
+  7,
+  12,
+  15,
+  21,
+  34
+ ],
+ "bonus_no": 5,
+ "date": "2014-02-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1778354344,
+   "winners": 8
+  },
+  {
+   "prize": 51546503,
+   "winners": 46
+  },
+  {
+   "prize": 1510280,
+   "winners": 1570
+  },
+  {
+   "prize": 50000,
+   "winners": 80965
+  },
+  {
+   "prize": 5000,
+   "winners": 1346737
+  }
+ ],
+ "total_sales_amount": 59502096000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 4
+ }
+}

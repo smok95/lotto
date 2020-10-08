@@ -1,0 +1,37 @@
+{
+ "draw_no": 171,
+ "numbers": [
+  4,
+  16,
+  25,
+  29,
+  34,
+  35
+ ],
+ "bonus_no": 1,
+ "date": "2006-03-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1961339700,
+   "winners": 6
+  },
+  {
+   "prize": 103228406,
+   "winners": 19
+  },
+  {
+   "prize": 1420232,
+   "winners": 1381
+  },
+  {
+   "prize": 54893,
+   "winners": 71461
+  },
+  {
+   "prize": 5000,
+   "winners": 1113068
+  }
+ ],
+ "total_sales_amount": 50357474000,
+ "winners_combination": {}
+}

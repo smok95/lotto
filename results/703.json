@@ -1,0 +1,39 @@
+{
+ "draw_no": 703,
+ "numbers": [
+  10,
+  28,
+  31,
+  33,
+  41,
+  44
+ ],
+ "bonus_no": 21,
+ "date": "2016-05-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3235784100,
+   "winners": 5
+  },
+  {
+   "prize": 52872290,
+   "winners": 51
+  },
+  {
+   "prize": 1568637,
+   "winners": 1719
+  },
+  {
+   "prize": 50000,
+   "winners": 84194
+  },
+  {
+   "prize": 5000,
+   "winners": 1416580
+  }
+ ],
+ "total_sales_amount": 65728988000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

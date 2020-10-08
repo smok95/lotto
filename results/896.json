@@ -1,0 +1,40 @@
+{
+ "draw_no": 896,
+ "numbers": [
+  5,
+  12,
+  25,
+  26,
+  38,
+  45
+ ],
+ "bonus_no": 23,
+ "date": "2020-02-01T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3053222036,
+   "winners": 7
+  },
+  {
+   "prize": 77436791,
+   "winners": 46
+  },
+  {
+   "prize": 1377453,
+   "winners": 2586
+  },
+  {
+   "prize": 50000,
+   "winners": 128068
+  },
+  {
+   "prize": 5000,
+   "winners": 2066172
+  }
+ ],
+ "total_sales_amount": 90461998000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 2
+ }
+}

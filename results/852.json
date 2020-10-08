@@ -1,0 +1,40 @@
+{
+ "draw_no": 852,
+ "numbers": [
+  11,
+  17,
+  28,
+  30,
+  33,
+  35
+ ],
+ "bonus_no": 9,
+ "date": "2019-03-30T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4801543407,
+   "winners": 4
+  },
+  {
+   "prize": 47776552,
+   "winners": 67
+  },
+  {
+   "prize": 1375013,
+   "winners": 2328
+  },
+  {
+   "prize": 50000,
+   "winners": 114850
+  },
+  {
+   "prize": 5000,
+   "winners": 1876933
+  }
+ ],
+ "total_sales_amount": 81470793000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 1
+ }
+}

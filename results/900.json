@@ -1,0 +1,40 @@
+{
+ "draw_no": 900,
+ "numbers": [
+  7,
+  13,
+  16,
+  18,
+  35,
+  38
+ ],
+ "bonus_no": 14,
+ "date": "2020-02-29T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3349851375,
+   "winners": 6
+  },
+  {
+   "prize": 65683361,
+   "winners": 51
+  },
+  {
+   "prize": 1404550,
+   "winners": 2385
+  },
+  {
+   "prize": 50000,
+   "winners": 113132
+  },
+  {
+   "prize": 5000,
+   "winners": 1872855
+  }
+ ],
+ "total_sales_amount": 83639372000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 1
+ }
+}

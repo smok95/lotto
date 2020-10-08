@@ -1,0 +1,40 @@
+{
+ "draw_no": 830,
+ "numbers": [
+  5,
+  6,
+  16,
+  18,
+  37,
+  38
+ ],
+ "bonus_no": 17,
+ "date": "2018-10-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2060528750,
+   "winners": 9
+  },
+  {
+   "prize": 38634915,
+   "winners": 80
+  },
+  {
+   "prize": 1442948,
+   "winners": 2142
+  },
+  {
+   "prize": 50000,
+   "winners": 106206
+  },
+  {
+   "prize": 5000,
+   "winners": 1764071
+  }
+ ],
+ "total_sales_amount": 77714000000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 3
+ }
+}

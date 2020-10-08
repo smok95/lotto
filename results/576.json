@@ -1,0 +1,40 @@
+{
+ "draw_no": 576,
+ "numbers": [
+  10,
+  11,
+  15,
+  25,
+  35,
+  41
+ ],
+ "bonus_no": 13,
+ "date": "2013-12-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 4321966000,
+   "winners": 3
+  },
+  {
+   "prize": 40018204,
+   "winners": 54
+  },
+  {
+   "prize": 1384359,
+   "winners": 1561
+  },
+  {
+   "prize": 50000,
+   "winners": 76903
+  },
+  {
+   "prize": 5000,
+   "winners": 1242512
+  }
+ ],
+ "total_sales_amount": 54691148000,
+ "winners_combination": {
+  "auto": 1,
+  "manual": 2
+ }
+}

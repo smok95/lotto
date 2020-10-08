@@ -1,0 +1,40 @@
+{
+ "draw_no": 849,
+ "numbers": [
+  5,
+  13,
+  17,
+  29,
+  34,
+  39
+ ],
+ "bonus_no": 3,
+ "date": "2019-03-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1158252883,
+   "winners": 17
+  },
+  {
+   "prize": 58602081,
+   "winners": 56
+  },
+  {
+   "prize": 1223608,
+   "winners": 2682
+  },
+  {
+   "prize": 50000,
+   "winners": 113125
+  },
+  {
+   "prize": 5000,
+   "winners": 1851371
+  }
+ ],
+ "total_sales_amount": 82333674000,
+ "winners_combination": {
+  "auto": 10,
+  "manual": 7
+ }
+}

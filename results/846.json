@@ -1,0 +1,41 @@
+{
+ "draw_no": 846,
+ "numbers": [
+  5,
+  18,
+  30,
+  41,
+  43,
+  45
+ ],
+ "bonus_no": 13,
+ "date": "2019-02-16T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1596884395,
+   "winners": 13
+  },
+  {
+   "prize": 50143713,
+   "winners": 69
+  },
+  {
+   "prize": 1732557,
+   "winners": 1997
+  },
+  {
+   "prize": 50000,
+   "winners": 106009
+  },
+  {
+   "prize": 5000,
+   "winners": 1797728
+  }
+ ],
+ "total_sales_amount": 83936839000,
+ "winners_combination": {
+  "auto": 8,
+  "semi_auto": 1,
+  "manual": 4
+ }
+}

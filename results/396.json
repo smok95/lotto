@@ -1,0 +1,40 @@
+{
+ "draw_no": 396,
+ "numbers": [
+  18,
+  20,
+  31,
+  34,
+  40,
+  45
+ ],
+ "bonus_no": 30,
+ "date": "2010-07-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 5296622400,
+   "winners": 2
+  },
+  {
+   "prize": 51927671,
+   "winners": 34
+  },
+  {
+   "prize": 1468836,
+   "winners": 1202
+  },
+  {
+   "prize": 57336,
+   "winners": 61586
+  },
+  {
+   "prize": 5000,
+   "winners": 1015292
+  }
+ ],
+ "total_sales_amount": 45463736000,
+ "winners_combination": {
+  "auto": 1,
+  "manual": 1
+ }
+}

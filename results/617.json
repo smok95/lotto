@@ -1,0 +1,40 @@
+{
+ "draw_no": 617,
+ "numbers": [
+  4,
+  5,
+  11,
+  12,
+  24,
+  27
+ ],
+ "bonus_no": 28,
+ "date": "2014-09-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1629701860,
+   "winners": 8
+  },
+  {
+   "prize": 50533391,
+   "winners": 43
+  },
+  {
+   "prize": 1090284,
+   "winners": 1993
+  },
+  {
+   "prize": 50000,
+   "winners": 93731
+  },
+  {
+   "prize": 5000,
+   "winners": 1481805
+  }
+ ],
+ "total_sales_amount": 58958123000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 4
+ }
+}

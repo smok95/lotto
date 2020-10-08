@@ -1,0 +1,41 @@
+{
+ "draw_no": 811,
+ "numbers": [
+  8,
+  11,
+  19,
+  21,
+  36,
+  45
+ ],
+ "bonus_no": 25,
+ "date": "2018-06-16T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2524148197,
+   "winners": 7
+  },
+  {
+   "prize": 60098767,
+   "winners": 49
+  },
+  {
+   "prize": 1369057,
+   "winners": 2151
+  },
+  {
+   "prize": 50000,
+   "winners": 104155
+  },
+  {
+   "prize": 5000,
+   "winners": 1703788
+  }
+ ],
+ "total_sales_amount": 74570813000,
+ "winners_combination": {
+  "auto": 4,
+  "semi_auto": 1,
+  "manual": 2
+ }
+}

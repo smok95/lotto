@@ -1,0 +1,40 @@
+{
+ "draw_no": 883,
+ "numbers": [
+  9,
+  18,
+  32,
+  33,
+  37,
+  44
+ ],
+ "bonus_no": 22,
+ "date": "2019-11-02T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1360519525,
+   "winners": 15
+  },
+  {
+   "prize": 52327675,
+   "winners": 65
+  },
+  {
+   "prize": 1340150,
+   "winners": 2538
+  },
+  {
+   "prize": 50000,
+   "winners": 119613
+  },
+  {
+   "prize": 5000,
+   "winners": 1924209
+  }
+ ],
+ "total_sales_amount": 85624171000,
+ "winners_combination": {
+  "auto": 14,
+  "manual": 1
+ }
+}

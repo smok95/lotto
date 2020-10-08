@@ -1,0 +1,37 @@
+{
+ "draw_no": 254,
+ "numbers": [
+  1,
+  5,
+  19,
+  20,
+  24,
+  30
+ ],
+ "bonus_no": 27,
+ "date": "2007-10-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 9741015900,
+   "winners": 1
+  },
+  {
+   "prize": 49197050,
+   "winners": 33
+  },
+  {
+   "prize": 1325309,
+   "winners": 1225
+  },
+  {
+   "prize": 54852,
+   "winners": 59196
+  },
+  {
+   "prize": 5000,
+   "winners": 978906
+  }
+ ],
+ "total_sales_amount": 42259113000,
+ "winners_combination": {}
+}

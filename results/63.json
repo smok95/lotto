@@ -1,0 +1,37 @@
+{
+ "draw_no": 63,
+ "numbers": [
+  3,
+  20,
+  23,
+  36,
+  38,
+  40
+ ],
+ "bonus_no": 5,
+ "date": "2004-02-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 7922245500,
+   "winners": 2
+  },
+  {
+   "prize": 101567200,
+   "winners": 26
+  },
+  {
+   "prize": 3204700,
+   "winners": 824
+  },
+  {
+   "prize": 127200,
+   "winners": 41505
+  },
+  {
+   "prize": 10000,
+   "winners": 712954
+  }
+ ],
+ "total_sales_amount": 67074050000,
+ "winners_combination": {}
+}

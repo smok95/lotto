@@ -1,0 +1,41 @@
+{
+ "draw_no": 675,
+ "numbers": [
+  1,
+  8,
+  11,
+  15,
+  18,
+  45
+ ],
+ "bonus_no": 7,
+ "date": "2015-11-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3514549032,
+   "winners": 4
+  },
+  {
+   "prize": 36046657,
+   "winners": 65
+  },
+  {
+   "prize": 1297361,
+   "winners": 1806
+  },
+  {
+   "prize": 50000,
+   "winners": 88118
+  },
+  {
+   "prize": 5000,
+   "winners": 1415830
+  }
+ ],
+ "total_sales_amount": 60458623000,
+ "winners_combination": {
+  "auto": 1,
+  "semi_auto": 2,
+  "manual": 1
+ }
+}

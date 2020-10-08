@@ -1,0 +1,41 @@
+{
+ "draw_no": 723,
+ "numbers": [
+  20,
+  30,
+  33,
+  35,
+  36,
+  44
+ ],
+ "bonus_no": 22,
+ "date": "2016-10-08T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2114365360,
+   "winners": 8
+  },
+  {
+   "prize": 70478846,
+   "winners": 40
+  },
+  {
+   "prize": 1586469,
+   "winners": 1777
+  },
+  {
+   "prize": 50000,
+   "winners": 85141
+  },
+  {
+   "prize": 5000,
+   "winners": 1412967
+  }
+ ],
+ "total_sales_amount": 67750231000,
+ "winners_combination": {
+  "auto": 3,
+  "semi_auto": 1,
+  "manual": 4
+ }
+}

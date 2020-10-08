@@ -1,0 +1,40 @@
+{
+ "draw_no": 892,
+ "numbers": [
+  4,
+  9,
+  17,
+  18,
+  26,
+  42
+ ],
+ "bonus_no": 36,
+ "date": "2020-01-04T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1282017464,
+   "winners": 17
+  },
+  {
+   "prize": 46569011,
+   "winners": 78
+  },
+  {
+   "prize": 1340858,
+   "winners": 2709
+  },
+  {
+   "prize": 50000,
+   "winners": 134155
+  },
+  {
+   "prize": 5000,
+   "winners": 2155749
+  }
+ ],
+ "total_sales_amount": 93091115000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 9
+ }
+}

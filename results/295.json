@@ -1,0 +1,34 @@
+{
+ "draw_no": 295,
+ "numbers": [
+  1,
+  4,
+  12,
+  16,
+  18,
+  38
+ ],
+ "bonus_no": 8,
+ "date": "2008-07-26T00:00:00Z",
+ "divisions": [
+  {},
+  {
+   "prize": 62969875,
+   "winners": 26
+  },
+  {
+   "prize": 1616207,
+   "winners": 1013
+  },
+  {
+   "prize": 59131,
+   "winners": 55376
+  },
+  {
+   "prize": 5000,
+   "winners": 950380
+  }
+ ],
+ "total_sales_amount": 42248135000,
+ "winners_combination": {}
+}

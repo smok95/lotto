@@ -1,0 +1,41 @@
+{
+ "draw_no": 903,
+ "numbers": [
+  2,
+  15,
+  16,
+  21,
+  22,
+  28
+ ],
+ "bonus_no": 45,
+ "date": "2020-03-21T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1684582212,
+   "winners": 13
+  },
+  {
+   "prize": 74488330,
+   "winners": 49
+  },
+  {
+   "prize": 1575963,
+   "winners": 2316
+  },
+  {
+   "prize": 50000,
+   "winners": 111981
+  },
+  {
+   "prize": 5000,
+   "winners": 1902821
+  }
+ ],
+ "total_sales_amount": 88625160000,
+ "winners_combination": {
+  "auto": 10,
+  "semi_auto": 1,
+  "manual": 2
+ }
+}

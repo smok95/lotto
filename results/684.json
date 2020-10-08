@@ -1,0 +1,39 @@
+{
+ "draw_no": 684,
+ "numbers": [
+  1,
+  11,
+  15,
+  17,
+  25,
+  39
+ ],
+ "bonus_no": 40,
+ "date": "2016-01-09T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1688815709,
+   "winners": 9
+  },
+  {
+   "prize": 40858445,
+   "winners": 62
+  },
+  {
+   "prize": 1287208,
+   "winners": 1968
+  },
+  {
+   "prize": 50000,
+   "winners": 98607
+  },
+  {
+   "prize": 5000,
+   "winners": 1623161
+  }
+ ],
+ "total_sales_amount": 66623887000,
+ "winners_combination": {
+  "auto": 9
+ }
+}

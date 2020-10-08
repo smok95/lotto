@@ -1,0 +1,41 @@
+{
+ "draw_no": 825,
+ "numbers": [
+  8,
+  15,
+  21,
+  31,
+  33,
+  38
+ ],
+ "bonus_no": 42,
+ "date": "2018-09-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1658710563,
+   "winners": 12
+  },
+  {
+   "prize": 62592852,
+   "winners": 53
+  },
+  {
+   "prize": 1475065,
+   "winners": 2249
+  },
+  {
+   "prize": 50000,
+   "winners": 113070
+  },
+  {
+   "prize": 5000,
+   "winners": 1850484
+  }
+ ],
+ "total_sales_amount": 82890578000,
+ "winners_combination": {
+  "auto": 6,
+  "semi_auto": 1,
+  "manual": 5
+ }
+}

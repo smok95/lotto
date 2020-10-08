@@ -1,0 +1,37 @@
+{
+ "draw_no": 144,
+ "numbers": [
+  4,
+  15,
+  17,
+  26,
+  36,
+  37
+ ],
+ "bonus_no": 43,
+ "date": "2005-09-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1402440413,
+   "winners": 8
+  },
+  {
+   "prize": 49208436,
+   "winners": 38
+  },
+  {
+   "prize": 1248279,
+   "winners": 1498
+  },
+  {
+   "prize": 50416,
+   "winners": 74181
+  },
+  {
+   "prize": 5000,
+   "winners": 1180411
+  }
+ ],
+ "total_sales_amount": 49202521000,
+ "winners_combination": {}
+}

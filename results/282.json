@@ -1,0 +1,40 @@
+{
+ "draw_no": 282,
+ "numbers": [
+  2,
+  5,
+  10,
+  18,
+  31,
+  32
+ ],
+ "bonus_no": 30,
+ "date": "2008-04-26T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1322052643,
+   "winners": 7
+  },
+  {
+   "prize": 48199836,
+   "winners": 32
+  },
+  {
+   "prize": 1012735,
+   "winners": 1523
+  },
+  {
+   "prize": 46530,
+   "winners": 66297
+  },
+  {
+   "prize": 5000,
+   "winners": 1020328
+  }
+ ],
+ "total_sales_amount": 41051175000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 3
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 620,
+ "numbers": [
+  2,
+  16,
+  17,
+  32,
+  39,
+  45
+ ],
+ "bonus_no": 40,
+ "date": "2014-10-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2028283233,
+   "winners": 7
+  },
+  {
+   "prize": 53780238,
+   "winners": 44
+  },
+  {
+   "prize": 1424643,
+   "winners": 1661
+  },
+  {
+   "prize": 50000,
+   "winners": 78155
+  },
+  {
+   "prize": 5000,
+   "winners": 1266599
+  }
+ ],
+ "total_sales_amount": 58342777000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 2
+ }
+}

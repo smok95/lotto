@@ -1,0 +1,37 @@
+{
+ "draw_no": 141,
+ "numbers": [
+  8,
+  12,
+  29,
+  31,
+  42,
+  43
+ ],
+ "bonus_no": 2,
+ "date": "2005-08-13T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1900552400,
+   "winners": 6
+  },
+  {
+   "prize": 65536290,
+   "winners": 29
+  },
+  {
+   "prize": 1661323,
+   "winners": 1144
+  },
+  {
+   "prize": 65308,
+   "winners": 58203
+  },
+  {
+   "prize": 5000,
+   "winners": 1000591
+  }
+ ],
+ "total_sales_amount": 48016958000,
+ "winners_combination": {}
+}

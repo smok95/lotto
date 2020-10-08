@@ -1,0 +1,40 @@
+{
+ "draw_no": 355,
+ "numbers": [
+  5,
+  8,
+  29,
+  30,
+  35,
+  44
+ ],
+ "bonus_no": 38,
+ "date": "2009-09-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2145424800,
+   "winners": 5
+  },
+  {
+   "prize": 74493917,
+   "winners": 24
+  },
+  {
+   "prize": 1634236,
+   "winners": 1094
+  },
+  {
+   "prize": 66058,
+   "winners": 54130
+  },
+  {
+   "prize": 5000,
+   "winners": 925997
+  }
+ ],
+ "total_sales_amount": 45017050000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 1
+ }
+}

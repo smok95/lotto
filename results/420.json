@@ -1,0 +1,40 @@
+{
+ "draw_no": 420,
+ "numbers": [
+  4,
+  9,
+  10,
+  29,
+  31,
+  34
+ ],
+ "bonus_no": 27,
+ "date": "2010-12-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1424856375,
+   "winners": 8
+  },
+  {
+   "prize": 54280243,
+   "winners": 35
+  },
+  {
+   "prize": 1600513,
+   "winners": 1187
+  },
+  {
+   "prize": 50000,
+   "winners": 62929
+  },
+  {
+   "prize": 5000,
+   "winners": 1065564
+  }
+ ],
+ "total_sales_amount": 47345476000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 1
+ }
+}

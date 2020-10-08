@@ -1,0 +1,37 @@
+{
+ "draw_no": 91,
+ "numbers": [
+  1,
+  21,
+  24,
+  26,
+  29,
+  42
+ ],
+ "bonus_no": 27,
+ "date": "2004-08-28T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3582902400,
+   "winners": 4
+  },
+  {
+   "prize": 74643800,
+   "winners": 32
+  },
+  {
+   "prize": 1982242,
+   "winners": 1205
+  },
+  {
+   "prize": 74431,
+   "winners": 64183
+  },
+  {
+   "prize": 5000,
+   "winners": 1128902
+  }
+ ],
+ "total_sales_amount": 59061052000,
+ "winners_combination": {}
+}

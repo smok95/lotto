@@ -1,0 +1,40 @@
+{
+ "draw_no": 537,
+ "numbers": [
+  12,
+  23,
+  26,
+  30,
+  36,
+  43
+ ],
+ "bonus_no": 11,
+ "date": "2013-03-16T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2104038911,
+   "winners": 7
+  },
+  {
+   "prize": 70134631,
+   "winners": 35
+  },
+  {
+   "prize": 1699940,
+   "winners": 1444
+  },
+  {
+   "prize": 50000,
+   "winners": 75265
+  },
+  {
+   "prize": 5000,
+   "winners": 1265143
+  }
+ ],
+ "total_sales_amount": 59453323000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 3
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 328,
+ "numbers": [
+  1,
+  6,
+  9,
+  16,
+  17,
+  28
+ ],
+ "bonus_no": 24,
+ "date": "2009-03-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1819795900,
+   "winners": 6
+  },
+  {
+   "prize": 60659864,
+   "winners": 30
+  },
+  {
+   "prize": 1318693,
+   "winners": 1380
+  },
+  {
+   "prize": 54657,
+   "winners": 66590
+  },
+  {
+   "prize": 5000,
+   "winners": 1092107
+  }
+ ],
+ "total_sales_amount": 47316988000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 2
+ }
+}

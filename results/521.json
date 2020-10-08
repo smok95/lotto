@@ -1,0 +1,40 @@
+{
+ "draw_no": 521,
+ "numbers": [
+  3,
+  7,
+  18,
+  29,
+  32,
+  36
+ ],
+ "bonus_no": 19,
+ "date": "2012-11-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1693420922,
+   "winners": 8
+  },
+  {
+   "prize": 42601785,
+   "winners": 53
+  },
+  {
+   "prize": 1400679,
+   "winners": 1612
+  },
+  {
+   "prize": 50000,
+   "winners": 75589
+  },
+  {
+   "prize": 5000,
+   "winners": 1250016
+  }
+ ],
+ "total_sales_amount": 56185373000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

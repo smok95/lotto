@@ -1,0 +1,39 @@
+{
+ "draw_no": 681,
+ "numbers": [
+  21,
+  24,
+  27,
+  29,
+  43,
+  44
+ ],
+ "bonus_no": 7,
+ "date": "2015-12-19T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2696328938,
+   "winners": 6
+  },
+  {
+   "prize": 72873756,
+   "winners": 37
+  },
+  {
+   "prize": 1871152,
+   "winners": 1441
+  },
+  {
+   "prize": 50000,
+   "winners": 73062
+  },
+  {
+   "prize": 5000,
+   "winners": 1282079
+  }
+ ],
+ "total_sales_amount": 63268253000,
+ "winners_combination": {
+  "auto": 6
+ }
+}

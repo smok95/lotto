@@ -1,0 +1,40 @@
+{
+ "draw_no": 902,
+ "numbers": [
+  7,
+  19,
+  23,
+  24,
+  36,
+  39
+ ],
+ "bonus_no": 30,
+ "date": "2020-03-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1619317529,
+   "winners": 13
+  },
+  {
+   "prize": 52365990,
+   "winners": 67
+  },
+  {
+   "prize": 1479141,
+   "winners": 2372
+  },
+  {
+   "prize": 50000,
+   "winners": 119126
+  },
+  {
+   "prize": 5000,
+   "winners": 1945304
+  }
+ ],
+ "total_sales_amount": 87501981000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 5
+ }
+}

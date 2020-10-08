@@ -1,0 +1,40 @@
+{
+ "draw_no": 340,
+ "numbers": [
+  18,
+  24,
+  26,
+  29,
+  34,
+  38
+ ],
+ "bonus_no": 32,
+ "date": "2009-06-06T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1439393186,
+   "winners": 7
+  },
+  {
+   "prize": 47979773,
+   "winners": 35
+  },
+  {
+   "prize": 1492705,
+   "winners": 1125
+  },
+  {
+   "prize": 59752,
+   "winners": 56209
+  },
+  {
+   "prize": 5000,
+   "winners": 930628
+  }
+ ],
+ "total_sales_amount": 42892121000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 3
+ }
+}

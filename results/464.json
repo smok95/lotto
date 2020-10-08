@@ -1,0 +1,40 @@
+{
+ "draw_no": 464,
+ "numbers": [
+  6,
+  12,
+  15,
+  34,
+  42,
+  44
+ ],
+ "bonus_no": 4,
+ "date": "2011-10-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3355721106,
+   "winners": 13
+  },
+  {
+   "prize": 67273025,
+   "winners": 78
+  },
+  {
+   "prize": 1668457,
+   "winners": 3145
+  },
+  {
+   "prize": 50000,
+   "winners": 159899
+  },
+  {
+   "prize": 5000,
+   "winners": 2682564
+  }
+ ],
+ "total_sales_amount": 126772274000,
+ "winners_combination": {
+  "auto": 10,
+  "manual": 3
+ }
+}

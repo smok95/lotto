@@ -1,0 +1,40 @@
+{
+ "draw_no": 889,
+ "numbers": [
+  3,
+  13,
+  29,
+  38,
+  39,
+  42
+ ],
+ "bonus_no": 26,
+ "date": "2019-12-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2108986950,
+   "winners": 10
+  },
+  {
+   "prize": 58582971,
+   "winners": 60
+  },
+  {
+   "prize": 1503413,
+   "winners": 2338
+  },
+  {
+   "prize": 50000,
+   "winners": 114198
+  },
+  {
+   "prize": 5000,
+   "winners": 1907477
+  }
+ ],
+ "total_sales_amount": 86734222000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 6
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 808,
+ "numbers": [
+  15,
+  21,
+  31,
+  32,
+  41,
+  43
+ ],
+ "bonus_no": 24,
+ "date": "2018-05-26T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3087620500,
+   "winners": 6
+  },
+  {
+   "prize": 67122185,
+   "winners": 46
+  },
+  {
+   "prize": 1573711,
+   "winners": 1962
+  },
+  {
+   "prize": 50000,
+   "winners": 95319
+  },
+  {
+   "prize": 5000,
+   "winners": 1597761
+  }
+ ],
+ "total_sales_amount": 74911438000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 2
+ }
+}

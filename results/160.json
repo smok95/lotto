@@ -1,0 +1,37 @@
+{
+ "draw_no": 160,
+ "numbers": [
+  3,
+  7,
+  8,
+  34,
+  39,
+  41
+ ],
+ "bonus_no": 1,
+ "date": "2005-12-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 5490805350,
+   "winners": 2
+  },
+  {
+   "prize": 57195890,
+   "winners": 32
+  },
+  {
+   "prize": 1696264,
+   "winners": 1079
+  },
+  {
+   "prize": 62382,
+   "winners": 58680
+  },
+  {
+   "prize": 5000,
+   "winners": 1022787
+  }
+ ],
+ "total_sales_amount": 46833239000,
+ "winners_combination": {}
+}

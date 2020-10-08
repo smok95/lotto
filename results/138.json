@@ -1,0 +1,37 @@
+{
+ "draw_no": 138,
+ "numbers": [
+  10,
+  11,
+  27,
+  28,
+  37,
+  39
+ ],
+ "bonus_no": 19,
+ "date": "2005-07-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2227152000,
+   "winners": 5
+  },
+  {
+   "prize": 57998750,
+   "winners": 32
+  },
+  {
+   "prize": 1483582,
+   "winners": 1251
+  },
+  {
+   "prize": 60623,
+   "winners": 61230
+  },
+  {
+   "prize": 5000,
+   "winners": 1056925
+  }
+ ],
+ "total_sales_amount": 47688450000,
+ "winners_combination": {}
+}

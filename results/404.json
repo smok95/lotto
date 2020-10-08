@@ -1,0 +1,39 @@
+{
+ "draw_no": 404,
+ "numbers": [
+  5,
+  20,
+  21,
+  24,
+  33,
+  40
+ ],
+ "bonus_no": 36,
+ "date": "2010-08-28T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3566659375,
+   "winners": 3
+  },
+  {
+   "prize": 68589604,
+   "winners": 26
+  },
+  {
+   "prize": 1400888,
+   "winners": 1273
+  },
+  {
+   "prize": 50000,
+   "winners": 63559
+  },
+  {
+   "prize": 5000,
+   "winners": 1050065
+  }
+ ],
+ "total_sales_amount": 45389825000,
+ "winners_combination": {
+  "auto": 3
+ }
+}

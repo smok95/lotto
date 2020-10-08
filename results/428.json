@@ -1,0 +1,40 @@
+{
+ "draw_no": 428,
+ "numbers": [
+  12,
+  16,
+  19,
+  22,
+  37,
+  40
+ ],
+ "bonus_no": 8,
+ "date": "2011-02-12T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1437683209,
+   "winners": 9
+  },
+  {
+   "prize": 71884161,
+   "winners": 30
+  },
+  {
+   "prize": 1375335,
+   "winners": 1568
+  },
+  {
+   "prize": 50000,
+   "winners": 76003
+  },
+  {
+   "prize": 5000,
+   "winners": 1258031
+  }
+ ],
+ "total_sales_amount": 54685007000,
+ "winners_combination": {
+  "auto": 8,
+  "manual": 1
+ }
+}

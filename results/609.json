@@ -1,0 +1,39 @@
+{
+ "draw_no": 609,
+ "numbers": [
+  4,
+  8,
+  27,
+  34,
+  39,
+  40
+ ],
+ "bonus_no": 13,
+ "date": "2014-08-02T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 6339311438,
+   "winners": 2
+  },
+  {
+   "prize": 44959656,
+   "winners": 47
+  },
+  {
+   "prize": 1303581,
+   "winners": 1621
+  },
+  {
+   "prize": 50000,
+   "winners": 80472
+  },
+  {
+   "prize": 5000,
+   "winners": 1300134
+  }
+ ],
+ "total_sales_amount": 54858201000,
+ "winners_combination": {
+  "auto": 2
+ }
+}

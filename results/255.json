@@ -1,0 +1,37 @@
+{
+ "draw_no": 255,
+ "numbers": [
+  1,
+  5,
+  6,
+  24,
+  27,
+  42
+ ],
+ "bonus_no": 32,
+ "date": "2007-10-20T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1598618550,
+   "winners": 6
+  },
+  {
+   "prize": 122970658,
+   "winners": 13
+  },
+  {
+   "prize": 1516716,
+   "winners": 1054
+  },
+  {
+   "prize": 57689,
+   "winners": 55422
+  },
+  {
+   "prize": 5000,
+   "winners": 945297
+  }
+ ],
+ "total_sales_amount": 41425341000,
+ "winners_combination": {}
+}

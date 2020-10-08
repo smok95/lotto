@@ -1,0 +1,37 @@
+{
+ "draw_no": 200,
+ "numbers": [
+  5,
+  6,
+  13,
+  14,
+  17,
+  20
+ ],
+ "bonus_no": 7,
+ "date": "2006-09-30T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1344616613,
+   "winners": 8
+  },
+  {
+   "prize": 30910727,
+   "winners": 58
+  },
+  {
+   "prize": 1292590,
+   "winners": 1387
+  },
+  {
+   "prize": 54137,
+   "winners": 66233
+  },
+  {
+   "prize": 5000,
+   "winners": 1078398
+  }
+ ],
+ "total_sales_amount": 46640423000,
+ "winners_combination": {}
+}

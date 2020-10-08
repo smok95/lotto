@@ -1,0 +1,39 @@
+{
+ "draw_no": 365,
+ "numbers": [
+  5,
+  15,
+  21,
+  25,
+  26,
+  30
+ ],
+ "bonus_no": 31,
+ "date": "2009-11-28T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 10697716800,
+   "winners": 1
+  },
+  {
+   "prize": 50941509,
+   "winners": 35
+  },
+  {
+   "prize": 1509698,
+   "winners": 1181
+  },
+  {
+   "prize": 57081,
+   "winners": 62472
+  },
+  {
+   "prize": 5000,
+   "winners": 1014701
+  }
+ ],
+ "total_sales_amount": 45806066000,
+ "winners_combination": {
+  "auto": 1
+ }
+}

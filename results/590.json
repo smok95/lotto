@@ -1,0 +1,40 @@
+{
+ "draw_no": 590,
+ "numbers": [
+  20,
+  30,
+  36,
+  38,
+  41,
+  45
+ ],
+ "bonus_no": 23,
+ "date": "2014-03-22T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2185183983,
+   "winners": 7
+  },
+  {
+   "prize": 82238107,
+   "winners": 31
+  },
+  {
+   "prize": 1860863,
+   "winners": 1370
+  },
+  {
+   "prize": 50000,
+   "winners": 70019
+  },
+  {
+   "prize": 5000,
+   "winners": 1221113
+  }
+ ],
+ "total_sales_amount": 60003131000,
+ "winners_combination": {
+  "auto": 4,
+  "manual": 3
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "draw_no": 775,
+ "numbers": [
+  11,
+  12,
+  29,
+  33,
+  38,
+  42
+ ],
+ "bonus_no": 17,
+ "date": "2017-10-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3470437650,
+   "winners": 5
+  },
+  {
+   "prize": 78163011,
+   "winners": 37
+  },
+  {
+   "prize": 1682392,
+   "winners": 1719
+  },
+  {
+   "prize": 50000,
+   "winners": 91297
+  },
+  {
+   "prize": 5000,
+   "winners": 1539325
+  }
+ ],
+ "total_sales_amount": 70795452000,
+ "winners_combination": {
+  "auto": 5
+ }
+}

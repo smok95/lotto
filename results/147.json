@@ -1,0 +1,37 @@
+{
+ "draw_no": 147,
+ "numbers": [
+  4,
+  6,
+  13,
+  21,
+  40,
+  42
+ ],
+ "bonus_no": 36,
+ "date": "2005-09-24T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1700040215,
+   "winners": 7
+  },
+  {
+   "prize": 56668008,
+   "winners": 35
+  },
+  {
+   "prize": 1632412,
+   "winners": 1215
+  },
+  {
+   "prize": 63558,
+   "winners": 62412
+  },
+  {
+   "prize": 5000,
+   "winners": 1067800
+  }
+ ],
+ "total_sales_amount": 50345605000,
+ "winners_combination": {}
+}

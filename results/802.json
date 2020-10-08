@@ -1,0 +1,40 @@
+{
+ "draw_no": 802,
+ "numbers": [
+  10,
+  11,
+  12,
+  18,
+  24,
+  42
+ ],
+ "bonus_no": 27,
+ "date": "2018-04-14T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1082947993,
+   "winners": 16
+  },
+  {
+   "prize": 43102408,
+   "winners": 67
+  },
+  {
+   "prize": 1308501,
+   "winners": 2207
+  },
+  {
+   "prize": 50000,
+   "winners": 107980
+  },
+  {
+   "prize": 5000,
+   "winners": 1814300
+  }
+ ],
+ "total_sales_amount": 75146781000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 11
+ }
+}

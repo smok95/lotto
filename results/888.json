@@ -1,0 +1,40 @@
+{
+ "draw_no": 888,
+ "numbers": [
+  3,
+  7,
+  12,
+  31,
+  34,
+  38
+ ],
+ "bonus_no": 32,
+ "date": "2019-12-07T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2370359204,
+   "winners": 8
+  },
+  {
+   "prize": 53567440,
+   "winners": 59
+  },
+  {
+   "prize": 1288414,
+   "winners": 2453
+  },
+  {
+   "prize": 50000,
+   "winners": 123025
+  },
+  {
+   "prize": 5000,
+   "winners": 1990715
+  }
+ ],
+ "total_sales_amount": 82777313000,
+ "winners_combination": {
+  "auto": 5,
+  "manual": 3
+ }
+}

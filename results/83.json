@@ -1,0 +1,37 @@
+{
+ "draw_no": 83,
+ "numbers": [
+  6,
+  10,
+  15,
+  17,
+  19,
+  34
+ ],
+ "bonus_no": 14,
+ "date": "2004-07-03T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 7086948300,
+   "winners": 2
+  },
+  {
+   "prize": 157487740,
+   "winners": 15
+  },
+  {
+   "prize": 2775930,
+   "winners": 851
+  },
+  {
+   "prize": 102880,
+   "winners": 45924
+  },
+  {
+   "prize": 10000,
+   "winners": 763287
+  }
+ ],
+ "total_sales_amount": 62512062000,
+ "winners_combination": {}
+}

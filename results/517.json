@@ -1,0 +1,40 @@
+{
+ "draw_no": 517,
+ "numbers": [
+  1,
+  9,
+  12,
+  28,
+  36,
+  41
+ ],
+ "bonus_no": 10,
+ "date": "2012-10-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 2659057725,
+   "winners": 5
+  },
+  {
+   "prize": 55397036,
+   "winners": 40
+  },
+  {
+   "prize": 1484181,
+   "winners": 1493
+  },
+  {
+   "prize": 50000,
+   "winners": 70854
+  },
+  {
+   "prize": 5000,
+   "winners": 1192872
+  }
+ ],
+ "total_sales_amount": 54468223000,
+ "winners_combination": {
+  "auto": 3,
+  "manual": 2
+ }
+}

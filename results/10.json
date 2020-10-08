@@ -1,0 +1,37 @@
+{
+ "draw_no": 10,
+ "numbers": [
+  9,
+  25,
+  30,
+  33,
+  41,
+  44
+ ],
+ "bonus_no": 6,
+ "date": "2003-02-08T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 6430437900,
+   "winners": 13
+  },
+  {
+   "prize": 40813400,
+   "winners": 236
+  },
+  {
+   "prize": 856400,
+   "winners": 11247
+  },
+  {
+   "prize": 27300,
+   "winners": 703234
+  },
+  {
+   "prize": 10000,
+   "winners": 3410846
+  }
+ ],
+ "total_sales_amount": 260856392000,
+ "winners_combination": {}
+}

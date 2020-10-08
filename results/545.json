@@ -1,0 +1,40 @@
+{
+ "draw_no": 545,
+ "numbers": [
+  4,
+  24,
+  25,
+  27,
+  34,
+  35
+ ],
+ "bonus_no": 2,
+ "date": "2013-05-11T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1198994353,
+   "winners": 11
+  },
+  {
+   "prize": 52337056,
+   "winners": 42
+  },
+  {
+   "prize": 1468375,
+   "winners": 1497
+  },
+  {
+   "prize": 50000,
+   "winners": 77301
+  },
+  {
+   "prize": 5000,
+   "winners": 1306657
+  }
+ ],
+ "total_sales_amount": 55967171000,
+ "winners_combination": {
+  "auto": 9,
+  "manual": 2
+ }
+}

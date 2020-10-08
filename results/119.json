@@ -1,0 +1,37 @@
+{
+ "draw_no": 119,
+ "numbers": [
+  3,
+  11,
+  13,
+  14,
+  17,
+  21
+ ],
+ "bonus_no": 38,
+ "date": "2005-03-12T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1474899400,
+   "winners": 9
+  },
+  {
+   "prize": 45149982,
+   "winners": 49
+  },
+  {
+   "prize": 1142743,
+   "winners": 1936
+  },
+  {
+   "prize": 51856,
+   "winners": 85327
+  },
+  {
+   "prize": 5000,
+   "winners": 1355365
+  }
+ ],
+ "total_sales_amount": 57800632000,
+ "winners_combination": {}
+}

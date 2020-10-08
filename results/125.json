@@ -1,0 +1,37 @@
+{
+ "draw_no": 125,
+ "numbers": [
+  2,
+  8,
+  32,
+  33,
+  35,
+  36
+ ],
+ "bonus_no": 18,
+ "date": "2005-04-23T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 1754870786,
+   "winners": 7
+  },
+  {
+   "prize": 56870813,
+   "winners": 36
+  },
+  {
+   "prize": 1417832,
+   "winners": 1444
+  },
+  {
+   "prize": 55140,
+   "winners": 74261
+  },
+  {
+   "prize": 5000,
+   "winners": 1220272
+  }
+ ],
+ "total_sales_amount": 53149705000,
+ "winners_combination": {}
+}

@@ -1,0 +1,40 @@
+{
+ "draw_no": 411,
+ "numbers": [
+  11,
+  14,
+  22,
+  35,
+  37,
+  39
+ ],
+ "bonus_no": 5,
+ "date": "2010-10-16T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 953227563,
+   "winners": 12
+  },
+  {
+   "prize": 52957087,
+   "winners": 36
+  },
+  {
+   "prize": 1446476,
+   "winners": 1318
+  },
+  {
+   "prize": 50000,
+   "winners": 63403
+  },
+  {
+   "prize": 5000,
+   "winners": 1041554
+  }
+ ],
+ "total_sales_amount": 47259122000,
+ "winners_combination": {
+  "auto": 7,
+  "manual": 5
+ }
+}

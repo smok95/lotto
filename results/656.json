@@ -1,0 +1,39 @@
+{
+ "draw_no": 656,
+ "numbers": [
+  3,
+  7,
+  14,
+  16,
+  31,
+  40
+ ],
+ "bonus_no": 39,
+ "date": "2015-06-27T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 7330002750,
+   "winners": 2
+  },
+  {
+   "prize": 50902797,
+   "winners": 48
+  },
+  {
+   "prize": 1398589,
+   "winners": 1747
+  },
+  {
+   "prize": 50000,
+   "winners": 83772
+  },
+  {
+   "prize": 5000,
+   "winners": 1385757
+  }
+ ],
+ "total_sales_amount": 61328118000,
+ "winners_combination": {
+  "auto": 2
+ }
+}

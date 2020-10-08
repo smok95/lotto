@@ -1,0 +1,40 @@
+{
+ "draw_no": 309,
+ "numbers": [
+  1,
+  2,
+  5,
+  11,
+  18,
+  36
+ ],
+ "bonus_no": 22,
+ "date": "2008-11-01T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 901622946,
+   "winners": 11
+  },
+  {
+   "prize": 66119016,
+   "winners": 25
+  },
+  {
+   "prize": 1189191,
+   "winners": 1390
+  },
+  {
+   "prize": 47826,
+   "winners": 69125
+  },
+  {
+   "prize": 5000,
+   "winners": 1109802
+  }
+ ],
+ "total_sales_amount": 44157528000,
+ "winners_combination": {
+  "auto": 9,
+  "manual": 2
+ }
+}

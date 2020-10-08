@@ -1,0 +1,40 @@
+{
+ "draw_no": 907,
+ "numbers": [
+  21,
+  27,
+  29,
+  38,
+  40,
+  44
+ ],
+ "bonus_no": 37,
+ "date": "2020-04-18T00:00:00Z",
+ "divisions": [
+  {
+   "prize": 3165059036,
+   "winners": 7
+  },
+  {
+   "prize": 55112969,
+   "winners": 67
+  },
+  {
+   "prize": 1605465,
+   "winners": 2300
+  },
+  {
+   "prize": 50000,
+   "winners": 112189
+  },
+  {
+   "prize": 5000,
+   "winners": 1903128
+  }
+ ],
+ "total_sales_amount": 89331282000,
+ "winners_combination": {
+  "auto": 6,
+  "manual": 1
+ }
+}
