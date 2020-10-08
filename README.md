@@ -17,43 +17,19 @@ https://smok95.github.io/lotto/results/latest.json
 ```code
 {
  "draw_no": 929,
- "numbers": [
-  7,
-  9,
-  12,
-  15,
-  19,
-  23
- ],
+ "numbers": [7, 9, 12, 15, 19, 23],
  "bonus_no": 4,
  "date": "2020-09-19T00:00:00Z",
  "divisions": [
-  {
-   "prize": 1308035157,
-   "winners": 16
-  },
-  {
-   "prize": 38330701,
-   "winners": 91
-  },
-  {
-   "prize": 1151947,
-   "winners": 3028
-  },
-  {
-   "prize": 50000,
-   "winners": 140880
-  },
-  {
-   "prize": 5000,
-   "winners": 2244712
-  }
+  {"prize": 1308035157, "winners": 16},
+  {"prize": 38330701, "winners": 91},
+  {"prize": 1151947, "winners": 3028},
+  {"prize": 50000, "winners": 140880},
+  {"prize": 5000, "winners": 2244712}
  ],
  "total_sales_amount": 92344620000,
  "winners_combination": {
-  "auto": 9,
-  "semi_auto": 1,
-  "manual": 6
+  "auto": 9, "semi_auto": 1, "manual": 6
  }
 }
 ```
@@ -68,10 +44,10 @@ divisions: 1~5등 당첨인원 및 1인당 당첨금액
 ]
 total_sales_amount: 총 판매액
 winners_combination: 번호조합방식별 1등 인원수
-[
+{
     auto: 자동 인원수
     semi_auto: 반자동 인원수
     manual: 수동 인원수
-]
+}
 ```
 
