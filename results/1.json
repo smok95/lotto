@@ -1,0 +1,34 @@
+{
+ "draw_no": 1,
+ "numbers": [
+  10,
+  23,
+  29,
+  33,
+  37,
+  40
+ ],
+ "bonus_no": 16,
+ "date": "2002-12-07T00:00:00Z",
+ "divisions": [
+  {},
+  {
+   "prize": 143934100,
+   "winners": 1
+  },
+  {
+   "prize": 5140500,
+   "winners": 28
+  },
+  {
+   "prize": 113400,
+   "winners": 2537
+  },
+  {
+   "prize": 10000,
+   "winners": 40155
+  }
+ ],
+ "total_sales_amount": 3681782000,
+ "winners_combination": {}
+}
