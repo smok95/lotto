@@ -11,11 +11,27 @@
  "bonus_no": 5,
  "date": "2020-10-10T00:00:00Z",
  "divisions": [
-  {},
-  {},
-  {},
-  {},
-  {}
+  {
+   "prize": 3390022983,
+   "winners": 7
+  },
+  {
+   "prize": 61797294,
+   "winners": 64
+  },
+  {
+   "prize": 1634309,
+   "winners": 2420
+  },
+  {
+   "prize": 50000,
+   "winners": 120969
+  },
+  {
+   "prize": 5000,
+   "winners": 2067196
+  }
  ],
+ "total_sales_amount": 96049289000,
  "winners_combination": {}
 }
