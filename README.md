@@ -12,6 +12,10 @@ https://smok95.github.io/lotto/results/{회차번호}.json
 ```
 https://smok95.github.io/lotto/results/latest.json
 ```
+전체회차 조회
+```
+https://smok95.github.io/lotto/results/all.json
+```
 
 ### 형식
 ```code
@@ -43,7 +47,7 @@ divisions: 1~5등 당첨인원 및 1인당 당첨금액
     winners: 당첨인원
 ]
 total_sales_amount: 총 판매액
-winners_combination: 번호조합방식별 1등 인원수
+winners_combination: 1등 번호선택유형
 {
     auto: 자동 인원수
     semi_auto: 반자동 인원수
